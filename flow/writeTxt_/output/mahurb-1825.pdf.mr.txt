@@ -33,10 +33,56 @@
 १६ नोव्हेंबर, २०२२ रोजीच्या पत्रान्वये दिलेल्या तांत्रिक मान्यतेच्या अधीन राहून खालील
 विवरणपत्रात नमूद केल्यानुसार या शासन निर्णयाद्वारे मंजूरी देण्यात येत आहे. या
 प्रकल्पातील उपांगे व त्यांचे किंमतीचे विवरण पुढीलप्रमाणे आहे.
+--------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | PARTICULARS | AMOUNT |
+|  | From Khadakpurna Dam |  |
+| 1 | Working Survey | 500000 |
+| 2 | Approach Bridge From Existing Jack Well To Newly Constructed Intake well in Emergency 110 m Long | 6139800 |
+| 3 | Switch Room 4.54 X 3.04 M Size On Bridge Near Newly Constructed 4 m dia. Jack Well | 325950 |
+| 4 | Water Treatment Plant Capacity 8.00 MLD | 37474950 |
+| 5 | Interconnection of Proposed & Existing WTP | 1326700 |
+| 6 | Pure Water Pumping Machinery |  |
+|  | i) Providing, erecting, commissioning & testing of Centrifugal Monoblock pump set with allied works to lift Pure water from Prop. WTP 2 | 3244700 |
+|  | ii) Providing, erecting, commissioning & testing of Centrifugal Monoblock pump set with allied works to lift Pure water from Ex. WTP 1 | 320450 |
+| 7 | Pure Water Rising Main 200 mm dia D.I K-9 L -580 M. | 2555750 |
+| 8 | RCC E.S.R - 608000 Liter capacity 14 M Staging, 497000 Liter capacity 12 M Staging & 397000 Liter capacity 16 M Staging | 25416600 |
+| 9 | RCC G.S.R - 239000 Liter capacity | 2960700 |
+| 10 | Distribution System - | 134865000 |
+| From 300 mm dia. To 100mm dia. HDPE & D.I K-7 pipes - 73.808 Km |
+| 11 | Road Reinstating | 34053100 |
+| 12 | Trial Run | 608500 |
+| 13 | Miscellaneos Works | 5001300 |
+|  | Total (A) | 254793500 |
+--------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ९ पैकी२
 # Page 3
 शासननिर्णयक्रमांकः नगरो-२०२३/प्र.क्र.१९४/नवि-३३
+------------------------------------------------------------------------------------------------------
+|  | From Saokhed Bhoi Dam |  |
+| 1 | Dismentalling of Existing 300 mm dia.D.I K-9 Pipes From Pirkalyan Dam to Deulgaon Raja WTP | 2559250 |
+| 2 | Open Channel At Sawkhed Bhoi Dam | 1516500 |
+| 3 | Jack Well In The Submergence of Sawkhed Bhoi Dam | 5745850 |
+| 4 | Approach Bridge 120 M Long | 6682750 |
+| 5 | Raw Water Pumping Machinery | 5064700 |
+| On Proposed Intake Well At Sawkhed Bhoi Dam |
+| 6 | Raw Water Rising Main From Proposed Intake Well at Sawkhed Bhoi To Existing WTP | 9705350 |
+|  | Total (B) | 31274400 |
+|  | Total ( A + B ) | 286067900 |
+|  | Add 18% GST On Estimated Cost | 51492222 |
+|  | TOTAL | 337560122 |
+|  | Add 1% Insurance Charges on PWD Items | 373297 |
+|  | Total | 337933419 |
+|  | Add 1% Technical Sanction Charges | 2860679 |
+|  | Total | 340794098 |
+|  | Say Rs. | 34.08 Cr. |
+|  | प्रकल्प पूर्ण करण्याचा कालावधी | कार्यादेश दिनांका पासून 18 महिने |
+------------------------------------------------------------------------------------------------------
 ०२. देऊळगाव राजा नगरपरिषदेचा पाणी पुरवठा प्रकल्प वित्तीय आकृतिबंध पुढीलप्रमाणे राहील:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| अ.क्र. | नागरी स्थानिक स्वराज्य संस्थेचे नाव | योजनेची मंजूर किंमत | राज्य शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ९०%) | नागरी स्थानिक स्वराज्य संस्थेचा सहभाग (प्रकल्प किंमतीच्या १०%) |
+| १ | २ | ३ | ४ | ५ |
+| १ | देऊळगाव राजा नगरपरिषद | रु.३४.०८ कोटी | रु.३०.६७२ कोटी | रु.३.४०८ कोटी |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०३. संदर्भाधीन क्रमांक १ येथील शासन निर्णयानुसार देऊळगाव राजा नगरपरिषदेच्या पाणी पुरवठा प्रकल्पास खालील अटींच्या अधीन राहून प्रशासकीय मंजूरी देण्यात येत आहे: अ) प्रकल्प कार्यान्वयन यंत्रणा :
 १. सदर प्रकल्पाचे कार्यान्वयन देऊळगाव राजा नगरपरिषदेमार्फतकरण्यात यावे.
 २. सदर प्रकल्पासाठी प्रकल्प व्यवस्थापन सल्लागार (PMC) नेमण्यासाठी केंद्र पुरस्कृत

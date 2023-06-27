@@ -27,10 +27,50 @@
 सार्वजनिक बांधकाम विभागाने दिलेल्या तांत्रिक मान्यतेच्या अधीन राहून खालील विवरणपत्रात नमूद
 केल्यानुसार या शासन निर्णयाद्वारे मंजूरी देण्यात येत आहे. या प्रकल्पातील उपांगे व त्यांचे किंमतीचे
 विवरण पुढीलप्रमाणे आहे :
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Name of Work | Length ( Km ) | Cost (Rs.) |
+| 1 | Construction of Mosam Bridge on Mosam River | 0.090 | 66278432 |
+| 2 | Construction of Sandawa Bridge on Mosam River | 0.060 | 18241407 |
+| 3 | Construction of Bridge from Dr. Babasaheb Ambedkar Nagar to Dyane | 0.080 | 40146404 |
+| 4 | Construction of Cement Road From Old Agra Road Girana Bridge to Mosam Pool to Flyover Bridge | 2.10 | 193524219 |
+| 5 | Construction of Cement Road from Malegaon Camp, College Stop to Ravalgaon Naka to Church Gate And Ravalgaon Naka to Camp Talathi Office | 2.90 | 239783023 |
+| 6 | Construction of Cement Road From Soygaon Surywanshi Lawns to Krushi Nagar to Gocind Nagar to Nampur Road | 2.0 | 28710864 |
+| 7 | Construction of Cement Road from Sant Rohidas Chawk and Swatra Veer Sawarkar Chauwk to Sawant Hospital | 0.8 | 36344529 |
+| 8 | Construction of Cement Road from Satana Road Shivaji Ramchandra Jwelers to State Bank of Camp Road | 0.45 | 18133304 |
+| 9 | Construction of Cement Road from Shriram Complex to Paras Super Market | 0.30 | 8666497 |
+| 10 | Construction of Cement Road at nearest area of Bag A Mahemood | 0.271 | 4444817 |
+| 11 | Construction of Cement Road from Kulsum Masjid to Dyane Shiv Road | 0.70 | 16268504 |
+| 12 | Construction of Cement Road from Panch Ratan Chauwk to Dyane Kharadi Road | 1.0 | 20900683 |
+| 13 | Construction of Cement Road from Milan Hotel to Mustafa Workshop | 1.25 | 28715636 |
+| 14 | Construction of Cement Road from Millat Madarasa to Owadi Nala | 0.8006 | 25942548 |
+| 15 | Construction of Cement Road from Old Taj Hotel to Mumtaj Chauwk | 0.525 | 13854531 |
+| 16 | Construction of Cement Road from Mirza Galib Road Trolly Chauwk | 0.40 | 15257068 |
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ८ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः नगरो-२०२२/प्र.क्र.११०/नवि-३३
+------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Name of Work | Length (Km) | Cost (Rs.) |
+| 17 | Construction of Cement Road from Slaughter House to Raja Chauwk to Bismilla Chauwk to Owadi Nala | 0.50 | 14565866 |
+| 18 | Construction of Cement Road from Kusumba Road, Kharadi Road to Ganesh Nagar Toilet to Anad Factory | 0.40 | 7377925 |
+| 19 | Construction of Cement Road from Satana Road Vaidya Hospital to Old Agra Road | 0.60 | 11844784 |
+| 20 | Construction of Cement Road from Lodha Market to Garej Line to Old Agra Road | 0.50 | 14710132 |
+| 21 | Construction of Cement Road from Ramsetu Bridge to Allama Ikbal Bridge to Motibaug Naka and Madav Fad to Bhawani Chauwk | 1.10 | 30047757 |
+| 22 | Construction of Cement Road from Sambhaji Colony to Lakhan Dairy | 0.50 | 16036872 |
+|  | Total |  | 869795802 |
+|  | QC & Testing Charges + Royalty |  | 22758652 |
+|  | Total cost with QC & Royalty (A) |  | 892554454 |
+|  | G.S.T 12% (on Work Portion) (B) |  | 104375496 |
+|  | Total Cost (A+B) |  | 996929950 |
+|  | Say Rs. |  | 99.69 Cr. |
+|  | प्रकल्प पूर्ण करण्याचा कालावधी | कार्यादेश दिनांकापासून १८ महिने |
+------------------------------------------------------------------------------------------------------------------------------------------
 ०२. मालेगांव महानगरपालिकेच्या रस्ते विकास प्रकल्पाचा वित्तीय आकृतिबंध पुढीलप्रमाणे राहील:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| अ.क्र. | नागरी स्थानिक स्वराज्य संस्थेचे नाव | योजनेची मंजूर किंमत | राज्य शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ७०%) | नागरी स्थानिक स्वराज्य संस्थेचा सहभाग (प्रकल्प किंमतीच्या ३०%) |
+| १ | २ | ३ | ४ | ५ |
+| १ | मालेगांव महानगरपालिका | रु.९९.६९ कोटी | रु.६९.७८ कोटी | रु.२९.९१ कोटी |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०३. संदर्भाधीन क्रमांक १ येथील शासन निर्णयानुसार मालेगांव महानगरपालिकेच्या रस्ते विकास
 प्रकल्पास खालील अटींच्या अधीन राहून प्रशासकीय मंजूरी देण्यात येत आहे:
 अ) प्रकल्प कार्यान्वयन यंत्रणा :

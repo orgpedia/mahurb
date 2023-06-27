@@ -20,12 +20,81 @@
 केल्यानुसार या शासन निर्णयाद्वारे प्रशासकीय मान्यता देण्यात येत आहे. सदर प्रकल्पाच्या वित्तीय
 आकृतिबंध पुढीलप्रमाणे :
 (रु. कोटीमध्ये)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| नागरी स्थानिक स्वराज्य संस्थेचे नाव | प्रकल्प किंमत | केंद्र शासनामार्फत अनुज्ञेय अनुदान ( प्रकल्प किंमतीच्या २५%) | राज्य शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ४५% ) | नागरी स्थानिक स्वराज्य संस्थेचा हिस्सा (प्रकल्प किंमतीच्या ३०%) |
+| १ | २ | ३ | ४ | ५ |
+| ठाणे महानगरपालिका | ३२३.७२ | ८०.९३ | १४५.६७४ | ९७.११६ |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०२. ठाणे महानगरपालिकेच्या पाणीपुरवठा प्रकल्पातील घटक व त्यांचे अंदाजित किंमतीचे विवरण
 पुढीलप्रमाणे आहे.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Project Components | Cost |
+| A | For Manpada |  |
+| 1 | Providing & Constructing 1 nos Master Balancing Reservoirs of 10ML at Patalipada for North zone of Thane City. | 128186200 |
+| 2 | Providing, laying of Gravity Feeder Network from MBR to ESR SUMPS from 150mm to 1500mm dia MS DI/MS of 14.452 Km | 547931110 |
+| 3 | Providing and constructing commissioning of new Pumping Machinery at new locations & revamping of existing pumping machinery and allied electrical works including automation of pumping stations at various zones | 65646053 |
+| 4 | Providing, laying of Rising main Network from sumps to ESR from 200 mm to 1500mm dia DI K-9 for the length of 1.203 Km | 31144210 |
+| 5 | Providing & Constructing Elevated Service Reservoirs from 2.5 ML and staging height from 20 to 30M 2-2 no's of ESR | 71496190 |
+| 6 | Water Supply Distribution Network for 94 nos of DMA pipe dia range from 150mm to 600m dia Dil K-9 and length of 23.407 Km | 129967289 |
+| 7 | Providing and fixing Full Bore Electromagnetic Bulk Water Meter in feeder main, ESR Inlet and DMA meter for Equitable Water Distribution in Network | 26663327 |
+| 8 | Construction of Plinth Protection, Compound Wall Watchman Cabin & Miscellanedus work in ESR Campus | 18035100 |
+| 9 | National Highway crossing by Trenchless Technology for Pipeline Laying | 20908370 |
+| 10 | Road Restraining: Repaus for Excavated trenches for pipe line laying | 94909141 |
+| 11 | Utility Shifting for laying of pipe network | 5743727 |
+|  | Total (A) | 1140630717 |
+| 12 | Provisional Sum for various works Like Highway Crossing and Railway Crossing, Express Feeder for Electrical Work | 12128967 |
+|  | Add Royalty Charges | 2963527 |
+|  | Add 1 % for labour Insurance on PWD Items | 2705486 |
+|  | Grand Total A | 1158428697 |
+| B | For Central And East |  |
+| 1 | Providing, laying of Gravity Feeder Network from MBR to ESA SUMPS from 150mm to 1500mm dia MS DI/MS of 13.138 Km | 204342890 |
+| 2 | Providing & Constructing Sump and Pump House for 02 nos of locations, capacity from 0.5 ML to 1.5 Ml including all civil works of pumping station. | 24103940 |
+| 3 | Providing and constructing commissioning of new Pumping Machinery at new locations & revamping of existing pumping machinery and allied electrical works including automation of pumping stations at various zones | 59237131 |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ७पैकी२
 # Page 3
 शासन निर्णय क्रमांक : अमृत-२०२३/प्र.क्र.८२/नवि-३३
 Providing, laving of Rising main Network from sumps to ESR from 200 mm 4 25614320 to 1500mm dia Dt K-9 for the length of 1.640 Km
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| 5 | Providing & Constructing Elevated Service Reservoirs from 0.5 ML to 3.0 ML and staging height from 15 to 30M 4+5 =09 no's of ESR | 395830535 |
+| 6 | Water Supply Distribution Network for 94 nos of DMA pipe dia range from 150mm to 600m dia DI K-9 and length of 2.700 Km | 83965801 |
+| 7 | Providing and fixing Full Bore Electromagnetic Bulk Water Meter in feeder main, ESR Inlet and DMA meter for Equitable Water Distribution in Network. | 36163982 |
+| 8 | Construction of Plinth Protection, Compound Wall Watchman Cabin & Miscellaneous work in ESR Campus. | 31186650 |
+| 9 | National Highway crossing by Trenchless Technology for Pipeline Laying | 7922130 |
+| 10 | Road Restraining: Repairs for Excavated trenches for pipe line laying | 66573608 |
+| 11 | Utility Shifting for laying of pipe network | 5743727 |
+|  | Total (B) | 940684714 |
+| 12 | Provisional Sum for various works Like Highway Crossing and Railway Crossing, Express Feeder for Electrical Work | 4164967 |
+|  | Add Royalty Charges | 2963527 |
+|  | Add 1 % for labour Insurance on PWD Items | 2705486 |
+|  | Grand Total B | 950518694 |
+| C | For Vartak |  |
+| 1 | Providing, laying of Gravity Feeder Network from MBR to ESR/SUMPS from 150mm to 1500mm dia MS DI/MS of 3.366Km | 103692310 |
+| 2 | Providing & Constructing Sump and Pump House for 02 nos of locations, capacity from 0.5 ML to 1.5 ML including all civil works of pumpoing stations | 11029190 |
+| 3 | Providing and constructing commissioning of new Pumping Machinery at new locations & revamping of existing pumping machinery and allied electrical works including automation of pumping stations at various zones | 25843935 |
+| 4 | Providing, laying of Rising main Network from sumps to ESR from 300 mm to 1500mm dia DI K-9 for the length of 3.530 Km | 20080230 |
+| 5 | Providing & Constructing Elevated Service Reservoirs from 0.5 ML to 3.0 ML and staging height from 15 to 30M 2+2=4 no's ofESR | 102966840 |
+| 6 | Water Supply Distribution Network for 94 nos of DMA pipe dia range from 150mm to 600m dia DI K-9 and length of 21.445 Km | 171048292 |
+| 7 | Providing and fixing Full Bore Electromagnetic Bulk Water Meter in feeder main, ESR Inlet and DMA meter for Equitable Water Distribution in Network | 17046893 |
+| 8 | Construction of Plinth Protection, Compound Wall Watchman Cabin & Miscellaneous work in ESR Campus. | 5111940 |
+| 9 | National Highway Crossing by Trenchiess Technology for pipeline laying | 55893130 |
+| 10 | Road Restraining : Repairs for Excavated trenches for pipe line laying | 85076699 |
+|  | Utility Shifting for laying of pipe network | 5743727 |
+| 12 | Trail Run for 1 year | 1353568 |
+|  | Total (C) | 604886754 |
+| 13 | Provisional Sum for various works Like Highway Crossing and Railway Crossing, Express Feeder for Electrical Work | 7314966 |
+|  | Add Royalty Charges | 2963527 |
+|  | Add 1 % for labour Insurance on PWD Items | 2705486 |
+|  | Grand Total | 617870733 |
+|  | Grand Total A+B+C (D) | 2686202185 |
+|  | Add 18% GST on D | 483516393 |
+|  | Total (E) | 3169718578 |
+|  | Add 1 % for Technical Sanction on D (F) | 26862022 |
+|  | Non GST Work Total (G) | 40615939 |
+|  | Gross Total (E+F+G) | 3237196539 |
+|  | Say Rs. | 323.72 Cr. |
+|  | प्रकल्प पूर्ण करण्याचा कालावधी | कार्यादेश दिनांका पासून २४ महिने |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ७पैकी३
 # Page 4
 शासन निर्णय क्रमांक : अमृत-२०२३/प्र.क्र.८२/नवि-३३ ०३. ठाणे महानगरपालिकेच्या सदर पाणीपुरवठा प्रकल्पाची Opex किंमत ठाणे महानगरपालिकेने उभारणे आवश्यक आहे. सदर प्रकल्प पुर्ण करण्याचा कालावधी २४ महिने राहील.

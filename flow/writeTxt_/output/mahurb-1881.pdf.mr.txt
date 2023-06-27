@@ -17,8 +17,39 @@
 केल्यानुसार या शासन निर्णयाद्वारे प्रशासकीय मान्यता देण्यात येत आहे. सदर प्रकल्पाच्या वित्तीय
 आकृतिबंध पुढीलप्रमाणे :
 (रु. कोटीमध्ये)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| नागरी स्थानिक स्वराज्य संस्थेचे नाव | प्रकल्प किंमत | केंद्र शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ५०% ) | राज्य शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ४५%) | नागरी स्थानिक स्वराज्य संस्थेचा हिस्सा (प्रकल्प किंमतीच्या ५% ) |
+| १ | २ | ३ | ४ | ५ |
+| आष्टी नगरपंचायत | ३३.०३ | १६.५१५ | १४.८६३ | १.६५२ |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०२. आष्टी नगरपंचायतेच्या पाणीपुरवठा प्रकल्पातील घटक व त्यांचे अंदाजित किंमतीचे विवरण
 पुढीलप्रमाणे आहे.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Name Of Subwork | Cost |
+| 1 | Geotechnical Investigation and Working survey | 465128 |
+| 2 | Jackwell Construction of jack Well (8.0 main, 18 m Deep), Pump House (Height 7 m) | 10272084 |
+| 3 | Approach Bride - ( 100 m length, 3 m wide) and Approach Road (370 m length WBM) | 8797370 |
+| 4 | Raw water pumping machinery with verticle Turbine Pumps of 100 Hp giving discharge 158928 LPH at 104 Mtr Head at Headworks | 8290627 |
+| 5 | Raw water Rising Main (250mm DI K-9 pipe L= 12635 M) | 60683608 |
+| 6 | Proposed WTP 4.0 MLD including compound wall and approach road | 25872096 |
+| 7 | pure water Gravity Main (Total Length = 2795m) | 8998674 |
+| 100 mm DI K-7 692 m |
+| 150mm DI K-72103 m |
+| 8 | Restoration Works for Existing GSR of 225000 lit capacity at new Bus Stand | 815039 |
+| 9 | Distribution Network of HDPE pipe 110 mm to 250mm HDPE PN - 6 dia pipe having Length 33759m & 250mm to 350 mm DI K-7 Pipe having Length 1871 m, Total Length - 35630 Including House Service Connections - 2709 Nos | 67985544 |
+| 10 | Road Restoration for Raw water rising main, Pure water Rising Main and Distribution System | 37493255 |
+| 11 | Miscellaneous Work (Trial Run for 3 months ) | 181721 |
+| 12 | SCADA & Automation of Headworks & Proposed 4.0 MLD WTP | 11494406 |
+| 13 | Solar Power Plant of 116 KWp capacity ( 83 KWp at Headworks & 33 KWp at WTp) | 4202776 |
+| 14 | 11 KV Express Feeder for Headworks & Proposed WTP from 33/11 KV substion at Ashti | 31559628 |
+|  | Total | 277111956 |
+|  | Add GST @ 18% | 49880152 |
+|  | Add @ 1% against Charges for Technical Scrutiny | 2771119 |
+|  | Add @ 1% for Worker Insurance | 551509 |
+|  | Net Amount | 330314736 |
+|  | Say Rs. | 33.03 Cr. |
+|  | प्रकल्प पूर्ण करण्याचा कालावधी | कार्यादेश दिनांका पासून १८ महिने |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ६ पैकीर
 # Page 3
 शासन निर्णय क्रमांक : अमृत-२०२३/प्र.क्र.१११/नवि-३३ ०३. आष्टी नगरपंचायतेच्या सदर पाणीपुरवठा प्रकल्पाची Opex किंमत आष्टी नगरपंचायतेने उभारणे आवश्यक आहे. सदर प्रकल्प पूर्ण करण्याचा कालावधी १८ महिने राहील.

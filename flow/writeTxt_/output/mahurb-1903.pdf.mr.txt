@@ -19,11 +19,49 @@
 केल्यानुसार या शासन निर्णयाद्वारे प्रशासकीय मान्यता देण्यात येत आहे. सदर प्रकल्पाच्या वित्तीय
 आकृतिबंध पुढीलप्रमाणे :
 (रु. कोटीमध्ये)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| नागरी स्थानिक स्वराज्य संस्थेचे नाव | प्रकल्प किंमत | केंद्र शासनामार्फत अनुज्ञेय अनुदान ( प्रकल्प किंमतीच्या ५०%) | राज्य शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ४५%) | नागरी स्थानिक स्वराज्य संस्थेचा हिस्सा (प्रकल्प किंमतीच्या ०५%) |
+| १ | २ | ३ | ४ | ५ |
+| सेलू नगरपंचायत | ४३.३२ | २१.६६ | १९.४९ | २.१७ |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०२. सेलू नगरपंचायतीच्या पाणीपुरवठा प्रकल्पातील घटक व त्यांचे अंदाजित किंमतीचे विवरण
 पुढीलप्रमाणे आहे.
+---------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Name of Sub Work | Amount in Rs. |
+| 1 | Working Survey | 690191 |
+| 2 | Approach Channel (Length-100m) | 2153702 |
+| 3 | Jack Well (Diameter- 6.0m, Depth-25.1 m) | 10180197 |
+| 4 | Approach Bridge (Length-80 m & 3m Wide) | 5996093 |
+| 5 | Raw Water pumping machinery with Verticle Turbine Pumps of 40 HP giving discharge 194051 LPH at 34 Mtr. Head at Headworks | 5424132 |
+| 6 | Raw Water Rising Main (DI K-9 pipe, 250mm dia = 227 m) | 1410732 |
+| 7 | Construction of Break Pressure Tank (GSR in Bor Dam Premises – 0.59 LL) | 1663376 |
+| 8 | Raw Water Gravity Main (DI K-7 pipe, 250mm to 300mm dia= 15927 m) | 69639095 |
+| 9 | Water Treatment Plant (Capacity – 5.0 MLD (Conventional Type) including Compound Wall | 29516503 |
+| 10 | Pure Water Pumping Machinery with Verticle Turbine Pumps of 50 HP giving discharge 173749 LPH at 45 Mtr. Head at Headworks | 4722393 |
+| 11 | Pure Water Rising Main (DI K-9 pipe, 150 to 250mm dia, L= 3619 m) | 12634602 |
+| 12 | Elevated Service Reservoirs near Rest House (Cap- 2.80 LL, staging ht. 18 m) | 5597906 |
+| 13 | Elevated Service Reservoirs at Railway Station Road (Cap- 2.40 LL, staging ht. 20m) | 5475705 |
+| 14 | Distribution System (110 mm to 250mm, HDPE Pipe, 6 Kg/sq.cm, L= 62.08 km) | 93234981 |
+| 15 | Road Restoration for RWGM, PWRM & Distribution Network | 61568971 |
+| 16 | Repair works for Existing ESR’s (1 Numbers Capacity 3 LL) | 494251 |
+| 17 | Miscellaneous Work (Running of Scheme, etc) | 181731 |
+---------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ६पैकी२
 # Page 3
 शासन निर्णय क्रमांक : अमृत-२०२३/प्र.क्र.२७०/नवि-३३
+------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Name of Sub Work | Amount in Rs. |
+| 18 | SCADA & Automation of Headworks & proposed 5.0 MLD WTP | 14900082 |
+| 19 | Solar Power Plant of 115 KWp capacity (36 KWp at Headworks & 79 KWp at WTP) | 4166890 |
+| 20 | 11 KV Express Feeder for Headworks from 33/11 KV substation at Hingani and at WTP from substation at Seloo | 33663495 |
+|  | Total | 363315028 |
+|  | GST @ 18% | 65396705 |
+|  | Insurance @ 1% | 893116 |
+|  | Technical Scrutiny Charges @ 1% | 3633150 |
+|  | Gross Total | 433237999 |
+|  | Say Rs. | 43.32 Cr. |
+| प्रकल्प पूर्ण करण्याचा कालावधी  |  | कार्यादेश दिनांका पासून १८ महिने |
+------------------------------------------------------------------------------------------------------------------------
 ०३. सेलू नगरपंचायतीच्या सदर पाणीपुरवठा प्रकल्पाची Opex किंमत सेलू नगरपंचायतने
 उभारणे आवश्यक आहे. सदर प्रकल्प पुर्ण करण्याचा कालावधी १८ महिने राहील.
 ०४. सेलू नगरपंचायतीच्या पाणीपुरवठा प्रकल्पास खालील अटींच्या अधीन राहून प्रशासकीय मंजूरी देण्यात येत आहे :

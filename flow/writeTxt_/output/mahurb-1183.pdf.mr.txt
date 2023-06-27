@@ -21,7 +21,48 @@
 शासन निर्णय क्रमांक: बैठक-२०२१/प्र.क्र.१६२/नवि-३३
 तांत्रिक मान्यतेच्या अधीन राहून खालील विवरणपत्रात नमूद केल्यानुसार या शासन निर्णयाद्वारे मंजूरी देण्यात येत
 आहे. या प्रकल्पातील उपांगे व त्यांचे किंमतीचे विवरण पुढीलप्रमाणे आहे:
+--------------------------------------------------------------------
+| Sr. No. | Name of Work | Length (m) | Amount (In Rs.) |
+| A | Zone No. 3 |  |  |
+| 1 | Construction of Concrete Road 3.5 m Wide Road | 981 | 84,56,535 |
+| 2 | Construction of Concrete Road 3.5m Wide Road | 1,886 | 1,27,33,495 |
+| 3 | Construction of Concrete Road 6.0 m Wide Road | 1,136 | 1,17,11,811 |
+| 4 | Construction of Concrete Road 6.0 m Wide Road | 3,084 | 2,56,34,922 |
+| 5 | Construction of Concrete Road 9.0 m Wide Road | 967 | 1,23,79,157 |
+| 6 | Construction of Concrete Road 9.0m Wide Road | 677 | 83,20,982 |
+| 7 | Construction of Concrete Road 9.0m Wide Road | 251 | 38,26,428 |
+| 8 | Construction of Concrete Road 9.0 m Wide Road | 4,950 | 5,48,63,143 |
+| 9 | Construction of Concrete Road 12.0m Wide Road | 470 | 85,15,700 |
+| 10 | Construction of Concrete Road 12.0m Wide Road | 2,065 | 3,41,94,877 |
+| 11 | Construction of Concrete Road 12.0m Wide Road | 955 | 1,46,10,320 |
+| 12 | Construction of B.T. Road 15.0m Wide Road | 355 | 38,20,080 |
+| 13 | Construction of B.T. Road 24.0m Wide Road | 751 | 58,63,044 |
+|  | Total Cost Zone - 3 | 18,528 | 20,49,30,494 |
+| B | Zone No. 4 |  |  |
+| 1 | Construction of Concrete Road 3.0 m Wide Road | 684 | 62,33,135 |
+| 2 | Construction of Concrete Road 6.0 m Wide Road | 195 | 21,42,206 |
+| 3 | Construction of Concrete Road 6.0 m Wide Road | 130 | 11,27,182 |
+| 4 | Construction of Concrete Road 6.0m Wide Road | 1,499 | 1,22,63,948 |
+| 5 | Construction of Concrete Road 9.0m Wide Road | 3,570 | 4,52,00,142 |
+| 6 | Construction of Concrete Road 9.0 m Wide Road | 2,753 | 2,99,84,749 |
+| 7 | Construction of Concrete Road 9.0 m Wide Road | 3,501 | 4,34,05,224 |
+| 8 | Construction of Concrete Road 12.0m Wide Road | 453 | 71,99,066 |
+| 9 | Construction of Concrete Road 12.0m Wide Road | 900 | 1,60,36,508 |
+| 10 | Construction of B.T. Road 18.0m Wide Road | 175 | 30,23,947 |
+|  | Total Cost Zone - 4 | 13,860 | 16,66,16,107 |
+|  | Total Cost (Zone 3 +4) |  | 37,15,46,601 |
+|  | Add Insurance 0.05% (On Work Portion) |  | 18,21,825 |
+|  | Add GST 12% (On Work Portion ) |  | 4,37,23,789 |
+|  | Total Cost |  | 41,70,92,215 |
+|  | Say Rs. |  | 41.70 Cr. |
+|  | प्रकल्प पूर्ण करण्याचा कालावधी |  | कार्यादेश दिनांकापासून १२ महिने |
+--------------------------------------------------------------------
 ०२. पाचोरा नगरपरिषदेच्या रस्ते विकास प्रकल्पाचा वित्तीय आकृतिबंध पुढीलप्रमाणे राहील:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| अ. क्र. | नागरी स्थानिक स्वराज्य संस्थेचे नाव | योजनेची मंजूर किंमत | राज्य शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ८५%) | नागरी स्थानिक स्वराज्य संस्थेचा सहभाग (प्रकल्प किंमतीच्या १५% ) |
+| १ | २ | ३ |  | ५ |
+|  | पाचोरा नगरपरिषद | रु.४१.७० कोटी | रु.३५.४५ कोटी | रु.६.२५ कोटी |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ७ पैकी २
 # Page 3
 शासन निर्णय क्रमांक: बैठक-२०२१/प्र.क्र.१६२/नवि-३३

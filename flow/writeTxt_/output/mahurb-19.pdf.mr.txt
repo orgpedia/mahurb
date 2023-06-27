@@ -17,10 +17,59 @@
 शासन निर्णय क्रमांकः अमृत-२०१८/प्र.क्र.१२८/नवि-३३
 ०२. चंद्रपूर शहराच्या प्रक्रियायुक्त सांडपाणी पुनर्चक्रीकरण व पुनर्वापर प्रकल्पातील उपांगे व त्यांचे
 किंमतीचे विवरण पुढीलप्रमाणे आहे:
+--------------------------------------------------------------------------------------------------------------------------------
+| Sr.No. | Description | Amount (In Rs.) |
+| A | Construction of allied work at Pathanpura 45 MLD STP |  |
+| 1 | Weir & Retaining wall on Zarpat River near Pathanpura Cap 45 MLD STP with TTP of 35 MLD | 7,78,44,747 |
+| 2 | Connecting pipe from Weir & Proposed Inlet, Screen chamber at 45 MLD STP | 53,05,774 |
+| 3 | Intake Structure on Azad Garden Nalla near Vithal Mandir Khidki | 19,31,896 |
+| 4 | Emergency Drainage system at 45 MLD STP | 15,69,856 |
+| 5 | SCADA system for Automation | 64,90,215 |
+| B | Construction of allied work at Rahamat Nagar 25 MLD STP |  |
+| 6 | Weir & Retaining wall on Chamarkundi Nalla near Rahmat Nagar STP Cap 25 MLD with TTP of 15 MLD | 5,60,42,792 |
+| 7 | Connecting Pipe from Weir to Existing Inlet chamber at 25 MLD STP | 17,42,663 |
+| 8 | Emergency Drainage system at 25 MLD STP | 12,18,576 |
+| 9 | SCADA system for Automation | 64,90,215 |
+| C | Tertiary Treatment Plant of 35 MLD at 45 MLD STP Pathanpura |  |
+| 10 | Distribution Chamber | 5,73,332 |
+| 11 | Pipe Line from Distribution Chamber to Fiber Disc Filter | 25,96,666 |
+| 12 | Fiber Disc Filter Unit 45 MLD Cap. (civil, Mech, electrical & instrumental) for 35 MLD TTP at 45 MLD Cap STP | 10,85,43,147 |
+| 13 | Chlorine Contact tank | 60,19,097 |
+| 14 | Treated Water Sump & Pump House | 2,95,67,515 |
+| 15 | D.G. Set Room Cum Control Room (G+3) at 35 MLD TTP | 18,66,396 |
+| 16 | Electrical connection at TTP | 1,58,04,447 |
+| 17 | SCADA & Instrumentation | 64,90,215 |
+| D | Tertiary Treatment Plant of 15 MLD at 25 MLD STP Rahamat Nagar |  |
+| 18 | Distribution Chamber | 6,13,848 |
+| 19 | Pipe Line from Distribution Chamber to Fiber Disc Filter | 4,10,467 |
+| 20 | Fiber Disc Filter Unit 22.50 MLD Cap. (civil, Mech, electrical & instrumental) for 15 MLD TTP at 25 MLD Cap STP | 5,76,90,152 |
+| 21 | Chlorine Contact tank | 32,80,454 |
+| 22 | Treated Water Sump & Pump House | 10,269,749 |
+| 23 | D.G. Set Room Cum Control Room (G+3) at 15 MLD TTP | 18,66,396 |
+| 24 | Electrical connection at TTP | 2,37,22,261 |
+| 25 | SCADA & Instrumentation | 34,35,053 |
+| E | Pumping System from Tertiary Treatment Plant to Thermal Power Plant |  |
+| 26 | V.T. Pumping Machinery at 35 MLD TTP | 1,75,45,090 |
+| 27 | V.T. Pumping Machinery at 15 MLD TTP | 63,15,469 |
+| 28 | Rising Main from 35 MLD & 15 MLD TTP to Reservoir at CTPS D.I. K-9 class Rising mains | 23,84,99,505 |
+| 29 | Reservoir at CSTPS | 2,65,82,078 |
+--------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ५ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः अमृत-२०१८/प्र.क्र.१२८/नवि-३३
+-----------------------------------------------------------------------------------------
+| F | Railway crossing Push Through, Road Reinstating, Utility Shifting, Trial |  |
+| 30 | Railway crossing Push Through, Road Reinstating, Utility Shifting, Trial | 6,89,82,138 |
+|  | Total Rs. | 78,93,10,211 |
+|  | Say Rs. | 78.93 Cr. |
+|  | प्रकल्प पूर्ण करण्याचा कालावधी | कार्यादेश दिनांकापासून २४ महिने |
+-----------------------------------------------------------------------------------------
 ३. चंद्रपूर शहराच्या प्रक्रियायुक्त सांडपाणी पुनर्चक्रीकरण व पुनर्वापर योजनेचा केंद्र शासनाकडून मंजूर राज्य वार्षिक कृति आराखडयानुसार वित्तीय आकृतिबंध पुढीलप्रमाणे आहे.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| अ. क्र. | नागरी स्थानिक स्वराज्य संस्थेचे नाव | योजनेची मंजूर किंमत (डीपीआर नुसार) | केंद्र शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ५०% ) | राज्य शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या २५% ) | नागरी स्थानिक स्वराज्य संस्थेचा सहभाग (प्रकल्प किंमतीच्या २५% ) |
+| १ | २ | 3 | ४ | ५ | ६ |
+| १ | चंद्रपूर महानगरपालिका | रु.७८.९३ कोटी | रु.३९.४६५ कोटी | रु.१९.७३२५ कोटी | रु.१९.७३२५ कोटी |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०४. संदर्भाधीन क्रमांक १ येथील शासन निर्णयानुसार चंद्रपूर शहराच्या प्रक्रियायुक्त सांडपाणी पुनर्चक्रीकरण व पुनर्वापर प्रकल्पास खालील अटींच्या अधीन राहून प्रशासकीय मंजूरी देण्यात येत आहे: ४.१ सदर प्रकल्पासाठी कार्यान्वयन यंत्रणा चंद्रपूर महानगरपालिका राहील.
 ४.२ प्रकल्पासाठी स्थानिक स्वराज्य संस्थेचा हिस्सा चंद्रपूर महानगरपालिकेमार्फत भरण्यात यावा.
 ४.३ केंद्र शासनाच्या मार्गदर्शक सूचना व राज्य शासनाच्या संदर्भाधीन शासन निर्णयानुसार सदर प्रकल्पाची अंमलबजावणी करणे कार्यान्वयन यंत्रणेस बंधनकारक राहील.

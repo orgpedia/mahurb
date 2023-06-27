@@ -16,12 +16,53 @@
 शासन निर्णय क्रमांक : अमृत-२०२३/प्र.क्र.१६०/नवि-३३
 केल्यानुसार या शासन निर्णयाद्वारे प्रशासकीय मान्यता देण्यात येत आहे. सदर प्रकल्पाच्या वित्तीय
 आकृतिबंध पुढीलप्रमाणे: : (रु. कोटीमध्ये)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| नागरी स्थानिक स्वराज्य संस्थेचे नाव | प्रकल्प किंमत | केंद्र शासनामार्फत अनुज्ञेय अनुदान ( प्रकल्प किंमतीच्या ५०% ) | राज्य शासनामार्फत अनुज्ञेय अनुदान ( प्रकल्प किंमतीच्या ४५%) | नागरी स्थानिक स्वराज्य संस्थेचा हिस्सा (प्रकल्प किंमतीच्या ५% ) |
+| १ | २ | ३ | ४ | ५ |
+| कारंजा नगरपंचायत | ३३.८९ | १६.९४५ | १५.२५१ | १.६९५ |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०२. कारंजा नगरपंचायतेच्या पाणीपुरवठा प्रकल्पातील घटक व त्यांचे अंदाजित किंमतीचे विवरण
 पुढीलप्रमाणे आहे.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Name of Sub Work | Cost of Sub Work |
+| 1 | Geotechnical Investigation and Working survey | 553513 |
+| 2 | Intake Well ( 3.0m Ø, 6.12 m Deep ) | 903668 |
+| 3 | Connecting Main -I 400mm ØDI K-7.(Length = 70 Rmt., Intake Well To Jackwell well) | 1028591 |
+| 4 | Inspection Well ( 3.0 m Ø, 8.0 m Deep ) | 1192778 |
+| 5 | Proposed Jack Well (Diameter - 6 m, Depth - 23.57 m) | 9200582 |
+| 6 | Construction of Approach Bridge (150 M Length, 4.00 M Wide) & Approach road (120m ) | 10342523 |
+| 7 | Raw water pumping machinery with Verticle Turbine Pumps of 100 HP giving discharge 209048 LPH at 86 Mtr. Head at Headworks (100% Standby ) | 7846762 |
+| 8 | Raw Water Rising Main (250mm (L = 6174), 300 mm DI K-9 Pipe (L = 396) & 300mm MS Pipe (L=19) and having total length = 6589) | 32629253 |
+| 9 | Repairs of Existing Raw Water Transmission Main (200 mm CI Pipe Line) | 1500222 |
+| 10 | Water Treatment Plant Unconventional Type having Capacity - 3.5 MLD including Compound Wall | 19296697 |
+| 11 | Repair of Existing Water Treatment Plant (Capacity -0.86 MLD & 1 MLD) | 4328344 |
+| 12 | Pure water pumping machinery with submersible Monoblock Pumps of 30 HP giving discharge 185588 LPH at 22 Mtr. Head at WTP (100% Standby) | 1132056 |
+| 13 | Pure Water Rising Main (DI K-9 pipe, 300mm dia., Length = 31 m | 182452 |
+| 14 | Providing and Construction RCC MBR (Proposed MBR near WTP - 3.55 LL, St. ht. -12 m, SBC 20 t/sqm ) | 5924215 |
+| 15 | Pure Water Gravity Main (DI K-7 Pipe, 100mm to 250 mm dia., Total Length = 2999m ) | 11899210 |
+| 16 | Providing and Construction RCC ESR at Khardipura (5.73 LL, st. ht. -6 m, SBC 20 t/sqm ) | 7030850 |
+| 17 | Providing And Construction RCC ESR Indira Nagar (2.07 LL, Sta. ht. -6 m, SBC 20 t/sqm ) | 4360706 |
+| 18 | Distribution Network of HDPE PIPE, PE 100, 6 kg/cm2, 110mm to 250 mm dia. Total Length 48002 meter and 250mm DIK-7 1334 & Total Length 49336 m, Includig House Service Connections - | 79388542 |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ६ पैकीर
 # Page 3
 शासन निर्णय क्रमांक : अमृत-२०२३/प्र.क्र.१६०/नवि-३३
 3968 nos.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| 19 | Repair Works for Existing ESR 1)Indira Nagar ESR 1LL Capacity & 2 ) Market Area ESR 2 LL Capacity Road Restoration (For RWGM, PWTM & Distribution Network | 1328836 |
+| 20  |  | 60203765 |
+| 21 | Miscellaneous Work | 93556 |
+| 22 | SCADA & Automation of Headworks, proposed 3.5 MLD WTP & MBR & ESR management system | 16289497 |
+| 23 | Solar Power Plant of 142 KWp capacity ( 83 KWp at Headworks & 59 KWp at WTP) | 5135812 |
+| 24 | Extension of existing 11 KV Express Feeder for New Headworks, New connection at Headworks & enhancement of load at WTP | 2463398 |
+|  | Net Amount | 284255828 |
+|  | Add GST @ 18% | 51166049 |
+|  | Add @ 1% against Charges for Technical Scrutiny | 2842558 |
+|  | Add @ 1% against Worker Insurance | 602837 |
+|  | Gross Amount | 338867272 |
+|  | Say Rs. | 33.89 Cr. |
+| प्रकल्प पूर्ण करण्याचा कालावधी | कार्यादेश दिनांका पासून १८ महिने |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०३. कारंजा नगरपंचायतेच्या सदर पाणीपुरवठा प्रकल्पाची Opex किंमत कारंजा
 नगरपंचायतेने उभारणे आवश्यक आहे. सदर प्रकल्प पुर्ण करण्याचा कालावधी १८ महिने
 राहील.

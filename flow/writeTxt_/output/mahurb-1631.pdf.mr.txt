@@ -17,11 +17,48 @@
 रु. १७५.१९ कोटी प्रकल्प किंमतीच्या मलनिस्सारण प्रकल्पास परिच्छेद क्र. २ मध्ये नमूद केलेल्या विवरणपत्रानुसार नमूद केल्यानुसार या शासन निर्णयाद्वारे प्रशासकीय मान्यता देण्यात येत आहे.
 सदर प्रकल्पाच्या वित्तीय आकृतिबंध पुढीलप्रमाणे :
 ( किंमत रु. कोटी)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| नागरी स्थानिक स्वराज्य संस्थेचे नाव व वर्ग | प्रकल्प मंजूर किंमत | केंद्र शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ३३.३३% ) | राज्य शासनामार्फत अनुज्ञेय अनुदान ( प्रकल्प किंमतीच्या ३६.६७%) | नागरी स्थानिक स्वराज्य संस्थेचा हिस्सा (प्रकल्प किंमतीच्या ३०% ) |
+| १ | २ | ३ | ४ | ५ |
+| मीरा भाईंदर महानगरपालिका | १७५.१९ | ५८.३९ | ६४.२४ | ५२.५६ |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०२. मीरा भाईंदरमहानगरपालिकेच्या मलनिस्सारण प्रकल्पातील घटक व त्यांचे अंदाजित
 किंमतीचे विवरण पुढीलप्रमाणे आहे.
+----------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Particular | Amount in Rs. |
+| 1 | Zone -4 |  |
+|  | a) Construction of Sewerage Treatment Plant for Zone -4 (10 Mld) | 226558922 |
+|  | b) Electro mechanical Estimates for Sewerage Pumping station for Zone-4 | 47251967 |
+|  | c) Rising main From Exiting SPS to Proposed STP (Dia. 700 mm, DI K-9, L=70 mtr) | 1924786 |
+| 2 | Zone -5 |  |
+|  | a) Construction of Sewerage Treatment Plant for Zone -5 (14 Mld) | 309230235 |
+|  | b) Electro mechanical Estimates for Sewerage Pumping station for Zone-5 | 47205220 |
+|  | c) Rising main From Exiting SPS to Proposed STP (Dia. 800 mm, DI K-9, L=75 mtr) | 2450057 |
+|  | d) Piping and other miscellaneous item Estimate for Tertiary Treatment | 5214416 |
+|  | e) 5 MLD Fibre Disc Filter Estimate for Tertiary Treatment | 28275468 |
+|  | f) UV System, Analyser and Bact. Control system Estimate for Tertiary Treatment | 78573200 |
+|  | g) Construction of 3.15 Lakh Lit Sump, 10.00 Lakh Lit. ESR, Civil Works for Fibre Disc Filter and Pump house for Reuse water works | 41489089 |
+|  | h) Electromechanical Estimate for Treated Water Sump | 6056232 |
+| 3 | Zone - 6C |  |
+|  | a) Construction of Sewage Treatment Plant for Zone -6C (13) Mld) | 288758110 |
+----------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ६ पैकी २
 # Page 3
 शासन निर्णय क्रमांक अमृत-२०२२/प्र.क्र.३२०/नवि-३३
+--------------------------------------------------------------------------------------------
+|  | b) Electromechanical Estimate for Sewage Pumping station for | 43677071 |
+|  | c) Rising main From Existing SPS to Proposed STP (Dia. 800 mm, Dl K-9, 1=140 mtr) | 3964968 |
+| 4 | Zone - 8 |  |
+|  | a) Construction of Sewage Treatment Plant for Zone -8 (11 Mld) | 289433041 |
+|  | b) Electromechanical Estimate for Sewage Pumping station for | 47602610 |
+|  | c) Rising main From Existing SPS to Proposed STP (Dia. 700 mm, Dl K-9, 1=120 mtr) | 2893621 |
+|  | Total (A) | 1470559013 |
+|  | Add 1% for Technical Scrutiny Charges | 14705590 |
+|  | Add 1% for PWD Insurance | 1888443 |
+|  | Add GST 18% on Net Amount of Part A | 264700622 |
+|  | Gross Total | 1751853668 |
+|  | Say Rs. | 175.19 Cr. |
+--------------------------------------------------------------------------------------------
 ०३. मीरा भाईंदर महानगरपालिकेच्या सदर मलनिस्सारण प्रकल्पाची Opex किंमत मीरा
 भाईंदर महानगरपालिकेने उभारणे आवश्यक आहे. सदर प्रकल्प पुर्ण करण्याचा कालावधी २४ महिने आहे.
 ०४. मीरा भाईंदर महानगरपालिकेच्या मलनिस्सारण प्रकल्पास खालील अटींच्या अधीन राहून

@@ -32,10 +32,59 @@
 मुख्य अभियंता, महाराष्ट्र जीवन प्राधिकरण, पुणे विभाग यांनी दिनांक १२ डिसेंबर, २०२२
 रोजीच्या पत्रान्वये दिलेल्या तांत्रिक मान्यतेच्या अधीन राहून खालील विवरणपत्रात नमूद केल्यानुसार या शासन निर्णयाद्वारे मंजूरी देण्यात येत आहे. या प्रकल्पातील उपांगे व त्यांचे
 किंमतीचे विवरण पुढीलप्रमाणे आहे.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Particulars of Sub work | Cost |
+| 1 | Working Survey | 500000 |
+| 2 | Improvement to Head Works @ Krishna River |  |
+|  | A) Construction of Intake well | 1602280 |
+|  | B) Providing Connecting Main | 7235200 |
+|  | C) Improvements to Existing Jackwell | 620000 |
+|  | D) Approach Bridge Near Head works | 15389900 |
+|  | E) Construction of Platform for power station | 3001200 |
+| 3 | Raw Water Pumping Machinery (225 BHP V.T. Pumps, discharging cap. 924000 LPH for Head 45 M- Total 2 nos. 1+2 Nos, with Express Feeder & automisation of pumps | 12759195 |
+| 4 | Raw Water Rising Main from Head works to WTP (500 MM dia. D.I.K-9 Pipes L=1950 M) | 30502100 |
+| 5 | Construction of Water Treatment Plant 20 MLD | 70775250 |
+| 6 | Construction of Recycling water tank capacity 555000 lits capacity | 5532000 |
+| 7 | Construction of pump house over Recycling water tank | 1567000 |
+| 8 | Pumping Machinery @ Recycling water tank | 682615 |
+| 9 | Pure water Pumping Machinery (280 BHP V.T. Pumps, discharging cap. 924000 LPH for Head 55 M-Total 2 nos. 1+2 Nos, with Express Feeder & automisation of pumps) | 9472800 |
+| 10 | Pure Water Rising Main from Head works to WTP (500 MM dia. D.I.K-9 Pipes-L=3420M) | 52077300 |
+| 11 | Providing and Constructing Main Balancing Reservoir Cap (15.6 lakh liters ) | 21739860 |
+| 12 | Pure Water Gravity Main (600 MM to 150 MM dia. DI K-7 Pipes L=6640 M) | 51006500 |
+| 13 | Road Crossing of RWRM by Pushing Method at Five Location | 15791540 |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ९पैकी२
 # Page 3
 शासननिर्णयक्रमांकः नगरो-२०२३/प्र.क्र.२८२ /नवि-३३
+------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Particulars of Sub work | Cost |
+| 14 | Construction of Over head tank @ Shahu Nagar Capacity – 205000 liters, staging Height 15 M | 4694900 |
+| 15 | Construction of Over head tank @ Khamkar Mala Capacity- 525000 litersm staging Height 15 M | 7031600 |
+| 16 | Construction of Over head tank @ Kaka Oil Mill Capacity -650000 liters, staging Height 15 M | 9540600 |
+| 17 | Providing, lowering, laying and jointing Distribution System HDPE Pipe line of 6 kg/sq cm | 211594600 |
+| 18 | Miscellaneous Works | 7021200 |
+| 19 | Automation | 7914653 |
+| 20 | Providing and Fixing Flow meters on Various mains | 11289300 |
+| 21 | Providing, installing & commissioning 240 Kwp Solar plant for WTP & Pure water pumping | 13098390 |
+|  | Total Cost (A) | 572439983 |
+| 22 | Misc. Works charges to be paid to various departments | 3718300 |
+| 23 | Improvements in Express feeder for providing Electric connections as per estimates received from MSEDC, Jaysingpur |  |
+|  | 1) At Jackwell site as per Estimate of MSEDC | 802300 |
+|  | 2) At WTP site as per Estimate Received from MSEDC | 1563250 |
+|  | Total Net Cost | 578523833 |
+|  | Add 1 % labour insurance charges for PWD items | 1185487 |
+|  | Add Royalty Charges for PWD items | 8132367 |
+|  | Add 18% GST on A | 103039197 |
+|  | Gross Total | 690880884 |
+|  | Say Rs. | 69.09 Cr. |
+|  | प्रकल्प पूर्ण करण्याचा कालावधी | कार्यादेश दिनांका पासून १८ महिने |
+------------------------------------------------------------------------------------------------------------------------
 ०२. जयसिंगपूर नगरपरिषदेचा पाणी पुरवठा प्रकल्प वित्तीय आकृतिबंध पुढीलप्रमाणे राहील:
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| अ.क्र. | नागरी स्थानिक स्वराज्य संस्थेचे नाव | योजनेची मंजूर किंमत | राज्य शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ८५%) | नागरी स्थानिक स्वराज्य संस्थेचा सहभाग (प्रकल्प किंमतीच्या १५% ) |
+| १ | २ | ३ | ४ | ५ |
+| १ | जयसिंगपूर नगरपरिषद | रु.६९.०९ कोटी | रु.५८.७३ कोटी | रु.१०.३६ कोटी |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०३. संदर्भाधीन क्रमांक १ येथील शासन निर्णयानुसार जयसिंगपूर नगरपरिषदेच्या पाणी पुरवठा प्रकल्पास खालील अटींच्या अधीन राहून प्रशासकीय मंजूरी देण्यात येत आहे: अ) प्रकल्प कार्यान्वयन यंत्रणा :
 १. सदर प्रकल्पाचे कार्यान्वयन जयसिंगपूर नगरपरिषदेमार्फत करण्यात यावे.
 २. या अभियानांतर्गत प्रकल्प व्यवस्थापन सल्लागार (PMC) नेमणुकीबाबत दिनांक १२

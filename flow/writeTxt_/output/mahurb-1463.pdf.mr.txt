@@ -38,10 +38,67 @@
 अमरावती विभाग यांनी दिनांक ११ मे, २०२२ रोजीच्या पत्रान्वये दिलेल्या सुधारीत तांत्रिक मान्यतेच्या अधीन
 राहून खालील विवरणपत्रात नमूद केल्यानुसार या शासन निर्णयाद्वारे मंजूरी देण्यात येत आहे. या प्रकल्पातील
 उपांगे व त्यांचे किंमतीचे विवरण पुढीलप्रमाणे आहे :
+------------------------------------------------------------------------------------------------------------
+| Sr. No. | Name of Sub Work | Amount (In Rs. ) |
+| A | From Arunawati Dam |  |
+| 1 | Intake Well 3 M Dia | 1436300 |
+| 2 | Inspection Well No.1-3 M Dia | 925650 |
+| 3 | Inspection Well No.2-3 M Dia | 1211600 |
+| 4 | Inspection Well No.3-3 M Dia | 1249100 |
+| 5 | Inspection Well No.4-3 M Dia | 1606050 |
+| 6 | Connecting Main 700mm dia D.I K-7-175 M Long | 8555650 |
+| 7 | Raw Water Pumping Machinery 120.00 BHP -2 Nos | 7000300 |
+| 8 | Raw Water Rising main 400mm dia. D.I K-9Pipes -60M Long From Existing Rising main To Proposed WTP | 519600 |
+| 9 | Water Treatment Plant Capacity 6.50 MLD | 32116000 |
+| 10 | i) Pure Water Pumping Machinery from Existing WTP 75 BHP - 2 Nos | 5137700 |
+|  | ii) Pure Water Pumping Machinery 22.50 BHP-2Nos for Devnagar ESR |
+| 11 | Pure Water Rising Main 400mm dia DI K-9, L-60M | 480800 |
+| 12 | Break Pressure Tank 95000 Liter Capacity | 6396050 |
+| 13 | Pure Water Gravity Main form Existing & Proposed WTP at Arunawati to proposed MBR | 443800 |
+| 14 | Pure Water Gravity Main from Proposed MBR to Various ESR | 23737850 |
+| 15 | RCC ESR |  |
+|  | i) For Zone No. I Bus Stand - 368000 Liter Capacity | 6302800 |
+------------------------------------------------------------------------------------------------------------
 पृष्ठ ८ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः नगरो-२०२१/प्र.क्र.१८(भाग-२)/नवि-३३
+------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Name of Sub Work | Amount (In Rs. ) |
+|  | ii) For Zone No. V Moti Nagar - 472000 Liter Capacity | 7606550 |
+|  | iii) For Zone No. VI Bhavani Tekdi - 269000 Liter Capacity | 5870800 |
+| 16 | Flow Meters | 5367242 |
+| 17 | Distribution System from 300mm dia to 100mm dia HDPE & DI K-7 Pipes | 147562400 |
+| 18 | Road Reinstatement | 27952550 |
+| 19 | Miscellaneous Works | 8394200 |
+|  | Total | 299872992 |
+|  | Add 12% GST | 35984759 |
+|  | Total A | 335857751 |
+| B | From Nandgavhan Dam |  |
+| 1 | Repairs of Existing Well in the Submergence of Nandgavhan Dam | 226500 |
+| 2 | Raw Water Gravity Main form Nandgavhan Dam to Devnagar WTP 300mm & 250mm dia DIK-7 Pipes - 9000M Long | 46634950 |
+| 3 | Water Treatment Plant Capacity 4 MLD | 18444300 |
+|  | Total | 65305750 |
+|  | Add 12% GST | 7836690 |
+|  | Total B | 73142440 |
+| C | SCADA & Automation |  |
+| 1 | For Power Supply | 600000 |
+| 2 | For SCADA & Automation | 21243800 |
+| 3 | For Solar Plant |  |
+|  | i) At Arunawati Plant | 3431150 |
+|  | ii) At Nandgavhan | 1072250 |
+|  | Total | 26347200 |
+|  | Add 12% GST on Automation only | 2549256 |
+|  | Total C | 28896456 |
+|  | Total (A+B+C) | 437896647 |
+|  | Say Rs. | 43.79 Cr. |
+|  | प्रकल्प पूर्ण करण्याचा कालावधी | कार्यादेश दिनांका पासून १२ महिने |
+------------------------------------------------------------------------------------------------------------------
 ०२. दिग्रस नगरपरिषदेचा पाणी पुरवठा प्रकल्प वित्तीय आकृतिबंध पुढीलप्रमाणे राहील :
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| अ. क्र. | नागरी स्थानिक स्वराज्य संस्थेचे नाव | योजनेची मंजूर किंमत | राज्य शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ८५%) | नागरी स्थानिक स्वराज्य संस्थेचा सहभाग (प्रकल्प किंमतीच्या १५% ) |
+| १ | २ | ३ | ४ | ५ |
+| १ | दिग्रस नगरपरिषद | रु.४३.७९ कोटी | रु.३७.२२ कोटी | रु.६.५७ कोटी |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०३. संदर्भाधीन क्रमांक १ येथील शासन निर्णयानुसार दिग्रस नगरपरिषदेच्या पाणी पुरवठा प्रकल्पास
 खालील अटींच्या अधीन राहून प्रशासकीय मंजूरी देण्यात येत आहे :
 अ) प्रकल्प कार्यान्वयन यंत्रणा :

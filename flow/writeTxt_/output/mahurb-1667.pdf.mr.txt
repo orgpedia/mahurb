@@ -24,10 +24,68 @@
 पुरवठा प्रकल्पास संदर्भाधीन शासन निर्णयातील अटी व तरतूदीच्या व मुख्य अभियंता, महाराष्ट्र जीवन
 प्राधिकरण, अमरावती विभाग यांनी दिनांक १६ नोव्हेंबर, २०२२ रोजीच्या पत्रान्वये दिलेल्या तांत्रिक
 मान्यतेच्या अधीन राहून खालील विवरणपत्रात नमूद केल्यानुसार या शासन निर्णयाद्वारे मंजूरी देण्यात येत आहे. या प्रकल्पातील उपांगे व व त्यांचे किंमतीचे विवरण पुढीलप्रमाणे आहे :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Name of Item | Cost of work |
+| A | From Koradi Dam |  |
+|  | Raw Water Gravity Main 400mm dia. DJ E-7 Pipes 2861 M Long | 21401500 |
+|  | Total (A) | 21401500 |
+| B | From Pentakil Dam |  |
+| 1 | Working Survey | 750000 |
+| 2  |  | Intaker well 3.0m dia, 5.90m deep | 1428400 |
+| 3  |  | Connecting Main 700mm dia. D.I. K-7 Pipes 90 M Long | 4916750 |
+| 4 | Inspection well No.I 2.00 m dia, 6.63 m deep | 1002850 |
+| 5  |  | Inspection well No.II 2.00 m dia, 11.85 m deep | 1455400 |
+| 6  |  | Jack Well 8 M Dia. 26.34 M Deep | 15309800 |
+| 7  |  | Approach Bridge 3.75 M Wide 50 M long | 3674850 |
+| 8 | Raw Water Rising Main 450mm dia. D.I. K-9 Pipes 15210 M Long | 171100400 |
+| 9  |  | Break Pressure Tank 1.191 Lakh Liter Capacity | 3957850 |
+| 10  |  | Raw Water Gravity Main | 62773800 |
+|  | I) 500 mm dia D.I.K-7 Pipes - 501 M & II) 450 mm dia D.I.K.-7 Pipes - 6539 M |  |
+| 11 | Conventional Water Treatment Plant Capacity 10.50 MLD | 52631950 |
+| 12  |  | Inter Connection of Existing & Proposed Pure Water Sump of WTP 500mm dia. PCCP Pipes-30 M | 3940750 |
+| 13  |  | Pure Water Rising Main | 22194500 |
+|  | i) Pure Water Rising Main 350mm dia D.I. K9, 1150 m (Zone No.1), ii) Pr. Extention of Pure Water Rising Main 350 min dia D.I. K9, 100m. & iii) Pure Water Rising Main 300 mm dia D.I. K9, 1244 m (Zone No. 5) |  |
+| 14  |  | RCC E.S.R-1320000 Liter capacity 15 M Staging For Zone No.1 | 15540700 |
+| 15 | RCC ESR-50000 Liter capacity 20 M Staging For Zone No.2 | 4230150 |
+| 16  |  | RCC ESR 800000 Liter capacity 12 M Staging For Zone No.5 | 9416250 |
+| 17  |  | RCC GSR 330000 Liter capacity For Zone (3&4) | 4459500 |
+| 18  |  | Distribution Systems | 150334400 |
+|  | From 200 dia. To 400 mas dia.D.I K-7 pipes-8.553 km |  |
+|  | From 200 m dia. To 110mm dia HDPE pips 49.084 km |  |
+| 19  |  | Road Reinstating | 38413100 |
+| 20  |  | Trid Run of Scheme | 274600 |
+| 21 | Miscellaneos Works | 7032300 |
+|  | Total (B) | 574838300 |
+| C | For Mechanical Work |  |
+| 1 | Raw Water Pumping Machinery On Proposed Jack Well as Pentakli Dam | 10459300 |
+|  | 120 HP Discharge-414680 LPH Head - 55 M |
+| 2  |  | Pure Water Pumpir Machin For Zone No:1 | 5574850 |
+|  | 30 HP Discharge-194000 LPH Head 27 M |
+| 3 | Pure Water Pumping Machinery For Zone No. 2 | 1050300 |
+|  | 25 HP Discharge 124700 LPH Head-34 M |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ८ पैकी २
 # Page 3
 शासन निर्णय क्रमांक:नगरो-२०२२/प्र.क्र.२९०/नवि-३३
+--------------------------------------------------------------
+| Sr. No. | Name of Item | Cost of work |
+| 4 | Pure Water Pumping Machinery For Zone No. 3, 4 & 5 | 1539600 |
+|  | 30 HP Discharge-290000 LPH Head 16 M |
+| 5 | Recirculation Pumping Machinery | 1228400 |
+|  | 20 HP Discharge-90000 LPH Head 15 M |
+|  | Total ( C ) | 19852450 |
+|  | Grand Total A+ B +C | 616092250 |
+|  | Add 18% GST on Grand Total | 110896605 |
+|  | add 1% for Insurance on PWD Items | 402457 |
+|  | Net Cost of Project | 727391312 |
+|  | Say | 72.74 Cr. |
+--------------------------------------------------------------
 ०२. मेहकर नगरपरिषदेचा पाणी पुरवठा प्रकल्प वित्तीय आकृतिबंध पुढीलप्रमाणे राहील:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| अ. क्र. | नागरी स्थानिक स्वराज्य संस्थेचे नाव | योजनेची मंजूर किंमत | राज्य शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ८५% ) | नागरी स्थानिक स्वराज्य संस्थेचा सहभाग (प्रकल्प किंमतीच्या १५ %) |
+| १ | २ | ३ | ४ | ५ |
+| १ | मेहकर नगरपरिषद | रु.७२.७४ कोटी | रु.६१.८३ कोटी | रु.१०.९१ कोटी |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०३. संदर्भाधीन क्रमांक १ येथील शासन निर्णयानुसार मेहकर नगरपरिषदेच्या पाणी पुरवठा प्रकल्पास खालील अटींच्या अधीन राहून प्रशासकीय मंजूरी देण्यात येत आहे : अ) प्रकल्प कार्यान्वयन यंत्रणा : १. सदर प्रकल्पाचे कार्यान्वयन मेहकर नगरपरिषदेमार्फत करण्यात यावे.
 २. सदर प्रकल्पासाठी प्रकल्प व्यवस्थापन सल्लागार म्हणून महाराष्ट्र जीवन प्राधिकरणाने अमृत अभियानांतर्गत विहित केलेल्या मॉडेल RFP नुसार निविदा प्रक्रिया करुन प्रकल्प व्यवस्थापन सल्लागाराची नेमणूक करावी.
 ३. सदर प्रकल्पासाठी शासन निर्णय दिनांक ०४ जून, २०१८ अन्वये विहीत केल्यानुसार जास्तीत जास्त ३

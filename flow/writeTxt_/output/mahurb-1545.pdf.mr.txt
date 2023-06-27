@@ -18,14 +18,83 @@
 ६०.१० कोटी प्रकल्प किंमतीच्या पाणीपुरवठा प्रकल्पास परिच्छेद क्र. २ मध्ये नमूद केलेल्या विवरणपत्रानुसार नमूद केल्यानुसार या शासन निर्णयाद्वारे प्रशासकीय मान्यता देण्यात येत
 आहे. सदर प्रकल्पाच्या वित्तीय आकृतिबंध पुढीलप्रमाणे :
 (किंमत रु. कोटी)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| नागरी स्थानिक स्वराज्य संस्थेचे नाव व वर्ग | प्रकल्प मंजूर किंमत | केंद्र शासनामार्फत अनुज्ञेय अनुदान ( प्रकल्प किंमतीच्या ५० %) | राज्य शासनामार्फत अनुज्ञेय अनुदान ( प्रकल्प किंमतीच्या ४५% ) | नागरी स्थानिक स्वराज्य संस्थेचा हिस्सा प्रकल्प किंमतीच्या ०५%) |
+| १ | २ |  | ४ | ५ |
+| कवठे महांकाळ नगरपंचायत | ६०.१० | ३०.०५ | २७.०५ | ३.० |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०२. कवठे महांकाळ नगरपंचायतीच्या पाणीपुरवठा प्रकल्पातील घटक व त्यांचे अंदाजित
 किंमतीचे विवरण पुढीलप्रमाणे आहे.
+-----------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Description | Amount |
+|  | Sub-work |  |
+| 1 | Working Survey of around 190 Km | 950000 |
+| 2 | Intake Well (Dia 3m ) | 3366800 |
+| 3 | Connecting Pipe (120m) | 5925100 |
+| 4 | Inspection Well (Dia 3m) | 1682900 |
+| 5 | Jack Well (Dia 8m) | 12515300 |
+| 6 | Raw Water Pumping Machinery - Jackwell to BPT Discharge – 95 LPS Head – 25 m Capacity - 50 HP Numbers – 2 (1W+1S) | 5700813 |
+| 7 | Raw Water Rising Main (DI-K9 pipe, Dia.= 350,300,200,150 mm Total length= 6800m) |  |
+|  | Excavation | 5918778 |
+|  | Material | 38662297 |
+|  | Labour | 4651829 |
+| 8 | BPT Shaft | 516400 |
+| 9 | Raw Water Gravity Main (DI-K7 pipe, Dia.= 350mm Total length= 5500 m) |  |
+|  | Excavation | 4862490 |
+|  | Material | 26711137 |
+|  | Labour | 4112374 |
+| 10 | RW Sump Capacity- 3.0 LL | 3975764 |
+-----------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ७ पैकी २
 # Page 3
 शासन निर्णय क्रमांक अमृत-२०२२/प्र.क्र.२६८/नवि-३३
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| 11 | Raw Water Pumping Machinery - RW Sump to WTP Discharge - 95 LPS Head - 83 m Capacity - 150 HP Numbers-2 (1W+1S) | 9690678 |
+| 12 | Repairs to Existing Water Treatment Plant of Capacity 1.50 MLD | 2264341 |
+| 13 | Proposed Water Treatment Plant of Capacity 4.5 MLD near existing WTP | 16513000 |
+| 14 | PW Sump Capacity-0.50 LL | 1776103 |
+| 15 | Pure Water Pumping Machinery – for feeding Existing 3LL ESR at WTP Campus Discharge - 17 LPS Head - 17 m Capacity - 5 HP Numbers-2 (1W+1S) | 935535 |
+| 16 | Pure Water Pumping Machinery - for feeding Proposed GSR at Meghraj Hills Discharge - 17 LP Head - 17 m Capacity - 5 HP Numbers-2 (1W+1S) | 935535 |
+| 17 | Pure Water Rising Main (DI-K9 pipes, Dia.=150 mm Total length= 30 m) |  |
+|  | Excavation | 548967 |
+|  | Material | 2037432 |
+|  | Labour | 3057390 |
+| 18 | Pure Water Gravity Main (DI-K7 pipes, Dia.=100, 150, 200, 250 and 300 mm Total length= 5050 m) |  |
+|  | Excavation | 3444219 |
+|  | Material | 16557231 |
+|  | Labour | 3067471 |
+| 19 | RCC GSR - WTP Campus Capacity:- 3 Lakh Liters | 3828378 |
+| 20 | RCC ESR - Near Panchayat Samiti Capacity:- 4.50 Lakh Liters, Staging Height:- 18 Mtr | 6560159 |
+| 21 | RCC GSR - Near Meghraj Hills Capacity:- 2.50 Lakh Liters, | 3170605 |
+| 22 | Distribution System (Phase-1) HDPE PE 100 6 kg/sqcm pipe Dia. 110, 160, 200, 250 mm DI-K7 pipe Dia=300 and 350 mm Total pipe length= 102.89 km Shifting of House service connection= 2000 No |  |
+|  | Excavation | 55565110 |
+|  | Material | 57951129 |
+|  | Labour | 18726794 |
+| 23 | Road reinstating (Phase-1) Tar= 45.84 Km Concrete= 7.64 Km WBM= 22.92 Km Total= 76.40 Km | 77347513 |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ७ पैकी ३
 # Page 4
 शासन निर्णय क्रमांक अमृत-२०२२/प्र.क्र.२६८/नवि-३३
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+| 24 | Distribution System (Phase-2) HDPE PE 100 6 kg/sqcm pipe Dia.=110, 160,200mm Total pipe length= 52.90 Km Shifting of House service connection= 300 No |  |
+|  | Excavation | 29292308 |
+|  | Material | 25661631 |
+|  | Labour | 7711806 |
+| 25 | Road reinstating (Phase-2) Tar= 22.26 Km Concrete= 1.59 Km WBM= 7.950 Km Total= 31.80Km | 32267495 |
+| 27 | Miscellaneous Work | 1500000 |
+| 26 | Trial run for one year | 1095099 |
+|  | Total (A) | 501057911 |
+| 27 | Provision for MSDCL Power Supply Charges charges of MSEDCL |  |
+|  | Raw Water Head Works Site – 50 HP | 1500000 |
+|  | Raw Water Sump Well Site – 150 HP | 2000000 |
+|  | Total (B) | 3500000 |
+|  | Net Cost (A+B) | 504557911 |
+|  | Add 18% GST on A | 90190424 |
+|  | Add 1% TS Fee on Net Cost | 5045579 |
+|  | Add 1% Labour Insurance On PWD Items | 1216918 |
+|  | Gross Total | 601010832 |
+|  | Say Rs. | 60.10 Cr. |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 ०३. कवठे महांकाळ नगरपंचायतीच्या सदर पाणीपुरवठा प्रकल्पाची Opex किंमत कवठे
 महांकाळ नगरपंचायतीने उभारणे आवश्यक आहे. सदर प्रकल्प पुर्ण करण्याचा कालावधी २४
 महिने आहे.

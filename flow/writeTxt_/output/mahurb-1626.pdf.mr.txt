@@ -20,14 +20,103 @@
 मध्ये नमूद केलेल्या विवरणपत्रानुसार नमूद केल्यानुसार या शासन निर्णयाद्वारे प्रशासकीय मान्यता
 देण्यात येत आहे. सदर प्रकल्पाच्या वित्तीय आकृतिबंध पुढीलप्रमाणे :
 ( किंमत रु. कोटी)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| नागरी स्थानिक स्वराज्य संस्थेचे नाव व वर्ग | प्रकल्प मंजूर किंमत | केंद्र शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ३३.३३% ) | राज्य शासनामार्फत अनुज्ञेय अनुदान ( प्रकल्प किंमतीच्या ३६.६७%) | नागरी स्थानिक स्वराज्य संस्थेचा हिस्सा (प्रकल्प किंमतीच्या ३०% ) |
+| १ | २ | ३ | ४ | ५ |
+| सांगली मिरज आणि कुपवाड महानगरपालिका | २५३.४१ | ८४.४६ | ९२.९३ | ७६.०२ |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०२. सांगली मिरज आणि कुपवाड महानगरपालिकेच्या मलनिस्सारण प्रकल्पातील घटक व त्यांचे
 अंदाजित किंमतीचे विवरण पुढीलप्रमाणे आहे.
+----------------------------------------------------------------------------------------------------------
+| Phase - I |
+| Sr. No. | Name of Subwork | Cost in Rs. |
+| 1 | Working Survey | 1500000 |
+| 2 | Collection System |  |
+|  | A) For Zone 2A |  |
+|  | i) Trunk Main, Main Branches and Laterals Dia 150mm to 450 mm Total Length- 31.61 Kms | 102054900 |
+|  | ii) Household Service Connection for Zone 2A | 14809100 |
+|  | iii) Road Reinstating for zone 2A | 73885400 |
+|  | B) For Zone 2B |  |
+|  | i) Trunk Main, Main Branches and Laterals Dia 150mm to 800 mm Total Length-100.2 Kms. | 282602800 |
+|  | ii) Household Service Connection for Zone 2B | 20732800 |
+|  | iii) Road Reinstating for zone 2B | 171429400 |
+|  | C) For Zone 3A |  |
+|  | i)Trunk Main, Main Branches and Laterals Dia 150mm to 1200 mm Total Length- 80.9 Kms. | 317609300 |
+|  | ii) Household Service Connection for Zone 3A | 18090100 |
+|  | iii)Road Reinstating for zone 3A | 138598400 |
+| 3 | Wet well and Panel rooms |  |
+|  | a) RCC Wet well and Panel room at Tuljainagar 9.1m Dia, Cap. 260 Cum Net and 730 Cum Gross | 8410700 |
+|  | b) RCC Wet well and Panel room at Kumbhar Mala 11.5 M Dia, cap. 571 Cum Net and 1570 Cum Gross | 13383800 |
+|  | c) RCC Wet well near Jagruti 5.2m Dia Cap. 65 Cum | 1323100 |
+----------------------------------------------------------------------------------------------------------
 पृष्ठ ७ पैकी २
 # Page 3
 शासन निर्णय क्रमांक अमृत-२०२२/प्र.क्र.३२०/नवि-३३
+-----------------------------------------------------------------------------------------------------------------
+| 4 | Pumping Machinery and allied works |  |
+|  | a) Tuljainagar Pumping station PS 2 | 17975260 |
+|  | b) Kumbhar Mala Pumping station PS 3 | 39772290 |
+|  | c) MSEDCL Express Feeder | 5971060 |
+| 5 | Pumping main |  |
+|  | A) Tuljainagar |  |
+|  | i) Rising Main fromTuljainagar wet well to Wet well near jagruti, 700 mm Dia D.I.k-9, Length - 2350 M | 29346800 |
+|  | ii) Road Reinstating for Rising Main | 3412300 |
+|  | B) Kumbhar Mala |  |
+|  | Rising Main from Kumbhar Mala wet well to STP, 1000 mm Dia D.I. k-9, Length - 150 M | 5077000 |
+| 6 | S.T.P. Type S.B.R. 27.00 MLD | 274633700 |
+| 7 | A) RCC Wet Well Storage tank for Treated Water Cap 1.125 ML | 7285200 |
+|  | B) Disposal arrangement 1200 mm R.C.C. Pipe Length 960 M | 13253600 |
+| 8 | Miscellaneous |  |
+|  | a) Compound wall for Tulajainagar and Jagrutl Wet wells and S.T.P. | 6645200 |
+|  | b) Repairs to house connections and water supply pipe lines | 486900 |
+|  | c) PWD Charges | 20350000 |
+|  | Total net cost phase I | 1588639110 |
+|  | GST 18 % (Excluding PWD Charges) | 282292040 |
+|  | Technical checking cost 1% | 15886391 |
+|  | Labour insurance 1% (for PWD items only) | 4577574 |
+|  | Total Gross cost for Phase I Rs. | 1891395115 |
+|  | Total Gross cost Phase I Say | 189.14 Cr. |
+| Phase - II |
+| Sr. No. | Name of Subwork | Cost in Rs. |
+| 1 | Working Survey | 500000 |
+| 2 | Collection System |  |
+|  | A) For Zone 1 |  |
+|  | i) Trunk Main, Main Branches and Laterals Dia 150 mm to 500 mm Total Length- 30.44 Kms. | 79126100 |
+|  | ii) Household Service Connection for Zone 1 | 13833600 |
+|  | iii) Road Reinstating for zone 1 | 81112500 |
+|  | A) For Zone 3B |  |
+|  | i) Trunk Main, Main Branches and Laterals Dia 150 mm to 1000 mm Total Length- 26.97 Kms. | 67252400 |
+|  | ii) Household Service Connection for Zone 3B | 5498100 |
+|  | iii) Road Reinstating for zone 3B | 59338600 |
+| 3 | Wet well and Panel rooms |  |
+|  | RCC Wet well and Panel room at Ahilyanagar 5.00 M Dia, Cap.78.5 cum Net and 266 cum Gross | 4346500 |
+| 4 | Pumping Machinery and allied works |  |
+|  | a)Ahilyanagar Pumping station PS 1 | 9648150 |
+|  | b)Jetting cum suction Machine | 12000000 |
+|  | c) MSEDCL Express Feeder | 4485530 |
+| 5 | Pumping main |  |
+|  | i) Rising Main from Ahilyanagar wet well to Wet well near Jagruti, 350 mm Dia D.I K-9 Length-4750 M | 30911500 |
+|  | ii) Road Reinstating for Rising main | 9044700 |
+| 6 | Miscellaneous |  |
+-----------------------------------------------------------------------------------------------------------------
 पृष्ठ ७ पैकी ३
 # Page 4
 शासन निर्णय क्रमांक अमृत-२०२२/प्र.क्र.३२०/नवि-३३
+---------------------------------------------------------------------
+|  | a) Compound wall for Ahilyanagar Wet well | 1531100 |
+|  | b) Repairs to house connections and water supply pipe Lines | 223400 |
+| 7 | Remaining works of sangli UGD and Miraj UGD |  |
+|  | a)Miraj UGD | 89100000 |
+|  | b) Sangli UGD | 52824200 |
+|  | c) PWD Charges | 20982500 |
+|  | Total net cost Rs. | 541758880 |
+|  | GST 18 % (Excluding PWD Charges) | 93739748 |
+|  | Technical checking cost 1% | 5417589 |
+|  | Labour insurance 1% ( for PWD items only) | 1840410 |
+|  | Total Gross cost for Phase II Rs. | 642756627 |
+|  | Total Gross cost Phase II Say | 64.27 Cr. |
+|  | Total Phase I and Phase II Say Rs. | 253.41 Cr. |
+---------------------------------------------------------------------
 ०३. सांगली मिरज आणि कुपवाड महानगरपालिकेच्या सदर मलनिस्सारण प्रकल्पाची Opex
 किंमत सांगली मिरज आणि कुपवाड महानगरपालिकेने उभारणे आवश्यक आहे. सदर प्रकल्प पुर्ण करण्याचा कालावधी २४ महिने आहे.
 ०४. सांगली मिरज आणि कुपवाड महानगरपालिकेच्या मलनिस्सारण प्रकल्पास खालील

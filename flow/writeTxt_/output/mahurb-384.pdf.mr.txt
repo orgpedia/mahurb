@@ -19,10 +19,45 @@
 शासन निर्णय क्रमांक:बैठक-२०१८/प्र.क्र.१२/नवि-३३
 विवरणपत्रात नमूद केल्यानुसार या शासन निर्णयाद्वारे सुधारीत प्रशासकीय मान्यता देण्यात येत आहे. या
 प्रकल्पातील उपांगे व त्यांचे किंमतीचे सुधारीत विवरण पुढीलप्रमाणे आहे:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Name Of Sub Work | Amount (In Rs.) |
+| 1 | Canal Intake Structure | 36,55,229 |
+| 2 | Approach Bridge (Length - 87.0m) | 35,76,500 |
+| 3 | Approach road (Length - 300 m) | 7,00,000 |
+| 4 | Raw Water Pumping Machinery to lift Water from Right Bank Canal to Nimpgaon Talav (VT Pumps of Capacity 120 HP (2W+1SB), Q-121.53, Ips H-45m) | 82,56,446 |
+| 5 | Raw Water Rising Main cum Gravity Main from Nimpgaon Talav to Right Bank Canal L-1500, Dia-500 mm DI K-9) | 1,11,68,020 |
+| 6 | Raw Water Gravity Main from Right Bank Canal to WTP (L-8,040 m, Dia-400 mm DI K-7) | 4,30,52,113 |
+| 7 | Conventional Water Treatment Plant of Capacity (8.5 MLD) | 2,29,91,700 |
+| 8 | Pure Water Pumping Machinery (VT Pumps of Capacity 40 HP (2W+1SB) Q-47.76lps, H-40 m) VT Pumps | 47,43,637 |
+| 9 | Pure Water Rising Main from WTP to MBR (L-100m, Dia-400mm, DI K-9) | 6,93,600 |
+| 10 | Master Balancing Reservoir of Capacity (3 Lakh lit. Staging Height 25m) | 38,87,500 |
+| 11 | Pure Water Gravity Mains from MBR to Proposed ESR | 1,37,59,500 |
+| 12 | ESR at Gaothan (Capacity 7,00,000 lit staging 15 m) | 46,49,300 |
+| 13 | MBR at Irrigation Colony (Capacity 4,00,000 lit staging 15 m) | 36,50,500 |
+| 14 | ESR at Bilal Nagar (Capacity 5,00,000 lit staging 15 m) and Dismantling of Existing 2.5 lit ESR | 43,04,900 |
+| 15 | ESR at Tahsil Office (Capacity 3,00,000 lit Staging 15m) | 30,41,100 |
+| 16 | ESR at Gramin Hospital (Capacity 3,00,000 lit Staging 15m) | 28,53,200 |
+| 17 | Distribution Network in HDPE pipes PE100/PN 6 (L-50,213 m Dia-110 mm to 315 mm) | 6,14,84,900 |
+| 18 | Cost of Bulk Metering | 36,88,917 |
+| 19 | Reinstating of Roads | 2,85,13,020 |
+| 20 | HT Feeder Line MSEB Electrical Connection | 1,15,00,000 |
+| 21 | Strengthening of Existing KT Weir to enhance Storage Capacity | 10,31,643 |
+| 22 | Commissioning Running and Maintaining the Scheme for One Year | 18,76,244 |
+|  | Total Cost | 24,30,77,969 |
+|  | Add 12% GST | 2,91,69,356 |
+|  | Total Amount | 27,22,47,325 |
+|  | Say Rs. | 27.22 Cr. |
+|  | प्रकल्प पूर्ण करण्याचा कालावधी | कार्यादेश दिल्या पासून १२ महिने |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ३ पैकी २
 # Page 3
 शासन निर्णय क्रमांक:बैठक-२०१८/प्र.क्र.१२/नवि-३३
 ०३. अर्धापूर नगरपंचायतीचा पाणी पुरवठा प्रकल्पाचा वित्तीय आकृतिबंध पुढीलप्रमाणे राहील:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| अ. क्र. | नागरी स्थानिक स्वराज्य संस्थेचे नाव | योजनेची मंजूर किंमत | राज्य शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ९०% ) | नागरी स्थानिक स्वराज्य संस्थेचा सहभाग (प्रकल्प किंमतीच्या १०%) |
+| १ | २ | ३ | ४ | ५ |
+| १ | अर्धापूर नगरपंचायत | रु.२७.२२ कोटी | रु.२४.४९८ कोटी | रु.२.७२२ कोटी |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०४. या प्रकल्पासाठी पहिल्या हप्त्याचा निधी यापूर्वीच मंजूर केला असल्यामुळे या आदेशाच्या दिनांकापासून ७ दिवसांच्या आत निविदा काढणे व दोन महिन्यांच्या कालावधीत कार्यादेश देणे नगरपंचायतीस बंधनकारक
 राहील.
 ०५. याव्यतिरिक्त उपरोक्त संदर्भ क्र. १ येथील दिनांक २६ मार्च, २०१८ च्या शासन निर्णयातील परिच्छेद क्र. ३ मधील उर्वरीत अटी व शर्ती कायम राहतील.

@@ -19,11 +19,60 @@
 विवरणपत्रात नमूद केल्यानुसार या शासन निर्णयाद्वारे प्रशासकीय मान्यता देण्यात येत आहे.
 सदर प्रकल्पाच्या वित्तीय आकृतिबंध पुढीलप्रमाणे :
 (रु. कोटीमध्ये)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| नागरी स्थानिक स्वराज्य संस्थेचे नाव | प्रकल्प किंमत | केंद्र शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ५०% ) | राज्य शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ४५%) | नागरी स्थानिक स्वराज्य संस्थेचा हिस्सा ( प्रकल्प किंमतीच्या ५% ) |
+| १ | २ |  | ४ | ५ |
+| गडहिंग्लज नगरपरिषदे | ४६.६२ | २३.३१ | २०.९७९ | २.३३१ |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ००. गडहिंग्लज नगरपरिषदेच्या पाणीपुरवठा प्रकल्पातील घटक व त्यांचे अंदाजित किंमतीचे विवरण पुढीलप्रमाणे आहे.
+-----------------------------------------------------------------
+| Sr. No. | Project Components | Cost |
+| 1 | Working Survye | 500000 |
+| 2 | Intake Well (3 M Dia) | 1671573 |
+| 3 | Connectinq Pipe (700 MM) Length 20.0 M | 348178 |
+| 4 | Repairs of RCC Jackwell And Pump House | 416954 |
+| 5 | RCC Approach Ramp / Staircase | 439066 |
+| 6 | Raw Water Pumping Machinery 220 HP (1+1) | 12793803 |
+| 7 | R.W. Rising Main 500mm Dia & 2700 m Length | 40705398 |
+| 8 | WTP Unconventional (Capacity - 14.50 MLD) | 60051452 |
+| 9 | Pure Water Gravity Mains for Old Sump to Proposed Sump | 355354 |
+| 10 | Pure Water Pumping machinery |  |
+|  | i) Sump to MBR / ESR 7.5 BHP (2Nos) | 194394 |
+|  | ii) Sump to Bazar Samiti 7.5 BHP (2Nos) | 277378 |
+|  | iii) Sump to Ice Factory 22.5 BHP (2Nos) | 257033 |
+|  | iv) Sump to Shendri Rod. 12.5 BHP (2Nos) | 215418 |
+|  | v) Sump to Shahu Garden 17.5 BHP (2Nos) | 282834 |
+|  | vi) Sump to Sump ESR 12.5 BHP (2Nos) | 284308 |
+|  | vii) Sump to Rset House 20.00 BHP (2Nos) | 1111210 |
+|  | viii) Sump to Ayodhya Nagar 10.00 BHP (2Nos) | 314028 |
+|  | ix) Sump to New MBR ESR 17.50 BHP (2Nos) | 314029 |
+|  | x) Sump to New MBR Sump ESR 7.5 BHP (2Nos) | 194394 |
+-----------------------------------------------------------------
 पृष्ठ ६ पैकीर
 # Page 3
 शासन निर्णय क्रमांक : अमृत-२०२३/प्र.क्र.३९/नवि-३३
 Pure Water Rising Main Q PVC Dia 200mm L - 5710 M & 11 13973599 O PVC Dia. 160mm L-200m
+----------------------------------------------------------------------------------------
+| 12 | ESR 4 Nos | 21269884 |
+|  | i) Bazar Samiti ESR 3.00 lac Ltrs. |
+|  | ii) lce Factory ESR 4.63 lac Ltrs |
+|  | iii) MBR ESR 1.45 lac Ltrs |
+|  | vi) Sump ESR 4.53 lac Ltrs |
+| 13 | Distribution System HDPE PE 100 6 Kg/cm2 Dia 110 mm to 300 mm L-65.439 Km | 204845802 |
+| 14 | Miscllancous (Chain Link Fencing and gate for ESR WTP Name Board) | 3419160 |
+| 15 | Solar Plant at WTP 240 KWP | 12560100 |
+| 16 | Automation & Scada For PW, RW & WTP | 5301903 |
+| 17 | Trial Run (For 3 Months ) | 91722 |
+|  | Total | 382188974 |
+|  | Add GST 18% | 68794015 |
+|  | Charges for permission of other Department (NHAI, PWD, Road/ Railway Crossing) | 707757 |
+|  | Add 1% Technical Santion Fee | 3821890 |
+|  | Add PWD & MSEB Charges | 9975000 |
+|  | Add for labour insurance (1% On PWD Amount) | 707757 |
+|  | Net Cost | 466195393 |
+|  | Say Rs. | 46.62 Cr. |
+|  | प्रकल्प पूर्ण करण्याचा कालावधी  |  | कार्यादेश दिनांका पासून 18 महिने |
+----------------------------------------------------------------------------------------
 ०३. गडहिंग्लज नगरपरिषदेच्या सदर पाणीपुरवठा प्रकल्पाची Opex किंमत गडहिंग्लज
 नगरपरिषदेने उभारणे आवश्यक आहे. सदर प्रकल्प पुर्ण करण्याचा कालावधी १८ महिने
 राहील.

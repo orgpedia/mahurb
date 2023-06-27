@@ -26,10 +26,58 @@
 महाभियानांतर्गत सादर करण्यात आलेल्या औरंगाबाद महानगरपालिकेच्या पाणी पुरवठा प्रकल्पास संदर्भाधीन
 शासन निर्णयातील अटी व तरतूदीच्या व महाराष्ट्र जीवन प्राधिकरणाने दिलेल्या तांत्रिक मान्यतेच्या अधीन राहून
 तसेच याबाबत औरंगाबाद महानगरपालिकेने शासनास सादर केलेल्या कायदेशीर अभिप्रायाच्या अनुषंगाने खालील विवरणपत्रात नमूद केल्यानुसार या शासन निर्णयाद्वारे मंजूरी देण्यात येत आहे. या प्रकल्पातील उपांगे व त्यांचे किंमतीचे विवरण पुढीलप्रमाणे आहे:
+---------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Name of Sub-Work | Amount (In Cr.) |
+| 1 | Working Survey ( 2000 km ) | 0.50 |
+| 2 | Approach Channel (L=400 m) | 4.26 |
+| 3 | Jack well and Pump House (70mx 25 m) | 21.27 |
+| 4 | Approach Bridge (L= 600 m and 12 m width) | 22.23 |
+| 5 | Approach Bund (L= 510 m and 12 m width) | 3.68 |
+| 6 | Raw Water Rising Main-= 39.54Km (OD-2500mm and 25 mm thk) | 509.67 |
+| 7 | Water Treatment Plant (392 MLD), Drainage Arrangement and Recirculation Sump & Pump House | 47.16 |
+| 8 | Pure Water Rising Main WTP to MBR (MS - 1932 mm OD, L - 500 m for MBR @ 632 m and 1528 mm OD, L - 600 m for MBR @ 664 m) | 7.41 |
+| 9 | MBR (11.57 ML at 664 m and 5.00ML at 632 m) | 5.59 |
+| 10 | Pure Water Transmission Main (MS, L -39.053Km and DI, L-84.47 km) | 183.58 |
+| 11 | Proposed ESR- 49 nos and GSR - 4 nos | 65.74 |
+| 12 | Pure Water Sump And Pump House in City ( 5 Nos) | 1.19 |
+| 13 | Pure Water Rising Main PW sump to ESRs ( 5 Nos) | 5.72 |
+| 14 | Distribution system - 1911.05 km | 293.03 |
+| 15 | Shifting of existing house service connection (90000 nos) | 38.24 |
+| 16 | Extension to Existing Raw Water Rising Main to New HW (1219 mm OD, Length -2 km) | 9.01 |
+| 17 | Strengthening of Existing Raw Water Rising Main (1219 mm OD, Length -1 km) | 1.60 |
+| 18 | Dismantling of 2000 mm line laid under PPP for Raw and Pure Water Rising main | 0.36 |
+| 19 | Approach Road to Headwork at Jayakwadi Dam, WTP and MBR | 1.81 |
+| 20 | Hill cutting and Leveling of WTP Premises and MBR | 1.62 |
+| 21 | Compound Wall for WTP and Headwork | 2.37 |
+| 22 | Staff Quarter at Headwork and WTP | 7.28 |
+| 23 | Road Restoration ( 370Km ) | 54.18 |
+| 24 | Raw Water Pumping Machinery, Desalting Pumping Machinery for Jack well and Substation | 144.22 |
+| 25 | Pure Water Pumping Machinery at Nakshtrawadi and Pharola, Pumping | 25.54 |
+---------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ८ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः नगरो-२०१९/प्र.क्र.२५८/नवि-३३
+------------------------------------------------------------------------
+|  | Machinery for Recirculation Sump, PWPM at Sump (5 No) and substation |  |
+| 26 | Automation for RWPM, PWPM,WTP | 13.77 |
+| 27 | Express Feeder for HW and WTP | 4.42 |
+| 28 | Trial and Run for 1 year | 18.42 |
+| 29 | Environmental Permission | 7.19 |
+| 30 | Railway crossing charges and Permission | 0.10 |
+|  | Net Cost Excluding GST in Rs. | 1501.16 |
+|  | add 12% for GST | 179.20 |
+|  | Royalty Charges for Approach Channel | 0.01 |
+|  | Royalty Charges for Approach Bund | 0.01 |
+|  | Royalty Charges for Approach Bridge | 0.12 |
+|  | Net Cost Including GST and Royalty in Rs. | 1680.50 |
+|  | प्रकल्प पूर्ण करण्याचा कालावधी | कार्यादेश दिनांका पासून ३६ महिने |
+------------------------------------------------------------------------
 ०२. औरंगाबाद महानगरपालिकेच्या पाणी पुरवठा प्रकल्पाचा वित्तीय आकृतिबंध पुढीलप्रमाणे राहील:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| अ. क्र. | नागरी स्थानिक स्वराज्य संस्थेचे नाव | योजनेची मंजूर किंमत | राज्य शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ७०% ) | नागरी स्थानिक स्वराज्य संस्थेचा सहभाग (प्रकल्प किंमतीच्या ३०% ) |
+| १ | २ | ३ | ४ | ५ |
+|  | औरंगाबाद महानगरपालिका | रु.१६८०.५० कोटी | रु.११७६.३५ कोटी | रु.५०४.१५ कोटी |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०३. संदर्भाधीन क्रमांक १ येथील शासन निर्णयानुसार औरंगाबाद महानगरपालिकेच्या पाणी पुरवठा प्रकल्पास खालील अटींच्या अधीन राहून प्रशासकीय मंजूरी देण्यात येत आहे: अ) प्रकल्प मंजूरी व प्रकल्प कार्यान्वयन यंत्रणा : १. औरंगाबाद शहरास सध्या असलेली प्रकल्पाची तीव्र निकड विचारात घेता, सध्या सदर प्रकल्प महाराष्ट्र सुवर्ण जयंती नगरोत्थान महाभियानांतर्गत मंजूर करण्यात येत आहे. भविष्यामध्ये केंद्रामार्फत अमृत-२ अभियान घोषित झाल्यानंतर सदर प्रकल्पास अमृत-२ मधून निधी वितरीत करण्यात येईल. त्यामुळे, या प्रकल्पासाठी अमृत अभियांनातील प्रकल्पांसाठी लागू असलेल्या निविदा प्रक्रिया, मान्यता व इतर अंमलबजावणीबाबतच्या मार्गदर्शक सूचना लागू राहतील.
 २. सदर प्रकल्पाचे कार्यान्वयन महाराष्ट्र जीवन प्राधिकरणामार्फत पूर्ण ठेव तत्वावर करण्यात यावे.
 ३. सदर प्रकल्प महाराष्ट्र जीवन प्राधिकरणामार्फत पूर्ण ठेव तत्वावर तत्वावर राबविणे महानगरपालिकेस बंधनकारक राहील.

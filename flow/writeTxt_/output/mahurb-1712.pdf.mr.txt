@@ -20,11 +20,60 @@
 केल्यानुसार या शासन निर्णयाद्वारे प्रशासकीय मान्यता देण्यात येत आहे. सदर प्रकल्पाच्या वित्तीय
 आकृतिबंध पुढीलप्रमाणे राहील :
 (रु. कोटीमध्ये)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| नागरी स्थानिक स्वराज्य संस्थेचे नाव | प्रकल्प किंमत | केंद्र शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ५०%) | राज्य शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ४५% ) | नागरी स्थानिक स्वराज्य संस्थेचा हिस्सा ( प्रकल्प किंमतीच्या ०५ %) |
+| १ | २ | ३ |  | ५ |
+| आजरा नगरपंचायत | २५.४१ | १२.७७ | ११.४३ | १.२७ |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०२. आजरा नगरपंचायतच्या पाणीपुरवठा प्रकल्पातील घटक व त्यांचे अंदाजित किंमतीचे विवरण
 पुढीलप्रमाणे आहे.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Name Of Component | Amount in Rs. |
+| 1 | Working Survey - 50 km | 125000 |
+| 2 | Head Works |  |
+| 2a | Intake Well R.C.C. 3.00 m dia, Depth 5.05 m | 649838 |
+| 2b | Connecting Pipe DI K -7 400 mm dia, L=20.00 Rmt. | 663117 |
+| 2c  |  | Jackwell & Pump house Dia 6.00 Mtr | 3525145 |
+| 2d | Approach Bund with Road ( L=30m) | 323964 |
+|  | Raw water Rising Main (300MM dia. D.I.K-9 Pipes- 1560 R.M.) | 8919609 |
+| 4a | Unconventional Water Treatment Plant (2.5 MLD Near existing WTP) | 14672350 |
+| 4b | 4b Repairs to Existing WTP | 2683956 |
+| 5 | Pure water Rising Mains |  |
+| a | (For Awandi vasahat ESR) (100MM dia. D.I.K-9 Pipes- L = 1004 M) | 2271771 |
+| b | (From Proposed WTP to Proposed MBR) Pure Water Rising Main (250mm dia, L=50m) From WTP to MBR | 419153 |
+| C | (For Darawajkar colony ESR) (100MM dia. D.I.K-9 Pipes- L = 1980 M) | 5449422 |
+| d  |  | Pure water Gravity Mains | 7991519 |
+| For Ext. Gandhinagar ESR, Prop. Rice Mill ESR, Prop. Rice Mill GSR & Ext. High Court ESR |
+| ба | Storage Reservoires MBR & ESRs A) Pro. GSR Rice Mill B) Pro. Rice Mill ESR 3. HT10 M C) Pro. Darwajkar Colony Amboli Road ESR HT 18 M D)Pro. Awandi Vasahat ESR HT 12 M E) MBR HT 22 M | 21623158 |
+| 6b | Dismantling of Existing Rice Mill ESR | 465850 |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ६ पैकी २
 # Page 3
 शासन निर्णय क्रमांक : अमृत-२०२३/प्र.क्र.४९/नवि-३३
+-------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Name Of Component | Amount in Rs. |
+| 7 | Distribution System HDP Pipe 225 to 90 mm Dia Total Length = 49.715 Km | 75041325 |
+| 8 | Reinstantment of Roads-30.03 Kms | 29023069 |
+| 9 | Trial Run for 3 months | 807201 |
+| 10 | Wire Fencing and Gate | 491357 |
+| 11a | Raw water Pumping Machinery (50 HP V.T.Pumps Q = 64 Lps & Head 36 m - 2 Nos ( 1W + 1S ) | 5193346 |
+| 11b | Pure water Pumping Machinery From WTP work to Proposed MBR 40_HP ( 1W +1S ) Q - 53 Lps & H - 32 m | 4617930 |
+| 11c | Pure Water Pumping Machinery 3 HP (1+1) From W.T.P to Awandi Wasahat Q - 1 Lps & H - 49 m | 102529 |
+| 11d | Pure Water Pumping Machinery 10 HP (1+1) From W.T.P to Darwajkar Colony Q - 6 Lps & H - 50 m | 151817 |
+| 12 | Solar Power Plant - 53KWp | 2049428 |
+| 13 | Automation to Raw Water Pumping Machinery, Pure Water Pumping Machinery WTP and Reservoir Management System | 14081048 |
+| 14a | Express Feeder for Raw Water Pumping Machinery | 3223353 |
+| 14b | Express Feeder for Pure Water Pumping Machinery | 4354045 |
+|  | Total Net Cost | 208920300 |
+|  | Add 18% GST on Net Cost | 37605654 |
+|  | Add 1% for TS Charges on Net Cost | 2089203 |
+|  | Add 1% for Labour Insurance on PWD Items | 290231 |
+| 15 | Electrical Connection Charges | 4000000 |
+| 16 | Road Crossing & Permission Charges | 1155000 |
+|  | Total Gross Cost | 254060388 |
+|  | Say Rs. | 25.41 Cr. |
+|  | प्रकल्प पूर्ण करण्याचा कालावधी | कार्यादेश दिनांका पासून १८ महिने |
+-------------------------------------------------------------------------------------------------------------------------
 ०३. आजरा नगरपंचायतच्या सदर पाणीपुरवठा प्रकल्पाची Opex किंमत आजरा नगरपंचायतने
 उभारणे आवश्यक आहे. सदर प्रकल्प पुर्ण करण्याचा कालावधी १८ महिने राहील.
 ०४. आजरा नगरपंचायतच्या पाणीपुरवठा प्रकल्पास खालील अटींच्या अधीन राहून प्रशासकीय

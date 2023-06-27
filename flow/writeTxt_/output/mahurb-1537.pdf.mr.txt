@@ -17,11 +17,53 @@
 विवरणपत्रानुसार नमूद केल्यानुसार या शासन निर्णयाद्वारे प्रशासकीय मान्यता देण्यात येत आहे.
 सदर प्रकल्पाच्या वित्तीय आकृतिबंध पुढीलप्रमाणे :
 (किंमत रु.कोटी)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| नागरी स्थानिक स्वराज्य संस्थेचे नाव व वर्ग | प्रकल्प मंजूर किंमत | केंद्र शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ३३.३३% ) | राज्य शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ३६.६७%) | नागरी स्थानिक स्वराज्य संस्थेचा हिस्सा ( प्रकल्प किंमतीच्या ३० %) |
+| १ | २ | ३ | ४ | ५ |
+| नांदेड महानगरपालिका | ३२९.१६ | १०९.७०९ | १२०.७०३ | ९८.७४८ |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०२. नांदेड महानगरपालिकेच्या मलनिस्सारण प्रकल्पातील घटक व त्यांचे अंदाजित किंमतीचे
 विवरण पुढीलप्रमाणे आहे.
+--------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Particulars of Work | Amount |
+| 1 | Subwork No. 1 |  |
+|  | Working Survey | 3656400 |
+| 2 | Subwork No. 2 |  |
+|  | Sewerage Collection Network of RCC NP-III Pipe 150mm dia to 800 mm dia Length of Network = 430 Km | 2291250800 |
+| 3 | Subwork No. 3 |  |
+|  | Sewerage Trunk Main of RCC NP-III 700mm, 1100mm, 1200 mm dia Length of Main = 4260.00 m | 98273500 |
+| 4 | Subwork No. 4 |  |
+|  | Designing and Constructing Sewerage Pumping Station @ Old Trenching Ground | 6059900 |
+| 5 | Subwork No. 5 |  |
+|  | Designing and Constructing Sewerage Pumping Station @ Murmura Galli | 6059900 |
+| 6 | Subwork No. 6 |  |
+|  | Providing, Erecting and Commissioning Pumping Machinery @ Old Trenching Ground | 7045800 |
+| 7 | Subwork No. 7 |  |
+|  | Providing, Erecting and Commissioning Pumping Machinery @ Murmura Galli | 6343600 |
+| 8 | Subwork No. 8 |  |
+|  | Sewerage Rising Main From SPS Old Trenching Ground to STP at Bondhar L = 2050 m | 19281000 |
+| 9 | Subwork No. 9 |  |
+|  | Sewerage Rising Main From SPS Murmura Galli to Chamber at Bafna T Point L 1460m | 8010000 |
+| 10 | Subwork No. 10 |  |
+|  | Replacement of Existing Sewerage Pumping Machinery of JNNURM Scheme Providing, Erecting and Commissioning inclusive | 117471300 |
+--------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ६ पैकी २
 # Page 3
 शासन निर्णय क्रमांक अमृत-२०२२/प्र.क्र.२६८/नवि-३३
+-----------------------------------------------------------------------------
+| 11 | Subwork No. 11 |  |
+|  | Integration of New Collection System with Existing Network | 68102700 |
+| 12 | Subwork No. 12 |  |
+|  | Sewerage Main Maintenance Machinery | 112134654 |
+| 13 | Subwork No. 13 Package STP at Asarjan & Kanthak Nagar in Zone-4 | 21666300 |
+|  | Cost of Scheme Rs. (A) | 2765355854 |
+|  | Add 18% for GST | 497764054 |
+|  | Net Cost of Scheme | 3263119908 |
+|  | Add 1% for Technical Sanction on A | 27653559 |
+|  | Add 1% Labour Insurance for PWD Item | 835646 |
+|  | Total Net Cost of Rs. | 3291609113 |
+|  | Say Rs. | 329.16 Cr. |
+-----------------------------------------------------------------------------
 ०३. नांदेड महानगरपालिकेच्या सदर मलनिस्सारण प्रकल्पाची Opex किंमत नांदेड
 महानगरपालिकेने उभारणे आवश्यक आहे. सदर प्रकल्प पुर्ण करण्याचा कालावधी २४ महिने आहे.
 ०४. नांदेड महानगरपालिकेच्या मलनिस्सारण प्रकल्पास खालील अटींच्या अधीन राहून

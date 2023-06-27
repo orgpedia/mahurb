@@ -29,10 +29,54 @@
 नगरपंचायतीच्या पाणी पुरवठा प्रकल्पास संदर्भाधीन शासन निर्णयातील अटी व तरतूदीच्या व
 मुख्य अभियंता, महाराष्ट्र जीवन प्राधिकरण, औरंगाबाद विभाग यांनी दिनांक २७ फेब्रुवारी,
 २०२३ रोजीच्या पत्रान्वये दिलेल्या तांत्रिक मान्यतेच्या अधीन राहून खालील विवरणपत्रात नमूद केल्यानुसार या शासन निर्णयाद्वारे मंजूरी देण्यात येत आहे. या प्रकल्पातील उपांगे व त्यांचे किंमतीचे विवरण पुढीलप्रमाणे आहे.
+---------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Name of Sub work | Amount in Rs. |
+| 1 | Headwork |  |
+| 1.1  |  | Approach Channel & Intake Well (Dia - 3.0 m) at Siddheshwar Dam | 1786280 |
+| 1.2  |  | Connecting Main from Intake Well to Inspection Well (Dia = 400mm D.I..K-7, Length-30.0Rmt. ) | 647850 |
+| 1.3 | Inspection Well (Dia- 3.0 m, Depth- 8.90 m, 1 No.) | 789370 |
+| 1.4 | Connecting Main from Inspection Well to Jack Well (Dia=400 mm D.I.K-7, Length- 30.0Rmt.) | 660060 |
+| 1.5  |  | Jack Well and Pump House at Siddheshwar Dam (Dia of Jack well= 8.0 m, Depth=20.29 m, Height of Pump house-6.0 m) | 12145965 |
+| 1.6 | Approach Bridge for jack Well (Width= 3.0 m, Legth-60.0 m) | 5756300 |
+| 1.7 | Approach Road & Approach Bund | 663210 |
+| 2 | Raw Water Pumping Machinery (VT Pumps-90.0 HP (2W+1S), Q-1,22,000 LPH, Total Head – 117.0m ) | 8886840 |
+| 3 | Raw Water Rising Main from Siddheshwar Dam to Water Treatment Plant (DI K-9, Dia=300m, Length=16.200Rmt.) | 106182140 |
+| 4 | Conventional Water Treatment Plant (Capacity-5.50 MLD) | 30157100 |
+| 5 | Pure Water Pumping Machinery 40 HP & 7.5 HP @ WTP Site | 5636693 |
+| 6 | Pure Water Rising & Gravity Main from WTP to Proposed MBR and MBR to All ESR | 21162000 |
+| 7 | Elevated Service Reservoirs |  |
+|  | MBR at Hillock (Capacity-1,60,000 lit) | 4672000 |
+| ESR at Hingoli Road (Capacity- 3,50,000 lit) | 5632700 |
+| ESR at WTP Campus (Capacity – 3,40,000 lit) | 5576900 |
+| ESR at Gramin Hospital Hill (Capacity- 3,80,000 lit) | 5757000 |
+| ESR at Galandi (Capacity-90,000 lit) | 2759200 |
+| 8 | Distribution Network in HDPE pipe PE100/PN 6.0 (Dia-110.0 mm to 250.0 mm, L-29272.0m) | 47464300 |
+| 9 | Metering System Cost of Bulk Metering | 2024438 |
+| 10 | Reinstating of Roads | 18826162 |
+| 11 | a) Solar plant at Head works for Raw Water Pumping Machinery | 5382900 |
+---------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ८पैकी२
 # Page 3
 शासननिर्णयक्रमांकः नगरो-२०२३/प्र.क्र.२८३/नवि-३३
+--------------------------------------------------------------------------
+| Sr. No. | Name of Sub work | Amount in Rs. |
+|  | b) Solar Plant for Pure Water Pumping Machinery | 3441240 |
+| 12 | Trial and Run (Commissioning & Running Scheme for Three Month) | 162765 |
+|  | Total Amount | 296173413 |
+|  | 18 % GST | 53311214 |
+|  | Total Net Cost | 349484627 |
+| 13 | HT Feeder Line (Legth-10 km at Head Work Location) | 14788000 |
+|  | Labour Insurance on PWD Items @ 1.0% | 86125 |
+|  | Gross Total | 364358752 |
+|  | Say Rs. | 36.44 Cr. |
+|  | प्रकल्प पूर्ण करण्याचा कालावधी  |  | कार्यादेश दिनांका पासून १८ महिने |
+--------------------------------------------------------------------------
 ०२. औंढा नागनाथ नगरपंचायतीचा पाणी पुरवठा प्रकल्प वित्तीय आकृतिबंध पुढीलप्रमाणे राहील:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| अ.क्र. | नागरी स्थानिक स्वराज्य संस्थेचे नाव | योजनेची मंजूर किंमत | राज्य शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ९०%) | नागरी स्थानिक स्वराज्य संस्थेचा सहभाग (प्रकल्प किंमतीच्या १०%) |
+| १ | २ | ३ | ४ | ५ |
+| १ | औंढा नागनाथ नगरपंचायत | रु.३६.४४ कोटी | रु.३२.७९६ कोटी | रु.३.६४४ कोटी |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०३. संदर्भाधीन क्रमांक १ येथील शासन निर्णयानुसार औंढा नागनाथ नगरपंचायतीच्या पाणी पुरवठा प्रकल्पास खालील अटींच्या अधीन राहून प्रशासकीय मंजूरी देण्यात येत आहे: अ) प्रकल्प कार्यान्वयन यंत्रणा : १. सदर प्रकल्पाचे कार्यान्वयन औंढा नागनाथ नगरपंचायतीमार्फत करण्यात यावे.
 २. या अभियानांतर्गत प्रकल्प व्यवस्थापन सल्लागार (PMC) नेमणुकीबाबत दिनांक १२
 एप्रिल, २०२३ रोजी या विभागाने निर्गमित केलेल्या शासन नुसार कार्यवाही करावी.

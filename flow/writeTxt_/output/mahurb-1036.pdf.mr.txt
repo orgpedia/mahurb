@@ -19,7 +19,39 @@
 शासन निर्णय क्रमांकः बैठक-२०२१/प्र.क्र.१८/नवि-३३
 महाराष्ट्र जीवन प्राधिकरणाने दिलेल्या तांत्रिक मान्यतेच्या अधीन राहून खालील विवरणपत्रात
 नमूद केल्यानुसार या शासन निर्णयाद्वारे मंजूरी देण्यात येत आहे. या प्रकल्पातील उपांगे व त्यांचे किंमतीचे विवरण पुढीलप्रमाणे आहे:
+--------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | DESCRIPTION | Amount (In Rs.) |
+| 1 | Headwork -Intake Well (Dia- 3.0m ) at Balegaon Bandhara | 734792 |
+| 2 | Connecting Main No.1 from Intake Well To Inspection Well (Dia 600 mm DI K-7, Length-30.0 Rmt) | 469511 |
+| 3 | Inspection Well (Dia -3.0m, Qty-1 No) | 435030 |
+| 4 | Connecting Main No.2 from Intake Well To Inspection Well (Dia 600 mm, DI K-7, Length-30.0 Rmt) | 469511 |
+| 5 | Jack Well and Pump House at Balegaon Bandhara (Dia of Jack well 9.0m, Depth 29.53m, Ht of pump House-6.5m) | 13631870 |
+| 6 | Approach Bridge for Jack Well (Length-85.0 m, Width=4.0 m ) | 6964300 |
+| 7 | Approach Road (Length-300m) & Approach bund (Length-20m) | 1076945 |
+| 8 | Raw Water Pumping Machinery VT Pumps 200.0 HP (2W+1S), Q 202160 LPH,Total Head 165.0m) | 15303978 |
+| 9 | Raw Water Rising Main from Balegaon Bandhara to Water Treatment Plant (DI K-9, Dia 400 Length 32120 Rmt) (32.12 Km) | 175184800 |
+| 10 | Unconventional Water Treatment Plant (Capacity 4.50 MLD) | 14238300 |
+| 11 | Pure Water Gravity Main from WTP to to All Reservoirs | 7346000 |
+| 13 | ESR at Fire Brigade Station (Capacity 9 lakh Litres, Staging-20m) | 7210600 |
+| 14 | Distribution Network in HDPE pipes (PE100/PN6.0) (Dia-110.0 mm to 250.0mm, L-35243.0m) (35.243 Km) | 51333800 |
+| 15 | Cost of Bulk Metering (Number- 8 ) | 2450276 |
+| 16 | SCADA and Automation | 9925264 |
+| 17 | Reinstating of Roads | 25540025 |
+| 18 | Solar Plant at Head works (302Kw) & WTP (45 Kw) | 12342409 |
+| 19 | Miscellaneous Works (Existing WTP Civil & Mech Work repairs, Express Feeder for Raw Water Pumping Machinery and Canal crossing etc.) | 17530035 |
+| 20 | Trial & Run (Commissioning & Running Scheme for 1 Year) | 2051513 |
+|  | Total Amount | 364238959 |
+|  | Add GST 12.0% | 43708675 |
+|  | Total Cost Rs. (Including GST) | 407947634 |
+|  | Say ( Rs in Cr ) | 40.79 Cr. |
+|  | प्रकल्प पूर्ण करण्याचा कालावधी | कार्यादेश दिनांका पासून २४ महिने |
+--------------------------------------------------------------------------------------------------------------------------------------------------
 ०२. मुदखेड नगरपरिषदेच्या पाणी पुरवठा प्रकल्पाचा वित्तीय आकृतिबंध पुढीलप्रमाणे राहील:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| अ. क्र. | नागरी स्थानिक स्वराज्य संस्थेचे नाव | योजनेची मंजूर किंमत | राज्य शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ९०% ) | नागरी स्थानिक स्वराज्य संस्थेचा सहभाग (प्रकल्प किंमतीच्या १०%) |
+| १ | २ | ३ | ४ | ५ |
+| १ | मुदखेड नगरपरिषद | रु.४०.७९ कोटी | रु.३६.७११ कोटी | रु.४.०७९ कोटी |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ७ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः बैठक-२०२१/प्र.क्र.१८/नवि-३३ ०३. संदर्भाधीन क्रमांक १ येथील शासन निर्णयानुसार मुदखेड नगरपरिषदेच्या पाणी पुरवठा प्रकल्पास खालील अटींच्या अधीन राहून प्रशासकीय मंजूरी देण्यात येत आहे: अ) प्रकल्प कार्यान्वयन यंत्रणा : १. सदर प्रकल्पाचे कार्यान्वयन मुदखेड नगरपरिषदेमार्फत करणेत यावे.

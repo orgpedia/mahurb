@@ -23,19 +23,124 @@
 सार्वजनिक बांधकाम विभागाने दिलेल्या तांत्रिक मान्यतेच्या अधीन राहून खालील विवरणपत्रात नमूद
 केल्यानुसार या शासन निर्णयाद्वारे मंजूरी देण्यात येत आहे. या प्रकल्पातील उपांगे व त्यांचे किंमतीचे
 विवरण पुढीलप्रमाणे आहे :
+---------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Name of Work | Length (Km) | Cost (Rs.) |
+| 1 | 1.1- Construction of Storm Drain at ward No-1 Latur Municipal Corporation, Latur | 0.725 | 4114559 |
+| 2 | 1.2- Construction of Thin White Topping Concrete Road & Drain at ward No-1 Latur Municipal Corporation, Latur | 0.113 | 2773324 |
+| 3 | 1.3- Construction of BT Road & Drain at ward No-1 Latur Municipal Corporation, Latur | 0.450 | 3488623 |
+| 4 | 2.1-Construction of Storm Drain at ward No- 2 Latur Municipal Corporation, Latur | 0.731 | 4148691 |
+| 5 | 2.2- Construction of BT Road & Drain at ward No-2 Latur Municipal Corporation, Latur | 0.345 | 2908091 |
+| 6 | 2.3- Construction of Conventional Concrete Road at ward No-2 Latur Municipal Corporation, Latur | 0.155 | 2089019 |
+| 7 | 2.4- Construction of Thin White Topping Concrete Road at ward No-2 Latur Municipal Corporation, Latur | 1.463 | 10713221 |
+| 8 | 2.5- Construction of Storm Drain at ward No - 2 Latur Municipal Corporation, Latur | 0.783 | 4443722 |
+| 9 | 3.1- Construction of Storm Drain at ward No-3 Latur Municipal Corporation, Latur | 0.535 | 3036232 |
+| 10 | 3.2- Construction of Conventional Concrete Road at ward No-3 Latur Municipal Corporation, Latur | 0.870 | 11609603 |
+| 11 | 3.3- Construction of Bituminous Road & Drain at ward No 3 Latur Municipal Corporation, Latur | 1.412 | 15545679 |
+| 12 | 3.4- Construction of Thin White Topping Concrete Road at ward No-3 Latur Municipal Corporation, Latur | 0.300 | 2998970 |
+| 13 | 3.5- Construction of Thin White Topping Concrete Road & Drain at ward No-3 Latur Municipal Corporation, Latur | 1.000 | 19404801 |
+| 14 | 4.1- Construction of Conventional Concrete Road at ward No-4 Latur Municipal Corporation, Latur | 1.017 | 9889594 |
+| 15 | 4.2- Construction of Thin White Topping Concrete Road at ward No-4 Latur Municipal Corporation, Latur | 0.710 | 8039871 |
+| 16 | 4.3- Construction of Conventional Concrete Road at ward No-4 Latur Municipal Corporation, Latur | 1.577 | 15239463 |
+| 17 | 4.4- Construction of Thin White Topping Concrete Road at ward No-4 Latur Municipal Corporation, Latur | 0.747 | 6431641 |
+| 18 | 4.5- Construction of Conventional Concrete Road at ward No-4 Latur Municipal Corporation, Latur | 0.680 | 11066074 |
+---------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ११ पैकी २
 # Page 3
 शासन निर्णय क्रमांक: बैठक-२०२२/प्र.क्र.६२/नवि-३३
+--------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Name of Work | Length (Km) | Cost (Rs.) |
+| 19 | 5.1- Construction of Storm Drain at ward No-5 Latur Municipal Corporation, Latur | 0.234 | 1328017 |
+| 20 | 5.2- Construction of Bituminous Road at ward No-5 Latur Municipal Corporation, Latur | 0.466 | 2577284 |
+| 21 | 5.3- Construction of Conventional Concrete Road at ward No-5 Latur Municipal Corporation, Latur | 0.490 | 6368004 |
+| 22 | 5.4- Construction of Thin White Topping Concrete Road at ward No-5 Latur Municipal Corporation, Latur | 0.697 | 7132779 |
+| 23 | 5.5- Construction of Conventional Concrete Road at ward No-5 Latur Municipal Corporation, Latur | 0.701 | 9101113 |
+| 24 | 5.6- Construction of Storm Drain at ward No-5 Latur Municipal Corporation, Latur | 0.229 | 1299718 |
+| 25 | 6.1- Construction of Storm Drain at ward No-6 Latur Municipal Corporation, Latur | 0.730 | 4142973 |
+| 26 | 6.2- Construction of Thin White Topping Concrete Road & Drain at ward No-6 Latur Municipal Corporation, Latur | 0.395 | 7035419 |
+| 27 | 6.3- Construction of Bituminous Road at ward No-6 Latur Municipal Corporation, Latur | 0.421 | 2413370 |
+| 28 | 7.1- Construction of Storm Drain at ward No-7 Latur Municipal Corporation, Latur | 1.245 | 7065624 |
+| 29 | 7.2- Construction of Thin White Topping Concrete Road at ward No-7 Latur Municipal Corporation, Latur | 1.029 | 12449007 |
+| 30 | 7.3- Construction of Conventional Concrete Road at ward No-7 Latur Municipal Corporation, Latur | 0.310 | 4214218 |
+| 31 | 7.4- Construction of Conventional Concrete Road at ward No-7 Latur Municipal Corporation, Latur | 0.415 | 5406501 |
+| 32 | 7.5- Construction of Thin White Topping Concrete Road at ward No-7 Latur Municipal Corporation, Latur | 0.659 | 5685869 |
+| 33 | 8.1- Construction of Storm Drain at ward No-8 Latur Municipal Corporation, Latur | 0.310 | 1759389 |
+| 34 | 8.2- Construction of Conventional Concrete Road at ward No-8 Latur Municipal Corporation, Latur | 0.580 | 7779920 |
+| 35 | 8.3- Construction of Thin White Topping Concrete Road at ward No-8 Latur Municipal Corporation, Latur | 0.474 | 4173348 |
+| 36 | 8.4- Construction of Thin White Topping Concrete Road at ward No-8 Latur Municipal Corporation, Latur | 0.232 | 2022588 |
+| 37 | 9.1- Construction of Storm Drain at ward No-9 Latur Municipal Corporation, Latur | 0.440 | 2497127 |
+| 38 | 9.2- Construction of Thin White Topping Concrete Road at ward No-9 Latur Municipal Corporation, Latur | 0.988 | 10856066 |
+| 39 | 9.3- Construction of Bituminous Road at ward No-9 Latur Municipal Corporation, Latur | 0.650 | 5787108 |
+| 40 | 10.1- Construction of Conventional Concrete Road at ward No-10 Latur Municipal Corporation, Latur | 0.690 | 9203455 |
+| 41 | 10.2- Construction of Thin White Topping Concrete Road at ward No-10 Latur Municipal Corporation, Latur | 0.660 | 7238210 |
+--------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ११ पैकी ३
 # Page 4
 शासन निर्णय क्रमांक: बैठक-२०२२/प्र.क्र.६२/नवि-३३
+-----------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Name of Work | Length (Km) | Cost (Rs.) |
+| 42 | 10.3- Construction of Storm Drain at ward No-10 Latur Municipal Corporation, Latur | 0.704 | 3995400 |
+| 43 | 10.4- Construction of Thin White Topping Concrete Road at ward No-10 Latur Municipal Corporation, Latur | 0.660 | 5693291 |
+| 44 | 11.1- Construction of Conventional Concrete Road at ward No-11 Latur Municipal Corporation, Latur | 0.128 | 1781935 |
+| 45 | 11.2- Construction of Thin White Topping Concrete Road at ward No-11 Latur Municipal Corporation, Latur | 1.500 | 16438331 |
+| 46 | 11.3- Construction of Storm Drain at ward No-11 Latur Municipal Corporation, Latur | 0.522 | 3291693 |
+| 47 | 12.1- Construction of Storm Drain at ward No-12 Latur Municipal Corporation, Latur | 0.786 | 4460788 |
+| 48 | 12.2- Construction of Bituminous Road at ward No-12 Latur Municipal Corporation, Latur | 0.855 | 5762741 |
+| 49 | 12.3- Construction of Thin White Topping Concrete Road at ward No-12 Latur Municipal Corporation, Latur | 1.112 | 9218404 |
+| 50 | 12.4- Construction of Storm Drain at ward No-12 Latur Municipal Corporation, Latur | 1.044 | 5924929 |
+| 51 | 13.1- Construction of Storm Drain at ward No-13 Latur Municipal Corporation, Latur | 0.252 | 1430211 |
+| 52 | 13.2- Construction of Bituminous Road at ward No-13 Latur Municipal Corporation, Latur | 0.636 | 3943793 |
+| 53 | 13.3- Construction of Thin White Topping Concrete Road & Drain at ward No-13 Latur Municipal Corporation, Latur | 1.360 | 21314256 |
+| 54 | 13.4- Construction of Conventional Concrete Road at ward No-13 Latur Municipal Corporation, Latur | 0.364 | 4898284 |
+| 55 | 14.1- Construction of Thin White Topping Concrete Road at ward No-14 Latur Municipal Corporation, Latur | 1.707 | 20413604 |
+| 56 | 14.2- Construction of Conventional Concrete Road at ward No-14 Latur Municipal Corporation, Latur | 0.750 | 9726880 |
+| 57 | 15.1- Construction of Storm Drain at ward No-15 Latur Municipal Corporation, Latur | 0.194 | 1101048 |
+| 58 | 15.2- Construction of Thin White Topping Concrete Road at ward No-15 Latur Municipal Corporation, Latur | 1.404 | 16261397 |
+| 59 | 15.3- Construction of Conventional Concrete Road at ward No-15 Latur Municipal Corporation, Latur | 0.200 | 2726829 |
+| 60 | 16.1- Construction of Storm Drain at ward No-16 Latur Municipal Corporation, Latur | 0.770 | 4369943 |
+| 61 | 16.2- Construction of Conventional Concrete Road at ward No-16 Latur Municipal Corporation, Latur | 0.510 | 6823142 |
+| 62 | 16.3- Construction of Thin White Topping Concrete Road at ward No-16 Latur Municipal Corporation, Latur | 0.465 | 5125178 |
+| 63 | 17.1- Construction of Storm Drain at ward No-17 Latur Municipal Corporation, Latur | 0.786 | 4460788 |
+| 64 | 17.2- Construction of Conventional Concrete Road at ward No-17 Latur Municipal Corporation, Latur | 0.242 | 3287302 |
+-----------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ११ पैकी ४
 # Page 5
 शासन निर्णय क्रमांक: बैठक-२०२२/प्र.क्र.६२/नवि-३३
+----------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Name of Work | Length (Km) | Cost (Rs.) |
+| 65 | 17.3- Construction of Bituminous Road at ward No-17 Latur Municipal Corporation, Latur | 1.066 | 9042877 |
+| 66 | 17.4- Construction of Thin White Topping Concrete Road at ward No-17 Latur Municipal Corporation, Latur | 0.200 | 2251609 |
+| 67 | 17.5- Construction of Conventional Concrete Road at ward No-17 Latur Municipal Corporation, Latur | 1.202 | 15551376 |
+| 68 | 18.1- Construction of Storm Drain at ward No-18 Latur Municipal Corporation, Latur | 0.139 | 788950 |
+| 69 | 18.2- Construction of Conventional Concrete Road at ward No-18 Latur Municipal Corporation, Latur | 0.230 | 4076686 |
+| 70 | 18.3- Construction of Bituminous Road at ward No-18 Latur Municipal Corporation, Latur | 2.472 | 16571196 |
+| 71 | Proposed Construction of BT road at Padmavati Nagar, Under Latur Municipal Corporation. | 0.450 | 8400505 |
+| 72 | Proposed Construction of BT road near Gangadham Under Latur Municipal Corporation. | 0.800 | 14893049 |
+| 73 | Proposed Construction of BT road from Ring road to Raje farm, Under Latur Municipal Corporation. | 0.850 | 14845440 |
+| 74 | Proposed Construction of BT road from Ring road to Maharana Pratap Nagar Under Latur Municipal Corporation. | 0.475 | 10575312 |
+| 75 | Proposed Construction of B.T Road from Scrap Market to Kalmale Nagar, Under Latur Municipal Corporation. | 0.250 | 5655320 |
+| 76 | Proposed Construction of BT road from Katpur Road to Govind Residency, Under Latur Municipal Corporation. | 0.500 | 9315291 |
+| 77 | Proposed Construction of B.T Road Ganjgolai to shahu chowk (L=450 m, W=11 m) | 0.450 | 4891083 |
+| 78 | Proposed Construction of Divider from Shivaji Chowk toMahatma Gandhi Chowk at Latur Municipal Corporation. | 1.100 | 8765180 |
+| 79 | Proposed Construction of Divider from Shivaji Chowk to Rajiv Gandhi Chowk at Latur Municipal Corporation. | 1.500 | 11952518 |
+| 80 | Proposed Construction of Divider from Shivaji Chowk to Sai Naka (Renapur Naka) at Latur Municipal Corporation. | 2.150 | 17131942 |
+| A | Total | 57.44 | 582636786 |
+| B | QC & Testing Charges+ Royalty |  | 26316538 |
+| C | Total cost with QC & Royalty |  | 608953324 |
+|  | Insurance 0.5% (On work Portion) - i |  | 2913184 |
+|  | G.S.T 12% (on Work Portion) - ii |  | 69916414 |
+|  | Total Cost (A+B+i+ii) |  | 68172922 |
+|  | Say Rs. |  | 68.18 Cr. |
+|  | प्रकल्प पूर्ण करण्याचा कालावधी | कार्यादेश दिनांकापासून १२ महिने |
+----------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ११ पैकी ५
 # Page 6
 शासन निर्णय क्रमांक: बैठक-२०२२/प्र.क्र.६२/नवि-३३
 ०२. लातूर महानगरपालिकेच्या रस्ते विकास प्रकल्पाचा वित्तीय आकृतिबंध पुढीलप्रमाणे राहील:
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| अ.क्र. | नागरी स्थानिक स्वराज्य संस्थेचे नाव | योजनेची मंजूर किंमत | राज्य शासनामार्फत अनुज्ञेय अनुदान ( प्रकल्प किंमतीच्या ७०%) | नागरी स्थानिक स्वराज्य संस्थेचा सहभाग (प्रकल्प किंमतीच्या ३०%) |
+| १ | २ | ३ | ४ | ५ |
+| १ | लातूर महानगरपालिका | रु.६८.१८ कोटी | रु.४७.७२६ कोटी | रु.२०.४५४ कोटी |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०३. संदर्भाधीन क्रमांक १ येथील शासन निर्णयानुसार लातूर महानगरपालिकेच्या रस्ते विकास प्रकल्पास खालील अटींच्या अधीन राहून प्रशासकीय मंजूरी देण्यात येत आहे:
 अ) प्रकल्प कार्यान्वयन यंत्रणा :
 १. सदर प्रकल्पाचे कार्यान्वयन लातूर महानगरपालिकेमार्फत करणेत यावे.

@@ -25,7 +25,42 @@
 प्राधिकरण, पुणे विभाग यांनी दिनांक २९ नोव्हेंबर, २०२१ रोजीच्या पत्रान्वये दिलेल्या सुधारीत तांत्रिक
 मान्यतेच्या अधीन राहून खालील विवरणपत्रात नमूद केल्यानुसार या शासन निर्णयाद्वारे मंजूरी देण्यात येत
 आहे. या प्रकल्पातील उपांगे व त्यांचे किंमतीचे विवरण पुढीलप्रमाणे आहे :
+----------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Particulars | Amount (In Rs. ) |
+| 1 | Working Survey | 500000 |
+| 2 | Approach Channel 110 m length | 7532881 |
+| 3 | Jack Well 8m dia | 13032090 |
+|  | Approach Bridge & Bund L-84m | 4735604 |
+| 5 | Raw Water Pumping Machinery, 200 HP 2 W + 15, Q - 102 LPS, 94 M Head | 26644466 |
+| 6 | Raw Water Rising Main (500 MM dia DI K-9, L - 1650 M) | 15024097 |
+|  | Break pressure Tank 0.73 LL Capacity | 3970187 |
+| 8 | Raw Water Gravity Main (DI K-7 dia 300MM L - 600 M dia 400MM L - 700 M dia 450 MM L - 8618 M, dia 500MM L - 11700 M) | 147637326 |
+| 9 | Water Treatment Plant 12 MLD Cap | 41148800 |
+| 9A | Reescalation Sump Cap - 300000 lac | 3197321 |
+| 10 | Pure Water Pumping Machinery | 9256653 |
+| 11 | Pure Water Rising Main (DI K-7200mm, 250mm, 400mm Total Length 5520m) | 32856020 |
+| 12 | Pure Water Gravity main (O-PVC 110 to 315 mm Total Length-5509m ) | 14820348 |
+| 13 | Elevated Service Reservoirs Near Existing WTP Cap - 11 LL 15 m Staging | 9852377 |
+| 14 | Elevated Service Reservoirs at Dawad Mala Cap – 12.5 LL 17 m Staging | 11335241 |
+| 15 | Elevated ice Reservoirs at Eiffel City Cap - 13 LL 15 m Staging | 105 739 |
+| 16 | Elevated Service Reservoirs at Agarkar Mala Cap– 2.5 LL 17m Staging | 4018969 |
+| 17 | Distribution System (110 mm to 280mm HDPE, L-91440 RMT & 300 mm to 400mm DI K-7 L=3157 m) | 146067749 |
+| 18 | Miscellaneous Work (Channeling, Fencing, Road Crossing, Push through ) | 21358967 |
+| 19 | Road Reinstatement | 58539812 |
+| 20 | Trail and Run for 1 Year | 403577 |
+| 21 | MSEDCL Work, Power Supply | 8399002 |
+|  | Total Cost of Project | 590910226 |
+|  | Add 12% GST on Total Cost | 70909227 |
+|  | Total Net Cost of Scheme | 661819453 |
+|  | Say Rs. | 66.18 Cr. |
+|  | प्रकल्प पूर्ण करण्याचा कालावधी | कार्यादेश दिनांका पासून २४ महिने |
+----------------------------------------------------------------------------------------------------------------------------------
 ०२. चाकण नगरपरिषदेचा पाणी पुरवठा प्रकल्प वित्तीय आकृतिबंध पुढीलप्रमाणे राहील:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| अ. क्र. | नागरी स्थानिक स्वराज्य संस्थेचे नाव | योजनेची मंजूर किंमत | राज्य शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ८५%) | नागरी स्थानिक स्वराज्य संस्थेचा सहभाग (प्रकल्प किंमतीच्या १५% ) |
+| १ | २ | ३ | ४ | ५ |
+| १ | चाकण नगरपरिषद | रु.६६.१८ कोटी | रु.५६.२५३ कोटी | रु.९.९२७ कोटी |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ८ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः नगरो-२०२१/प्र.क्र.३०१/नवि-३३

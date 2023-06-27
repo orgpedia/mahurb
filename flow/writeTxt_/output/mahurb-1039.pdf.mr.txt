@@ -22,7 +22,42 @@
 महाराष्ट्र जीवन प्राधिकरणाने दिलेल्या तांत्रिक मान्यतेच्या अधीन राहून खालील विवरणपत्रात
 नमूद केल्यानुसार या शासन निर्णयाद्वारे मंजूरी देण्यात येत आहे. या प्रकल्पातील उपांगे व त्यांचे
 किंमतीचे विवरण पुढीलप्रमाणे आहे:
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Name of Work | Amount (In Rs. ) |
+| 1 | Dismantling of Existing Pump House & Constructing New Pump House over Existing Jack Well | 19,80,770 |
+| 2 | Raw Water Rising Main (450mm Ø, DI-K-9, L= 70m) | 5,84,640 |
+| 3 | Construction of RCC ESR at Pable Wasti, 1.20 ML, 20.00m Staging Height | 1,00,60,460 |
+| 4 | Pure Water Rising Mains (4.720 Km) | 1,49,17,380 |
+| 5 | Pure Water Gravity Mains (9.300 Km) | 2,28,04,740 |
+| 6 | Distribution System (21.302 Km) | 4,35,68,020 |
+| 7 | Construction of Water Treatment Plant at Nilwande Dam (22.00 MLD ) | 4,77,21,310 |
+| 8 | Compound cum Retaining wall to WTP at Nilwande Dam | 44,20,670 |
+| 9 | MS pipe line to Inlet & Outlet from Water Treatment Plant to MBR | 46,14,470 |
+| 10 | Pure Water Sump Cum MBR at WTP Cap. 31 Lakh Liters | 88,49,500 |
+| 11 | Compound Wall to Water Treatment Plant Cap - 22 MLD at Nilwande Dam | 20,22,660 |
+| 12 | Compound Wall to Water Treatment Plant Sump at Nilwande Dam | 10,59,580 |
+| 13 | Drainage line from Boundary of WTP to Nalla | 16,50,460 |
+| 14 | Recirculation Arrangement (civil works) | 24,85,700 |
+| 15 | Providing & erecting Raw Water Pumping Machinery & Allied equipment (V.T. Pump set) at existing Jack Well | 63,45,373 |
+| 16 | Full Automation (SCADA ) of Old 15 MLD Capacity WTP at Pravara | 1,14,76,455 |
+| 17 | Full Automation (SCADA ) of New 22 MLD Capacity WTP at Nilwande | 75,87,259 |
+| 18 | Providing & erecting Pure Water Pumping Machinery for Pable Wasti ESR | 12,26,780 |
+| 19 | Providing and laying Electromagnetic Flow Meters | 33,97,960 |
+| 20 | Designing, Providing, Erecting, Commissioning & giving satisfactory test & trial of H. T. Substation of 11 KV at Headworks & WTP | 28,54,916 |
+| 21 | Designing, Providing, Erecting, Commissioning & giving satisfactory test & trial of Express feeder of 11 KV HT line at Headworks & WTP | 33,62,770 |
+| 22 | Providing & erecting Pumping Machinery for Recirculation Arrangement at Nilwande WTP (mechanical works) | 4,55,853 |
+|  | Total | 20,34,47,726 |
+|  | Add 12% G.S.T. For above Works | 2,44,13,727 |
+|  | Total Cost Rs. (Including GST) | 22,78,61,453 |
+|  | Say (Rs in Cr) | 22.79 Cr. |
+|  | प्रकल्प पूर्ण करण्याचा कालावधी | कार्यादेश दिनांका पासून १८ महिने |
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 ०२. संगमनेर नगरपरिषदेच्या पाणी पुरवठा प्रकल्पाचा वित्तीय आकृतिबंध पुढीलप्रमाणे राहील:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| अ. क्र. | नागरी स्थानिक स्वराज्य संस्थेचे नाव | योजनेची मंजूर किंमत | राज्य शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ८५% ) | नागरी स्थानिक स्वराज्य संस्थेचा सहभाग (प्रकल्प किंमतीच्या १५%) |
+| १ | २ | ३ | ४ | ५ |
+| १ | संगमनेर नगरपरिषद | रु.२२.७९ कोटी | रु.१९.३७ कोटी | रु.३.४२ कोटी |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ७ पैकी २
 # Page 3
 शासन निर्णय क्रमांक: बैठक-२०२१/प्र.क्र.१८/नवि-३३

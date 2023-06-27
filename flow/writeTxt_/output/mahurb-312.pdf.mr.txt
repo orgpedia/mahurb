@@ -17,13 +17,76 @@
 # Page 2
 शासन निर्णय क्रमांकः नगरो-२०१८/प्र.क्र.४०१/नवि-३३
 शासन निर्णय: महाराष्ट्र सुवर्ण जयंती नगरोत्थान महाभियाना अंतर्गत सादर करण्यात आलेल्या निलंगा नगरपरिषदेच्या पाणी पुरवठा प्रकल्पास संदर्भाधीन शासन निर्णयातील अटी व तरतूदीच्या व महाराष्ट्र जीवन प्राधिकरणाने दिलेल्या तांत्रिक मान्यतेच्या अधीन राहून खालील विवरणपत्रात नमूद केल्यानुसार या शासन निर्णयाद्वारे मंजूरी देण्यात येत आहे. या प्रकल्पातील उपांगे व त्यांचे किंमतीचे विवरण पुढीलप्रमाणे आहे:
+------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Description | Amount (In Rs.) |
+| A | Civil Works |  |
+| 1 | Working Survey | 10,00,000 |
+|  | 1. Coffer Dam | 65,29,700 |
+|  | 2. Approach Channel (Length 210 M) | 18,14,500 |
+|  | 3. Intake Well (3.00M dia) | 5,01,700 |
+|  | 4. Inspection Well No. 1 (2.00 M Dia) | 3,03,800 |
+|  | 5. Inspection Well No. 2 (2.00 M Dia) | 2,88,200 |
+|  | 6. Connecting Main (900mm Dia L =90M) | 29,59,600 |
+|  | 7. Jack well & Pump House (10.00 M Dia) | 80,87,600 |
+|  | 8. R.C.C. Approach Bridge (Length 110M), Reinstating Wall & Approach Bund (Length 60m) | 76,25,300 |
+|  | 9. Meter Room Head Works | 4,47,800 |
+|  |  | 10. Approach Road | 49,40,600 |
+| 2 | Raw Water Rising Main (Jack Well to BPT @ Nandurga) (500mm dia DI K-9 Length = 12,200m) | 8,80,27,800 |
+| 3 | B.P.T. at Nandurga (Cap - 5.56 Lakh Staging-25m ) | 72,46,900 |
+| 4 | Raw Water Gravity Main ( Nandurga BPT to WTP @ Killari) (500 & 450mm dia DI K-7 Length = 9750 & 5,350m) | 9,44,86,300 |
+| 5 | Water Treatment Plant capacity 13.50 MLD (conventional type) at Killari | 3,16,15,100 |
+| 6 | Recirculation Well at WTP | 13,18,200 |
+| 7 | Raw Water Rising Main ( Recirculation Well to A/F) (150mm dia DI K-9 Length = 100 M) | 3,18,300 |
+| 8 | Staff Quarter at WTP - 2 Nos | 25,53,500 |
+| 9 | Meter Room at Water Treatment Plant | 4,39,700 |
+| 10 | Pure Water Rising Main (WTP @ Killari to Shirsal Patti) (500 mm dia D.I. K-9 Length = 2,700m) | 2,01,92,300 |
+| 11 | Pure Water BPT @ Shirsal Patti (Cap - 5.34 Lakh Stag-25m ) | 69,18,700 |
+| 12 | Pure Water Gravity Main (BPT @ Shirsal Patti to PW Sump @ M.C. Nilanga) (500 & 450mm dia D.I. K-7 Length = 5,300 m & 13,600 m) | 11,57,54,500 |
+| 13 | Pure Water Sump & Pump House @ M.C. Nilanaga (Cap - 10.68 Lakh) | 73,43,100 |
+------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ८ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः नगरो-२०१८/प्र.क्र.४०१/नवि-३३
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| 14 | Meter Room at P.W. Sump @ M.C. Nilanga | 4,47,900 |
+| 15 | Pure Water Rising Main from P.W. Sump @ M.C. to M.C. ESR (250 mm dia D.I. K-9 Length = 40 m) | 4,11,600 |
+| 16 | Pure Water Rising Main from P.W. Sump @ M.C. to Shivaji Nagar ESR (300 mm dia D.I. K-9 Length = 1,890 m) | 77,19,700 |
+| 17 | Pure Water Rising Main from P.W. Sump @ M.C. to ITI Collage ESR (300 mm dia D.I. K-9 Length = 3,330 M) | 1,27,29,600 |
+| 18 | RCC ESR (at M.C. Office Cap - 15.68 Lakh Lts, Stg - 18 M & ITI Collage, Cap - 11.73 Lakh Ltrs, Stg - 10M | 1,81,15,600 |
+| 19 | Distribution System (DI K-7 450 to 300 mm dia L = 4.111 Km & HDPE 6 kg 250 to 110 mm dia L = 128.137 Km) | 15,49,47,400 |
+| 20 | Compound Wall and gate to WTP Premises, BPT @ Shirsal Patti, BPT @ Nandurga & ESR @ ITI Collage | 95,87,900 |
+| 21 | Miscellaneous : 1. Provision for Additional MSEDCL demand charges 2. Provision for charges to be paid to PWD for Road crossing, telephone deprr. for various permissions & Dismantling of Existing Old ESR's | 2,43,61,500 |
+| 22 | Estimate for Repairs to Existing ESR @ Shivaji nagar Cap - 10 Lakh Ltr. | 16,96,800 |
+| 23 | Trial Run for one year by the contractor | 4,70,400 |
+|  | Total of (A) | 641201600 |
+| B | Mechanical Part |  |
+| 1 | Providing Erecting, commissioning and testing of vertical turbine pump set with allied electrical and mechanical work for Raw water pumping from jack well to BPT at Nandurga 200 HP (2 Nos Working + 1 standby) | 1,90,38,815 |
+| 2 | Providing Erecting, commissioning and testing of vertical turbine pump set with allied electrical and mechanical work for Pure water pumping from WTP Sump Well to BPT Shirsal Patti | 1,17,82,769 |
+| 3 | Designing Providing, installing, commissioning and testing of electrical driven Sub marble Non-clog sewage recycling Pumps with allied electro-mechanical equipments for @ BPT | 9,95,050 |
+| 4 | Providing Erecting, commissioning and testing of vertical turbine pump set with allied electrical and mechanical work for Pure water pumping from Sump Well to Shivaji Nagar ESR | 78,97,882 |
+| 5 | Providing Erecting, commissioning and testing of vertical turbine pump set with allied electrical and mechanical work for Pure water pumping from Sump Well to M.C. ESR | 24,34,590 |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ८ पैकी ३
 # Page 4
 शासन निर्णय क्रमांकः नगरो-२०१८/प्र.क्र.४०१/नवि-३३
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| 6 | Providing Erecting, commissioning and testing of vertical turbine pump set with allied electrical and mechanical work for Pure water pumping from Sump Well to ITI ESR | 31,77,632 |
+| 7 | Design, Supply, Installation, Testing and Commissioning of Automation system for Raw Water Pumping Machinery, WTP, Pure Water Pumping Machinery and MBRS/ESRS including instrumentation control valvs, PLC, SCADA Electrical/Electronics/Mechanical/Civil Wo | 2,13,35,342 |
+| 8 | Estimate for renovation of WTP with Electrical Equipments Repairs allied Equipments @ Killari WTP 5.05 MLD | 17,77,630 |
+| 9 | Estimate for providing, Supplying, Erecting & Commissioning Solar Power Plant and Allied Equipments @ Head Works, WTP, MC Sump | 4,06,43,520 |
+|  | Total B | 10,90,83,230 |
+|  | Total (A+B) | 75,02,84,830 |
+| C | Add 12% for GST | 9,00,34,180 |
+|  | Total (A) + (B) + (C) | 84,03,19,010 |
+|  | Say Rs. | 84.03 Cr. |
+|  | प्रकल्प पूर्ण करण्याचा कालावधी | कार्यादेश दिनांका पासून २४ महिने |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०२. निलंगा नगरपरिषदेच्या पाणी पुरवठा प्रकल्पाचा वित्तीय आकृतिबंध पुढीलप्रमाणे राहील:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| अ. क्र. | नागरी स्थानिक स्वराज्य संस्थेचे नाव | योजनेची मंजूर किंमत | राज्य शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ९०% ) | नागरी स्थानिक स्वराज्य संस्थेचा सहभाग (प्रकल्प किंमतीच्या १०%) |
+| १ | २ | ३ | ४ | ५ |
+| १ | निलंगा नगरपरिषद | रु.८४.०३ कोटी | रु.७७.६२७ कोटी | रु. ८.४०३ कोटी |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०३. संदर्भाधीन क्रमांक १ येथील शासन निर्णयानुसार निलंगा नगरपरिषदेच्या पाणी पुरवठा प्रकल्पास
 खालील अटींच्या अधीन राहून प्रशासकीय मंजूरी देण्यात येत आहे:
 अ) प्रकल्प कार्यान्वयन यंत्रणा : • सदर प्रकल्पाचे कार्यान्वयन निलंगा नगरपरिषदेमार्फत करणेत यावे.

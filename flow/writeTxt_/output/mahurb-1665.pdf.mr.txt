@@ -498,6 +498,9 @@ property, vested in the control or management of any appropriate authority, then
 such cases, one-time compensation shall be payable for the value of the immovable
 property, not exceeding one thousand rupees per Kilometre (One Time Charge) of the
 over ground telegraph line established.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| For establishment of overground telegraph infrastructure | (i) One thousand rupees per kilometre for establishment of overground telegraph line. (ii) Nil for establishment of poles, for installation of small cells and telegraph line, on the immovable property vested in, or under control or management of appropriate central authority. (iii) One thousand rupees per pole for establishment of poles, for installation of small cells and telegraph line, on the immovable property vested in, or under control or management of appropriate authority, other than appropriate central authority. |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Page 14 of 41
 # Page 15
 Government Resolution No.: Sankirna-2021/C.R. 242/UD-20
@@ -899,7 +902,18 @@ Page 25 of 41
 # Page 26
 Government Resolution No.: Sankirna-2021/C.R. 242/UD-20
 Aerial (Over-Ground) OFC Laying :
+---------------------------------------------------------
+| Sr. No. | Particulars | Administrative Fees (Rs.) |
+|  | Compensation one Time | Rs.1000 per km (One Time Charge) |
+|  | Rental per Pole per year | Rs 100 |
+---------------------------------------------------------
 Compensation :
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Item | Amount |
+| Establishment of underground telegraph infrastructure | Nil |
+| Establishment of poles for installation of small cells and telegraph line | Nil |
+| Usage of street furniture for installation of small cells and telegraph line. | (i) For installation of small cells : Three hundred rupees per annum for urban area and one hundred and fifty rupees per annum for rural areas per street furniture. (ii) For installation of telegraph line : One hundred rupees per annum per street furniture. |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Above rates shall be applicable to private cable T.V./network also.
 Competent/appropriate Authority of Local Urban Body shall decide fees for cable T.V.
 overground infrastructure who are using street furniture. Competent/appropriate Authority

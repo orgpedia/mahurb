@@ -29,10 +29,45 @@
 तथापि, या शासन निर्णयातील अटी व तरतूदीच्या व मुख्य अभियंता, महाराष्ट्र जीवन प्राधिकरण, ठाणे विभाग यांनी
 दिनांक ०२ जून, २०२२ रोजीच्या पत्रान्वये दिलेल्या सुधारीत तांत्रिक मान्यतेच्या अधीन राहून खालील विवरणपत्रात नमूद केल्यानुसार या शासन निर्णयाद्वारे मंजूरी देण्यात येत आहे. या प्रकल्पातील उपांगे व त्यांचे किंमतीचे विवरण
 पुढीलप्रमाणे आहे :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Name of Sub Work | Amount (Rs.) |
+| 1 | Raw Water pumping Machinery (125 HP VT Pump set at Head works @ Dhamapur) Flow-137 Cum/Hr & Head-154 mtrs (2 No's W + 1 No’s S B) | 14106149 |
+| 2 | Raw Water Rising Main from intake to BPT (350mm dia DIK-9 & 350mm MS (6 mm Thick) -8689 Rmt | 83396425 |
+| 3 | Raw Water Pumping Machinery (40.0 HP VT Pump set At Head works)- Flow - 274 Cum/Hr & Head- 23 mtrs (1 No's W + 1 No's S B) | 6340489 |
+| 4 | Restoration of existing headwork of Dongurla Lake | 3638606 |
+| 5 | Raw Water Rising Main at Dongurla Lake (300mm dia DI K-9 1000 Rmt) | 7122975 |
+| 6 | Raw Water Gravity Main from BPT to WTP (300m DIK-9 ) - 6572 Rmt) | 51269635 |
+| 7 | Pure Water Pumping Machinery (7.5 HP Submersible Mono Pump set) Flow - 30.91 Cum/Hr & Head-27 mtrs for Kumbharmath ESR | 336780 |
+| 8 | Pure Water Pumping Machinery 5 HP Submersible Mono Pump Set) Flow - 35.26 Cum/Hr & 15 mtrs for Kumbharmath GSR (Pro) 2.4 LL | 311467 |
+| 9 | Pure Water Gravity Feeder Main (100mm to 200mm dia DI Length 3641m) | 15332377 |
+| 10 | Raw Water Rising Main at Dam Lifting DI K-7-310 Rmt) And Raw Water Pumping Machinery (10 HP Submersible Pump set At Head works @Dhamapur) - Flow-137 Cum/Hr & Head - 10 mtrs | 5880750 |
+| 11 | ESR (2 Nos Capacity 6.10 LL & 2.10 LL with Staging Height 20 meters for Zone-3 & Kumbharmath | 14884970 |
+| 12 | GSR (1 No Capcity 2.4 LL with water depth 3meter ) | 2577453 |
+| 13 | Water supply Distribution Systems For All Zone Dia 110 to 160mm HDPE Length - 50352m Dia 200 to 300mm DI Length- 3328m ) | 87181722 |
+| 14 | Bulk Meters To Water supply System-8 Nos | 1152625 |
+| 15 | Automation for Pumping Machinery | 1734774 |
+| 16 | Express Feeder For Power Supply at Head works | 6701600 |
+| 17 | Micro Hydro Power Plant at WTP Campus (40.4 kw) | 17775000 |
+| 18 | Charges to irrigation department for Command Area Restoration | 18000000 |
+| 19 | Road Reinstating | 38244314 |
+| 20 | Trial Run | 673616 |
+| 21 | Crossing of bridge | 4687360 |
+| 22 | Utility and Shifting | 4906655 |
+|  | Total Project Cost In Rs. | 386255742 |
+|  | Add 12% GST | 46350689 |
+|  | Total Cost | 432606431 |
+|  | Say Rs. | 43.26 Cr. |
+|  | प्रकल्प पूर्ण करण्याचा कालावधी | कार्यादेश दिनांका पासून २४ महिने |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ७ पैकी २
 # Page 3
 शासन निर्णय क्रमांक: बैठक-२०२२/प्र.क्र.१७/नवि-३३
 ०२. मालवण नगरपरिषदेच्या पाणी पुरवठा प्रकल्पाचा वित्तीय आकृतिबंध पुढीलप्रमाणे राहील:
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| अ. क्र. | नागरी स्थानिक स्वराज्य संस्थेचे नाव | योजनेची मंजूर किंमत | राज्य शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ९०%) | नागरी स्थानिक स्वराज्य संस्थेचा सहभाग (प्रकल्प किंमतीच्या १०%) |
+| १ | २ | ३ | ४ | ५ |
+| १ | मालवण नगरपरिषद | रु.४३.२६ कोटी | रु.३८.९३४ कोटी | रु.४.३२६ कोटी |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०३. संदर्भाधीन क्रमांक १ येथील शासन निर्णयानुसार मालवण नगरपरिषदेच्या पाणी पुरवठा प्रकल्पास खालील अटींच्या अधीन राहून प्रशासकीय मंजूरी देण्यात येत आहे:
 अ) प्रकल्प कार्यान्वयन यंत्रणा :
 १. मालवण नगरपरिषदेच्या विनंतीनुसार सदर प्रकल्पाचे कार्यान्वयन मालवण नगरपरिषदेमार्फत करण्यात यावे.

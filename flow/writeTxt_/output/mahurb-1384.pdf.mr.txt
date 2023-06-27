@@ -26,10 +26,52 @@
 मान्यतेच्या अधीन राहून जे काम पूर्वीच झाले आहे ते वगळून उर्वरीत प्रकल्पास खालील विवरणपत्रात नमूद
 केल्यानुसार या शासन निर्णयाद्वारे मंजूरी देण्यात येत आहे.
 ०२. या प्रकल्पातील उपांगे व त्यांचे किंमतीचे विवरण पुढीलप्रमाणे आहे :
+-----------------------------------------------------------------------------------------------------
+| Sr. No. | Name of Sub Work | Amount (In Rs. ) |
+| 1 | Working Survey | 800000 |
+| 2 | Conveyance of Waste Water (Branch Sewer-73470 Rmt) |  |
+| a | Branch Sewer for District No. I | 61489990 |
+| b  |  | Branch Sewer for District No. II | 77181739 |
+| C | Branch Sewer for District No. III | 67169404 |
+| d  |  | Branch Sewer for District No. IV | 55388955 |
+| e | Branch Sewer for District No. V | 23885322 |
+| 3 | Conveyance of Waste Water (Trunk Main-5940 Rmt) |  |
+| a | Trunk Main for District No. I | 2471005 |
+| b  |  | Trunk Main for District No. II | 3621302 |
+| c  |  | Trunk Main for District No. III | 11849461 |
+| d  |  | Trunk Main for District No. IV | 23124756 |
+| e | Trunk Main for District No. V | 8166949 |
+| 4 | Design and Constructions of Pumping Stations |  |
+| a  |  | Receiving Chamber at Pumping Station No. I (Adgaon Chothawe ) | 378 |
+| b | Pumping Station No. I (at Adgaon Chothawe ) | 10024010 |
+| c  |  | Receiving Chamber at Pumping Station No. II (Angangaon Nalla) | 511025 |
+| d | Pumping Station No. II (at Angangaon Nalla) | 7201026 |
+| 5 | Electrical and Mechanical Works |  |
+| a  |  | Pumping Machinery at Pumping Station No. I (at Adgaon Chothawe) | 10072063 |
+| b  |  | Pumping Machinery at Pumping Station No. II (at Angangaon Nalla) | 8002501 |
+| 6 | Constructions of Rising Mains |  |
+| a  |  | Rising Main 500mm dia K-9 Class pipe | 1757788 |
+| b  |  | Rising Main 250mm dia K-9 Class pipe | 5764697 |
+| 7 | Sewerage Treatment Plant of 7.5 mld at Adgaon Chothawe | 56380500 |
+| 8 | Miscellaneous Works |  |
+| a | Chain Link Fencing, Supplying of Mobile Van for Flushing the Sewerage (Jetting Machine ) | 13145320 |
+| b | Provision of Road, Railway Crossing for Branch Sewer Trunk Main and Rising Main etc. | 15486165 |
+| C | Provision for Permission of crossings (PWD Road, Railway, National Highway etc.) | 4500000 |
+|  | Total | 468479356 |
+|  | Add 12% GST | 56,217,523 |
+|  | Gross Total | 524696878.7 |
+|  | Say Rs. | 52.46 Cr. |
+|  | प्रकल्प पूर्ण करण्याचा कालावधी | कार्यादेश दिनांका नंतर १८ महिने |
+-----------------------------------------------------------------------------------------------------
 पृष्ठ ७ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः नगरो-२०२०/प्र.क्र.१९/नवि-३३ येवला नगपरिषदेने मलनिस्सारणाच्या अनुषंगाने जी कामे यापूर्वीच त्यांच्या स्तरावर निविदा काढून केलेली आहेत त्या कामांसाठी आवश्यक निधी येवला नगरपरिषदेने स्वनिधीतून उभारावा. त्या कामांसाठी राज्य शासनाकडून या योजनेतुन कोणतेही अनुदान / निधी अनुज्ञेय नाही.
 ०३. येवला नगरपरिषदेच्या मलनिस्सारण प्रकल्प वित्तीय आकृतिबंध पुढीलप्रमाणे राहील:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| अ. क्र. | नागरी स्थानिक स्वराज्य संस्थेचे नाव | योजनेची मंजूर किंमत | राज्य शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ८५% ) | नागरी स्थानिक स्वराज्य संस्थेचा सहभाग (प्रकल्प किंमतीच्या १५% ) |
+| १ | २ | ३ | ४ | ५ |
+| १ | येवला नगरपरिषद | रु.५२.४६ कोटी | रु.४४.६० कोटी | रु.७.८६ कोटी |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०४. संदर्भाधीन क्रमांक १ येथील शासन निर्णयानुसार येवला नगरपरिषदेच्या मलनिस्सारण प्रकल्पास खालील अटींच्या अधीन राहून प्रशासकीय मंजूरी देण्यात येत आहे:
 अ) प्रकल्प कार्यान्वयन यंत्रणा :
 १. सदर प्रकल्पाचे कार्यान्वयन येवला नगरपरिषदेमार्फत करणेत यावे.

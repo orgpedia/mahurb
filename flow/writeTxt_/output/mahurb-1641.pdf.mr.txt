@@ -20,14 +20,115 @@
 केलेल्या विवरणपत्रानुसार नमूद केल्यानुसार या शासन निर्णयाद्वारे प्रशासकीय मान्यता देण्यात
 येत आहे. सदर प्रकल्पाच्या वित्तीय आकृतिबंध पुढीलप्रमाणे :
 (किंमत रु. कोटी)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| नागरी स्थानिक स्वराज्य संस्थेचे नाव व वर्ग | प्रकल्प मंजूर किंमत | केंद्र शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या २५%) | राज्य शासनामार्फत अनुज्ञेय अनुदान ( प्रकल्प किंमतीच्या २५%) | नागपूर महानगर विकास प्राधिकरणाचा हिस्सा (प्रकल्प किंमतीच्या ५०% ) |
+| १ | २ | ३ | ४ | ५ |
+| नागपूर महानगर विकास प्राधिकरण | ७१६.९० | १७९.२२५ | १७९.२२५ | ३५८.४५ |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०२. नागपूर महानगर विकास प्राधिकरण क्षेत्रातील मलनिस्सारण प्रकल्पातील घटक व त्यांचे
 अंदाजित किंमतीचे विवरण पुढीलप्रमाणे आहे.
+-----------------------------------------------------------------------------------------------------------------
+| Sr. No | Components | Description | Amount (in Rs.) |
+| Phase A |
+|  |  | SECTOR SOUTH - B (SEWERAGE SYSTEM) |  |
+| 1 | Working Survey | DGPS survey : Total length 251 Km | 2543132 |
+|  |  | Trial pit @ every one Km |  |
+| 2 | Collection and Trunk Sewer System |
+| a) | SZ-1 | A) Pipe Length = (195 mm to 245 mm dia) = 105.427 Km DWC, (300 to 1000mm dia) = 41.336 Km RCC | 763346832 |
+| B) Manhole = 5536 Nos (1.0m dia-1345 nos., 1.2m dia 2402 nos., 1.5m dia -1789 nos) | 347870948 |
+| C) House sevice Connection - - (4562 Nos) | 217373278 |
+| D) Road Reinstatening | 240819767 |
+| b) | SZ-2 | A) Pipe Length = (195 mm to 245mm dia) = 32.479 Km DWC, (300 to 1000 mm dia) = 10.012 Km RCC | 203239303 |
+| B) Manhole 1374 Non (1.0m dia-461 nos., 1.2m dia 395 nos., 1.5m dia -518 nos ) | 82791118 |
+| C) House sevice Connection - ( 360 Nos ) | 17153525 |
+| D) Road Reinstatening | 69722428 |
+| 5 | SZ-3 | A) Pipe Length = (195 mm to 245 mm dia) = 18.142 Km DWC, (300 to 1000 mm dia) = 9.693 Km RCC | 194782853 |
+| B) Manhole = 930 Nos (1.0m dia-220 nos., 1.2m dia 182 nos., 1.5m dia-528 nos ) | 71567761 |
+| C) House sevice Connection - ( 159 Nos) | 7576140 |
+| D) Road Reinstatening | 45673761 |
+-----------------------------------------------------------------------------------------------------------------
 पृष्ठ ७ पैकी २
 # Page 3
 शासन निर्णय क्रमांक अमृत-२०२२/प्र.क्र.३०७/नवि-३३
+----------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No | Components | Description | Amount (in Rs.) |
+| 3 | RCC Wet-well with Pump House | RCC wet well: 12 m dia, 10.98 m depth | 29533117 |
+| 3.1 | Raw Sewage Pumping Machinery (Including Electrical Substation) | 1) Low Duty pumps = 1 No X 60 HP 120 (1 W/1 S) | 40562901 |
+| 2) Avg. duty Pumps = 2 Nos X 120 HP = 240 HP (1 W/ 1S) |
+| 3) Peak Duty Pumps = 2 Nos X 250 HP = 250 HP (1W) |
+| 4) Elect. Substation Total capacity of LT load = 1.60 MVA |
+| 3.2 | Pumping main wet - well to STP | pumping Main 600 mm dia DIK-9 (L=50m) | 724579 |
+| 4 | Sewage Treatment Plant (SBR technology) | Intermediate Phase 27 mld |  |
+| Electo-mechnical works | 250054779 |
+| Civil Works |
+| 5 | Miscellaneous Work | including Guard Room, Compound wall, approach road, land Developing, solar panel (120 Kw), Express feeder etc. | 19119238 |
+| 6 | Trial Run | Trial Run for three Months | 8066125 |
+|  |  | Net Project Cost of Sector South - B | 2612521585 |
+| Phase - B |
+|  |  | SECTOR SOUTH - B (SEWERAGE SYSTEM) |  |
+| 1 | Working Survey | DGPS survey: Total length 302 Km | 3059864 |
+|  |  | Trial pit @ every one Km |  |
+| 2 | Collection and Trunk Sewer System |
+|  | EZ-1 | A) Pipe Length = (200 mm to 250 mm dia) = 10.715 Km DWC,(SN-8), (300 to 1000 mm dia)= 5.995 Km RCC (NP-III) | 104702235 |
+| B) Manhole = 548 Non (1.0mdia-191 nos.,1.2m dia 121 nos., 1.5m dia -236 nos) | 36413093 |
+| C) House service Connection - (113 Nos) | 5384301 |
+| D) Road Reinstatening | 27419025 |
+| b) | EZ-2 | A) Pipe Length =(200 mm to 250 mm dia) =9.756 Km DWC(SN-8) (300 to 1000mm dia)= 4.015 Km RCC (NP-III) | 72468997 |
+| B) Manhole = 438 Nos (1.0m dia-191 nos, 1.2m dia-120 nos, 1.5m dia-127 nos) | 23776765 |
+| C) House Service Connection -(218 Nos) | 10387412 |
+| D) Road Reinstatening | 22596492 |
+| 으 | EZ-3 | A) Pipe Length =(200 mm to 250 mm dia) =68.14 Km DWC(SN-8) (300 to 1000mm dia)= 9.103 Km RCC (NP-III) | 299238472 |
+| B) Manhole = 2352 Nos (1.0m dia-1479 nos, 1.2m dia-522 nos, 1.5m dia-351 nos) | 96724358 |
+| C) House Service Connection -(1891 Nos) | 90103654 |
+| D) Road Reinstatening | 126746123 |
+| d) | EZ-4 | A) Pipe Length = (200 mm to 250 mm dia) = 20.608 Km DWC,(SN-8), (300 to 1000 mm dia)= 6.565 Km RCC (NP-III) | 153740537 |
+| B) Manhole = 868 Non (1.0mdia-311 nos.,1.2m dia 121 nos., 1.5m dia - 347 nos) | 58573332 |
+| C) House service Connection - (428 Nos) | 20393635 |
+| D) Road Reinstatening | 44587502 |
+| O | EZ-5 | A) Pipe Length = (200 mm to 250 mm dia) = 99.352 Km DWC,(SN-8), (300 to 1000 mm dia)= 18.002 Km RCC (NP-III) | 508488584 |
+| B) Manhole 3669 Non (1.0mdia-2107 nos., 1.2m dia 723 nos., 1.5m dia - 839 nos) | 184186207 |
+| C) House service Connection - (2842 Nos) | 135417549 |
+| D) Road Reinstatening | 192563268 |
+----------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ७ पैकी ३
 # Page 4
 शासन निर्णय क्रमांक अमृत-२०२२/प्र.क्र.३०७/नवि-३३
+-------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No | Components | Description | Amount (in Rs.) |
+| f) | EZ-6 | A) Pipe Length = (200 mm to 250 mm dia) = 33.545 Km DWC, (SN-8), (300 to 1000 mm dia)= 15.860 Km RCC (NP-III) | 238255710 |
+| B) Manhole = 1566 Non (1.0mdia-742 nos.,1.2m dia 299 nos., 1.5m dia - 525 nos) | 89296069 |
+| C) House service Connection - (934 Nos) | 44503867 |
+| D) Road Reinstatening | 81067440 |
+| 3 | Raw Sewage Pumping Main | Pumping Main at Umargaon LS to MH No 379 Vihirgaon 450 mm dia Dl k-9, L= 1315 m | 12709035 |
+| 4 | RCC Wet-well with Punp House |
+| 4.1 | At Umargaon LPS, | Civil work, RCC well: Dia = 8m dia, Depth = 8.37m |  |
+| 4.2 | Pumping Machinery i/c Electrical substation Transformer | 1) [(1w)X80HP)]+[(1w+1s)X35HP]+[(1w+1s)X2HP]. Total = 190 HP | 21202528 |
+| 2) elect. Substation Transformer 2X160KVA = 0.320MVA | 18133383 |
+| 4.3 | At Tarodi TPS | Civil work RCC well: Dia=10m, Depth =11.85 m | 27194280 |
+| 4.4 | Pumping Machinery i/c Electrical substation Transformer | 1) [(1w)X160HP)]+[(1w+1s)X70HP]+[(1w+1s)X35HP]. Total = 370 HP | 34033974 |
+| 2) elect. Substation Transformer 2X630KVA = 1.26MVA |
+| 4.5 | Pumping Main Wet well to STP | Pumping main 500 mm Dia DIK9, L=50Mtr | 556399 |
+| 4.6 | At Kapsi TPS | Civil works, RCC well : Dia=8m, Depth = 11.00m | 22444531 |
+| 4.7 | Pumping Machinery i/c Electrical substation Transformer | 1) [(1w)X60HP)]+[(1w+1s)X30HP]+[(1w+1s)X15HP]. Total = 150 HP | 26217444 |
+| 2) elect. Substation Transformer 2X400KVA = 0.800MVA |
+| 4.8 | Pumping Main Wet well to STP | Pumping main 300 mm Dia DlK9, L=50 Mtr | 284305 |
+| 4.9 | At Vihiragaon TPS | Civil work RCC well: Dia=12m, Depth =13.80 m | 41101311 |
+| 4.1 | Pumping Machinery i/c Electrical substation Transformer | 1) [(1w)X240HP)]+[(1w+1s)X110HP]+[(1w+1s)X60HP]. Total 580 HP | 39125955 |
+| 2) elect. Substation Transformer 2X800KVA = 1.6MVA |
+| 4.1 1 | Pumping Main Wet well to STP | Pumping Main mm Dia K9, L=50 Mtr | 928449 |
+| 5 | Sewage Treatment Plant (SBR technology) | 1) At Vihirgaon =2X10.50=21 mld | 198844305 |
+| 2) At tarodi = 1 X 15 = 15 mld | 150508309 |
+| 3) At Kapls = 1 X 5 = 5 mld | 69609396 |
+| 6 | Miscellaneous Work | Including Guard Room, Compound wall, approach road, land Developing, Solar panel, Express Feeder etc. | 56079512 |
+| 7 | Trial Run | Trial Run for Three Months | 12660875 |
+|  |  | Net Project Cost of Sector East - A | 3401728482 |
+|  |  | Total Cost of (PART A + PART B) | 6014250067 |
+|  |  | Add for GST 18% on (PART A + PART B) | 1082565012 |
+|  |  | Add for TS Charges 1 % on (PART A + PART B) | 60142501 |
+|  |  | Add for Labour Insurance (Cost for Other than MJP CSR item) 1% on (PART A + PART B) | 12085400 |
+|  |  | Total Cost of Project | 7169042980 |
+|  |  | Say Rs. | 716.90 Cr. |
+-------------------------------------------------------------------------------------------------------------------------------------
 ०३. नागपूर महानगर विकास प्राधिकरण क्षेत्राच्या सदर मलनिस्सारण प्रकल्पाची Opex किंमत
 नागपूर महानगर विकास प्राधिकरणाने उभारणे आवश्यक आहे. सदर प्रकल्प पुर्ण करण्याचा
 कालावधी ३० महिने आहे.

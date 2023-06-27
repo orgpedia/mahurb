@@ -27,10 +27,50 @@
 २०२३ रोजीच्या पत्रान्वये दिलेल्या तांत्रिक मान्यतेच्या अधीन राहून खालील विवरणपत्रात
 नमूद केल्यानुसार या शासन निर्णयाद्वारे मंजूरी देण्यात येत आहे. या प्रकल्पातील उपांगे व
 त्यांचे किंमतीचे विवरण पुढीलप्रमाणे आहे.
+----------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Name of Sub work | Amount in Rs. |
+| 1 | Working Survey | 150000 |
+| 2 | Construction Of Intake Well 3 M Dia | 656900 |
+| 3 | Construction Of Inspection Well 3 M Dia 2 Nos | 2267400 |
+| 4 | Construction Of Connecting Main 90 M | 9544400 |
+| 5 | Construction Of Jack Well & Pimp House | 29436100 |
+| 6 | Construction Of RCC Approach Bridge 150 m | 12664500 |
+| 7 | Raw Water Pumping Machinary from Jackwell to MS Shaft | 13677200 |
+| 8 | Construction Of Raw Water Rising Main (Headworks to MS Shaft) Along Village road Limboti to Malegoan From Ch 0.00 to 5430m Part A | 49737500 |
+| 9 | Construction Of Raw Water Rising Main (MS Shaft to WTP) Along with NH-361 From Ch 5430 to 9120m Part B | 38889100 |
+| 10 | Construction Of M.S. Shaft 900mm dia | 1005600 |
+| 11 | Raw Water Gravity Main (MS Shaft to WTP) 500 mm Dia DI K-7= 10410 & DIK-9 L=5370 Total L=15780m | 198759900 |
+| 12 | Construction of Hydro Power Generator Room and Generation Machinary | 2725400 |
+| 13 | Construction of WTP Cap 3.00 MLD | 15348000 |
+| 14 | Repairs of Exiting WTP Cap 6.00 MLD | 4631200 |
+| 15 | Pure Water Pumping Machinery from WTP to ESR | 1154393 |
+| 16 | Electro Mechanical Equipments/Devices and Installations | 42094123 |
+| 17 | Construction of Pure Water Rising Main 200mm Dia DI K-9 L= 2750 m for Zone - 2 | 12308182 |
+| 18 | Construction of Pure Water Rising Main 100mm Dia DI K-9 L=2650 m for Zone-4 | 9692399 |
+| 19 | Construction of Pure Water Rising Main 200mm Dia K-9 L-200 m for Zone-6 | 867288 |
+| 20 | Construction of RCC ESR Cap. 5.90, 5.10, & 1.40 Lakh Lit | 16839400 |
+| 21 | Distribution System | 91053700 |
+| 22 | License Fees for NH Crossing and Along the NH | 5636300 |
+----------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ९पैकी२
 # Page 3
 शासननिर्णयक्रमांकः नगरो-२०२३/प्र.क्र.२८४/नवि-३३
+--------------------------------------------------------------------
+| Sr. No. | Name of Sub work | Amount in Rs. |
+| 23 | Trial and Run | 4239200 |
+|  | Total Amount | 563378185 |
+|  | 18 % GST excluding cost of subwork no.22 | 100393539 |
+|  | Add 1 % Labour Insurance for PWD Item | 129940 |
+|  | Gross Total | 663901664 |
+|  | Say Rs. | 66.39 Cr. |
+|  | प्रकल्प पूर्ण करण्याचा कालावधी  |  | कार्यादेश दिनांका पासून १८ महिने |
+--------------------------------------------------------------------
 ०२. लोहा नगरपरिषदेचा पाणी पुरवठा प्रकल्प वित्तीय आकृतिबंध पुढीलप्रमाणे राहील:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| अ.क्र. | नागरी स्थानिक स्वराज्य संस्थेचे नाव | योजनेची मंजूर किंमत | राज्य शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ९०%) | नागरी स्थानिक स्वराज्य संस्थेचा सहभाग (प्रकल्प किंमतीच्या १०%) |
+| १ | २ | ३ | ४ | ५ |
+| १ | लोहा नगरपरिषद | रु.६६.३९ कोटी | रु.५९.७५१ कोटी | रु.६.६३९ कोटी |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०३. संदर्भाधीन क्रमांक १ येथील शासन निर्णयानुसार लोहा नगरपरिषदेच्या पाणी पुरवठा प्रकल्पास खालील अटींच्या अधीन राहून प्रशासकीय मंजूरी देण्यात येत आहे: अ) प्रकल्प कार्यान्वयन यंत्रणा : १. सदर प्रकल्पाचे कार्यान्वयन लोहा नगरपरिषदेमार्फत करण्यात यावे.
 २. या अभियानांतर्गत प्रकल्प व्यवस्थापन सल्लागार (PMC) नेमणुकीबाबत दिनांक १२ एप्रिल, २०२३ रोजी या विभागाने निर्गमित केलेल्या शासन नुसार कार्यवाही करावी.
 ३. प्रकल्प व्यवस्थापन सल्लागाराची नियुक्ती नगर परिषदेने एक महिन्यात करावी.

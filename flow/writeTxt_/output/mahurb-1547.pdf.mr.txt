@@ -18,11 +18,42 @@
 विवरणपत्रानुसार नमूद केल्यानुसार या शासन निर्णयाद्वारे प्रशासकीय मान्यता देण्यात येत आहे.
 सदर प्रकल्पाच्या वित्तीय आकृतिबंध पुढीलप्रमाणे :
 ( किंमत रु. कोटी)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| नागरी स्थानिक स्वराज्य संस्थेचे नाव व वर्ग | प्रकल्प मंजूर किंमत | केंद्र शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ३३.३३% ) | राज्य शासनामार्फत अनुज्ञेय अनुदान ( प्रकल्प किंमतीच्या ३६.६७%) | नागरी स्थानिक स्वराज्य संस्थेचा हिस्सा (प्रकल्प किंमतीच्या ३० %) |
+| १ | २ |  | ४ | ५ |
+| मिरा भाईंदर महानगरपालिका | ५१६.७८ | १७२.२४ | १८९.५० | १५५.०४ |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०२. मिरा भाईंदर महानगरपालिकेच्या पाणीपुरवठा प्रकल्पातील घटक व त्यांचे अंदाजित किंमतीचे
 विवरण पुढीलप्रमाणे आहे
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+| अ.क्र. | घटक | अंदाजित रक्कम (रु.) |
+| 1 | Providing & Constructing Elevated Service Resrvoirs & GSR from 0.5 ML to 3.0 ML and staging height from 15 to 22 M -23 nos of ESR & 2 No of GSR | 1098584000 |
+| 2 | Providing, laying of transmission & feeder Main To ESR/Sump from 150mm dia to 1700mm dia DI/MS of 37.970Km | 1067549000 |
+| 3 | Water Suppply Distribution Network for 56 nos of DMA pipe dia range from 150mm to 700m dia CI/DI K-9/MS and length of 176.848 Km | 1179587000 |
+| 4 | Rising main Network for 3 No of Chavali, Donagri new and dongari sump from 400mm dia DI K-9 its length are 3.429 km | 28670000 |
+| 5 | Providing and fixing Full Bore Electromagnetic Bulk Water Meter in feeder main, ESR Inlet and DMA meter for Equitable Water Distribution in Network | 73633000 |
+| 6 | Providing and installation SCADA in Water Transmission & Distribution system for equitable water distribution and Monitoring | 37246000 |
+| 7 | Construction of Plinth Protection, Compound Wall, Watchman Cabin & Miscellaneous work in ESR Campus | 96187000 |
+| 8 | National Highway crossing by Trenchless Technology for Pipeline Laying | 16487000 |
+| 9 | Providing and constructing commisioning of pumping machinery and allied electrical works for MIDC, Dongari, Chavali & Chawk PS | 28670000 |
+| 10 | Providing and Commisioning of Pumping station Automation Works | 1851000 |
+| 11 | Road Restraining: Repairs for Excavated trenches for pipe line | 591955000 |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ६ पैकी २
 # Page 3
 शासन निर्णय क्रमांक अमृत-२०२२/प्र.क्र.२६८/नवि-३३
+----------------------------------------------------
+|  | laying |  |
+| 12 | Utility Shifting | 15796000 |
+|  | Total (A) | 4236215000 |
+|  | Add18% for GST On A | 762518700 |
+|  | Add 1% Technical Sanctioned Cost On A | 42362150 |
+|  | Provisional Fund | 31996000 |
+|  | Royalty Charges | 80870000 |
+|  | Add 1% for Labour Insurance on PWD Items | 13808000 |
+|  | Grand Total | 51677669850 |
+|  | Say Rs. | 516.78 Cr. |
+----------------------------------------------------
 ०३. मिरा भाईंदर महानगरपालिकेच्या सदर पाणीपुरवठा प्रकल्पाची Opex किंमत मिरा-भाईंदर महानगरपालिकेने उभारणे आवश्यक आहे. सदर प्रकल्प पुर्ण करण्याचा कालावधी २४ महिने आहे.
 ०४. मिरा भाईंदर महानगरपालिकेच्या पाणीपुरवठा प्रकल्पास खालील अटींच्या अधीन राहून
 प्रशासकीय मंजूरी देण्यात येत आहे: ४.१ सदर प्रकल्पासाठी कार्यान्वयन यंत्रणा मिरा भाईंदर महानगरपालिका राहील.

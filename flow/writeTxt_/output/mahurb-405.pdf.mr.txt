@@ -17,10 +17,42 @@
 अनुसरुन शासनाच्या मान्यतेने खालील विवरणपत्रात नमूद केल्यानुसार या प्रकल्पास या शासन निर्णयाद्वारे सुधारीत प्रशासकीय मान्यता देण्यात येत आहे. या प्रकल्पातील उपांगे व त्यांचे किंमतीचे सुधारीत विवरण पुढीलप्रमाणे आहे:
 # Page 2
 शासन निर्णय क्रमांकःनगरो-२०१८/प्र.क्र.५१३/नवि-३३
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Description | Amount (In Rs.) |
+| A | Working Survey | 10,00,000 |
+| B | Zone - 1 |  |
+| 1 | Collection System Zone - 1 HDPE DWC Pipe 150 to 300 mm of Length 31.35 Km & RCC NP - III & IV Pipe 350 to 600 mm Dia 2.5 Km (Total L=33.86 Km) | 12,32,94,850 |
+| 2 | House Property Connection 6,135 Nos. of House | 6,33,44,237 |
+| 3 | Construction of Wet Well (Lifting Station) at Zone - 1 Wet Well Diameter = 6.5 m & Depth 7.1 m Pump House Diameter = 6.5 m & Height 6.5 m | 62,59,808 |
+| 4 | Pumping Machinery (with SCADA) Non Clog Submersible sewage Pumping Machinery 25 BHP X 6 no. Q = 1,35,000 LPH & H = 27 m | 1,04,06,816 |
+| 5 | Sewage Pumping Main from Lifting Station to MH - 3,350, 350 mm DI K-9, L = 1,800 m | 78,55,059 |
+| 6 | Road Reinstatement Work, Collection Network, Property Connection & Rising Main | 4,80,86,950 |
+|  | Total (A) + (B) | 26,02,47,720 |
+| C | Zone - 2 |  |
+| 1 | Collection System Zone - 2 HDPE DWC Pipe 150 to 300 mm of Length 62.70 Km & RCC NP - III & IV Pope 350 to 800 mm of Length 6.12 Km (Total L = 68.82 Km) | 25,25,81,944 |
+| 2 | House Property Connection 6,710 Nos. of House | 6,92,87,062 |
+| 3 | Construction of Wet Well at Zone -2 (at STP) Wet Well Diameter = 8.5 m & Depth = 10.06 m Pump House Diameter = 8.5 & Height 6.5 m | 85,44,984 |
+| 4 | Pumping Machinery (ST Substation Diesel Generator & SCADA) Non Clog Submersible Sewage Pumping Machinery 40 HP X 6 Nos. Q = 2,73,000 LHP & Head = 21 m | 2,97,83,555 |
+| 5 | Sewage Pumping Main from Pumping Station to Inlet chamber of STP, 450 mm DI K-9, L = 40 m | 5,22,723 |
+| 6 | Sewage Treatment Plant (SBR Technology) - Capacity 11.5 MLD | 15,01,41,341 |
+| 7 | Road Reinstatement Work Collection Network, Property Connection | 8,35,04,173 |
+| 8 | Effluent Reuse System (100 mm Dia RCC Pipe, L - 250 m and 8.75 Lakh Ltr. Sump) | 69,96,279 |
+|  | Total (C) | 60,13,62,061 |
+|  | Total (A) + (B) + (C) | 86,16,09,781 |
+|  | Add 12% GST | 10,33,93,174 |
+|  | Grand Total | 96,50,02,955 |
+|  | Say Rs. | 96.50 Cr. |
+|  | प्रकल्प पूर्ण करण्याचा कालावधी | कार्यादेश दिनांका पासून २४ महिने |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ७ पैकी २
 # Page 3
 शासन निर्णय क्रमांकःनगरो-२०१८/प्र.क्र.५१३/नवि-३३
 ०२. गडचिरोली नगरपरिषदेच्या मलनिस्सारण प्रकल्पाचा (टप्पा-१) वित्तीय आकृतिबंध पुढीलप्रमाणे राहील:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| अ.क्र. | नागरी स्थानिक स्वराज्य संस्थेचे नाव | योजनेची मंजूर किंमत | राज्य शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ९०% ) | नागरी स्थानिक स्वराज्य संस्थेचा सहभाग (प्रकल्प किंमतीच्या १० %) |
+| १ | २ | ३ | ४ | ५ |
+| १ | गडचिरोली नगरपरिषद | रु.९६.५० कोटी | रु.८६.८५ कोटी | रु.९.६५ कोटी |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०३. संदर्भाधीन क्रमांक १ येथील शासन निर्णयानुसार गडचिरोली नगरपरिषदेच्या मलनिस्सारण प्रकल्पास (टप्पा-१) खालील अटींच्या अधीन राहून सुधारीत प्रशासकीय मंजूरी देण्यात येत आहे:
 अ) प्रकल्प कार्यान्वयन यंत्रणा :
 १. सदर प्रकल्पाचे कार्यान्वयन गडचिरोली नगरपरिषदेमार्फत करणेत यावे.

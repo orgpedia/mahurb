@@ -26,11 +26,89 @@
 विवरणपत्रानुसार नमूद केल्यानुसार या शासन निर्णयाद्वारे प्रशासकीय मान्यता देण्यात येत आहे.
 सदर प्रकल्पाच्या वित्तीय आकृतिबंध पुढीलप्रमाणे :
 ( किंमत रु. कोटी)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| नागरी स्थानिक स्वराज्य संस्थेचे नाव व वर्ग | प्रकल्प मंजूर किंमत | केंद्र शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या २५%) | राज्य शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ४५% ) | नागरी स्थानिक स्वराज्य संस्थेचा हिस्सा (प्रकल्प किंमतीच्या ३०% ) |
+| १ | २ | ३ | ४ | ५ |
+| औरंगाबाद महानगरपालिका | २७४०.७५ | ६८५.१९ | १२३३.३४ | ८२२.२२ |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०३. औरंगाबाद महानगरपालिकाच्या पाणीपुरवठा प्रकल्पातील घटक व त्यांचे अंदाजित किंमतीचे
 विवरण पुढीलप्रमाणे आहे.
+---------------------------------------------------------------------------------------------------------------------------------
+| S.N. | Subwork | Amount in Rs. |
+|  | Part I |  |
+| A | Civil Estimate |  |
+| 1 | Working Survey (2000 km ) | 5495000 |
+| 2 | Approach Channel (L=400 m) | 56841143 |
+| 3 | Jackwell and Pump House | 263388311 |
+| 4 | Approach Bridge (L= 600 m and 12 m width) | 245591073 |
+| 5 | Approach Bund (L= 510 m and 12 m width) | 40491609 |
+| 6 | Raw Water Rising Main-= 38.8 kM (OD- 2500 mm and 25 mm thk) | 5891864745 |
+| 7 | Water Treatment Plant (392 MLD), Drainage Arrangement and Recirculation Sump & Pump House | 558997788 |
+| 8 | Pure Water Rising Main WTP to MBR (MS - 1932 mm OD, L - 500m for MBR @ 632 m and 1528mm OD, L - 600m for MBR @ 664m) | 81385120 |
+| 9 | MBR (11.57 ML at 664 m and 5.00ML at 632 m) | 61251380 |
+| 10 | Pure Water Transmission Main(MS, L -38.728 Km and DI, L - 75.507km) | 2073809258 |
+| 11 | Proposed ESR- 49 nos and GSR - 4 nos | 725715750 |
+| 12 | Pure Water Sump And Pump House in City ( 5 Nos) | 13023958 |
+| 13 | Pure Water Rising Main PW sump to ESRs ( 5 Nos) | 62806705 |
+| 14 | Distribution system - 1911.05 km | 3279406201 |
+| 15 | Shifting of House Service Connection ( 244217 Nos.) | 956548779 |
+| 16 | Extension to Existing Raw Water Rising Main to New HW (1219 mm | 99046696 |
+---------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ७ पैकी २
 # Page 3
 शासन निर्णय क्रमांक : अमृत-२०२३/प्र.क्र.४६/नवि-३३
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  | OD, Length -2 km) |  |
+| 17 | Strenghthening of Existing Raw Water Rising Main (1219 mm OD, Length -1 km) | 18959268 |
+| 18 | Dismantling of 2000 mm line laid under PPP for Raw and Pure Water Rising main | 29132316 |
+| 19 | Approach Road to Headwork at Jayakwadi Dam, WTP and MBR | 19841856 |
+| 20 | Hill cutting and Levelling of WTP Premises and MBR | 58046954 |
+| 21 | Compound Wall for WTP and Headworks | 26090114 |
+| 22 | Staff Quarter at Headworks and WTP | 80053872 |
+| 23 | Road Restoration (410 Km) | 776565236 |
+| 24 | Trial and Run for 1 year | 186686690 |
+|  | Total Cost(A) | 15611039822 |
+| B | Mechanical Estimate |  |
+| 1 | Raw Water Pumping Machinery at headwork (Jayakwadi Dam) | 1151136900 |
+| 2 | Designing providing, erecting, testing and commissioning of Pure water Pumping Machinery with allied Electrical and Mechanical equipments for Proposed WTP Nakshatrawadi | 564825462 |
+| 3 | Automation Work | 223169360 |
+| 4 | Express Feeder Work | 608909877 |
+|  | Total Cost(B) | 2548041599 |
+| C | Extra Items Estimate |  |
+| 1 | PW Sump Cap. 7.50 LL & Over Head-Pump House Near SFS ESR | 7527422 |
+| 2 | Providing and Supply of HDPE Specials | 1770156 |
+| 3 | Dismenteling of Existing ESR's of Various Capacities | 2204261 |
+| 4 | BT Road Restoration for Pure Water Gravity main/ Distribution | 14550144 |
+| 5 | MS Sheet piling for Jackwell Construction | 190317621 |
+| 6 | Providing Consumer Water Meter | 506342467 |
+|  | Total Cost(C) | 722712071 |
+| D | Special Relief As per GR Dated 29/06/2022 |  |
+| 1 | Special Relief | 2101329014 |
+|  | Total Cost (D) | 2101329014 |
+|  | Cost Excluding GST(A+B+C+D)(E) | 20983122506 |
+|  | Add 12% & 18% for GST on E | 3776962051 |
+|  | Cost Including GST (F) | 24760084557 |
+|  | Permission Charges from various Departments |  |
+| 1 | NHAI Department | 103200000 |
+| 2 | Forest & Wild Life Department | 16773000 |
+| 3 | MSEDCL Department |  |
+| a | Along RWRM | 207144983 |
+| b | In the City Area | 50000000 |
+| 4 | PWD Department | 27977000 |
+| 5 | Railway Department | 7000000 |
+| 6 | BSNL | 26700000 |
+|  | Total Cost(G) | 438794983 |
+|  | Total Cost for Part I(F+G) | 25198879540 |
+|  | Part II |  |
+|  | Add cost for Rejenuvation of old 56 MLD WSS for Aurangabad City (H) | 1641715379 |
+|  | Add 18% for GST on H | 295508768 |
+|  | Total Cost for Part II | 1937224147 |
+|  | Total Cost of Project (Part I+ Part II) | 27136103686 |
+|  | Add 1% for Technical sanction charges by MJP | 271361037 |
+|  | Gross Cost of Project In Rs.(Part I+Part II+TS Charges) | 27407464724 |
+|  | Say Rs. | 2740.75 Cr. |
+|  | प्रकल्प पूर्ण करण्याचा कालावधी | कार्यादेश दिनांका पासून ३६ महिने |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ७ पैकी ३
 # Page 4
 शासन निर्णय क्रमांक : अमृत-२०२३/प्र.क्र.४६/नवि-३३

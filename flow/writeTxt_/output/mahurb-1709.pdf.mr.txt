@@ -21,8 +21,34 @@
 विवरणपत्रात नमूद केल्यानुसार या शासन निर्णयाद्वारे प्रशासकीय मान्यता देण्यात येत आहे. सदर
 प्रकल्पाच्या वित्तीय आकृतिबंध पुढीलप्रमाणे राहील :
 (रु. कोटीमध्ये)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| नागरी स्थानिक स्वराज्य संस्थेचे नाव | प्रकल्प किंमत | केंद्र शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ३३.३३% ) | राज्य शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ३६.६७%) | नागरी स्थानिक स्वराज्य संस्थेचा हिस्सा (प्रकल्प किंमतीच्या ३०% ) |
+| १ | २ | ३ | ४ | ५ |
+| उल्हासनगर महानगरपालिका | १२६.५८ | ४२.१९ | ४६.४२ | ३७.९७ |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०२. उल्हासनगर महानगरपालिकेच्या पाणीपुरवठा प्रकल्पातील घटक व त्यांचे अंदाजित किंमतीचे
 विवरण पुढीलप्रमाणे आहे.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+| SR. NO. | PARTICULAR OF SUB WORK | COST |
+| 1 | Providing, lowering, laying and jointing Existing 1550mm OD MS Pure Water Transmission main for New MBR to ICE Factory Length 800 m | 52347000 |
+| 2 | Construction of RCC ESR of 2.0 ML at Vithal wadi, 1.25 ML Out side Sub Dn Camp 5, 1.55 ML Sub Dn Compound Camp 5 and 2.75 ML Patel Nagar ESR | 78424330 |
+| 3 | Dismantling of Existing 1.25 ML, 1.35 ML & 2.75 ML Capacity ESR at Ulhasnagar | 11967533 |
+| 4 | Providing, laying and jointing 300 mm to 100 mm dia D I K-7. Pipe line for Distribution system in Ulhasnagar North side . | 245977600 |
+| 5 | Providing, laying and jointing 300mm to 100mm dia D I K-7. Pipe line for Distribution system in Ulhasnagar South side | 267660000 |
+|  | Utility Shifting During Execution of Work | 1433970 |
+| 7 | Carring out Consumer survey of all properties in Ulhasnagar City (Properties 157300) | 15572700 |
+| 8 | Providing Domestic Water meter to Consumers property in Ulhasnagar 93600 Nos. | 187021900 |
+| 9 | Providing and Making 15 mm Diam House Connection 41600 Nos. | 119628600 |
+| 10 | Carring out water Audit of all Transmission and Distribution System in Ulhasnagar North and South area | 19085850 |
+| 11 | Providing & Installing Ultrasonic flow meter to every Inlet of all Service Reservoir ( 24 Nos.) | 15146000 |
+| 12 | Repairing and Replacement of Old Existing Pump Sets as per Energy Audit Report | 49424870 |
+|  | Total Rs. | 1063690353 |
+|  | Add 18% GST | 191464264 |
+|  | Technical Scrutiny Charges 1% | 10636904 |
+|  | Gross Cost in Rs. | 1265791520 |
+|  | Say Rs. | 126.58 Cr. |
+|  | प्रकल्प पूर्ण करण्याचा कालावधी | कार्यादेश दिनांका पासून १८ महिने |
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ५ पैकी २
 # Page 3
 शासन निर्णय क्रमांक अमृत-२०२३/प्र.क्र.५०/नवि-३३

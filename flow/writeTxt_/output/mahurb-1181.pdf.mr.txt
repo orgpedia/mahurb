@@ -27,10 +27,64 @@
 जीवन प्राधिकरण, पुणे विभाग यांनी दिनांक ०८ जुलै, २०२१ रोजीच्या पत्रान्वये दिलेल्या तांत्रिक मान्यतेच्या अधीन
 राहून खालील विवरणपत्रात नमूद केल्यानुसार या शासन निर्णयाद्वारे मंजूरी देण्यात येत आहे. या प्रकल्पातील
 उपांगे व त्यांचे किंमतीचे विवरण पुढीलप्रमाणे आहे :
+-----------------------------------------------------------------------------------------
+| Sr. No. | Particulars | Amount (In Rs. ) |
+| 1 | Working Survey | 4000000 |
+| 2 | Canal Intake Works @ |  |
+|  | 1. At Tandulwadi BT | 1423052 |
+|  | 2. At Jalochi BT | 1426440 |
+| 3 | RCC Balancing Tank |  |
+|  | 1. Tandulwadi 190 ML | 284576184 |
+|  | 2. Jalochi 178 ML | 246257474 |
+| 4 | Raw Water Pumping Machinery |  |
+|  | 1. Tandulwadi BT Cap 190 ML to 355 BT & 6.5 + 7 + 5 (N) MLD WTP - 100 HP | 8791827 |
+|  | 2. Jalochi BT Cap 178 ML to 222 BT & 10 MLD WTP - 40 HP | 7522884 |
+| 5 | Raw Water Rising Mains 450mm Dia | 17692904 |
+|  | 1. From Proposed Tandulwadi BT to 7/6.5/5 MLD WTP & Existing 355 ML BT |  |
+|  | 2. From Proposed Jalochi BT to 10 MLD WTP & Existing 222 ML BT |  |
+| 6 | Water Treatment Plant Unconventional Cap - 5.00 MLD | 17024820 |
+| 7 | Pure Water Pumping Machinery |  |
+|  | 1. WTP of 7, 6.5 MLD to Jamdar / Phaltan Road - 100HP | 4972909 |
+|  | 2. 10 MLD to Market Yard - 15 HP | 653879 |
+| 8 | Pure Water Rising Mains | 28279019 |
+|  | WTP to Jamdar Tank Branch Point = 300mm DI K9, Length-2625 M (Proposed) |  |
+|  | Jamdar Tank Branch Point to Kasaba Tank Point = 250mm DIK9, Length - 405 M (Proposed) |  |
+|  | Jamdar Tank Branch Point to Jamdar Tank = 200mm DI K9, Length - 2470 M (Proposed) |  |
+|  | Kasaba Tank Branch Point to Kasaba Tank = 200mm DI K9, Length 50M (Existing) |  |
+|  | Kasaba Tank Branch Point to Phaltan Tank = 250mm DI K9, Length - 1100 M (Proposed) |  |
+|  | 10 MLD WTP to Market Yard = 200mm DI K9, Length - 2400M (Proposed) |  |
+| 9 | RCC ESRS | 18491966 |
+| 1  |  | At Jamdar Raod Cap 5.60 LL |  |
+| 2  |  | At Phaltan Road Cap7.20 LL |  |
+| 3  |  | At Market Yard Cap 4.75 LL |  |
+| 10 | Distribution System 110 to 250mm HDPE & 250 to 350mm DIK-7 | 373961448 |
+| 11 | Road Reinstating Surface | 101352974 |
+| 12 | Shifting of Connection on new lines to be replaced by new pipe lines | 24607926 |
+-----------------------------------------------------------------------------------------
 पृष्ठ ८ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः नगरो-२०२१/प्र.क्र.१०५/नवि-३३
+--------------------------------------------------------------------------------------
+| 13 | Automation | 14105291 |
+| 14 | Flow Meters | 6939830 |
+| 15 | Irrigation Charges | 700000 |
+| 16 | Electrical Connection Upgrade Charges | 15873900 |
+| 17 | Misc. Works | 19026747 |
+| 18 | Remedial Measures for Leakage Removal of Existing 128 MI BT & 222 MI BT | 128421844 |
+| 19 | Trial Run & Operation and Maintenance Charges for 1 Year | 385232 |
+| 20 | Solar Net Metering Floating System on all balancing tank | 75780016 |
+|  | Total Cost of Project | 1402268566 |
+|  | Add 12% GST on Above Cost | 168272228 |
+|  | Total Net Cost of Scheme | 1570540794 |
+|  | Say Rs. | 157.05 Cr. |
+|  | प्रकल्प पूर्ण करण्याचा कालावधी | कार्यादेश दिनांका पासून २४ महिने |
+--------------------------------------------------------------------------------------
 ०२. बारामती नगरपरिषदेचा पाणी पुरवठा (टप्पा-२) प्रकल्प वित्तीय आकृतिबंध पुढीलप्रमाणे राहील:
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| अ. क्र. | नागरी स्थानिक स्वराज्य संस्थेचे नाव | योजनेची मंजूर किंमत | राज्य शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ७५%) | नागरी स्थानिक स्वराज्य संस्थेचा सहभाग (प्रकल्प किंमतीच्या २५%) |
+| १ | २ | ३ | ४ | ५ |
+| १ | बारामती नगरपरिषद | रु.१५७.०५ कोटी | रु.११७.७९ कोटी | रु.३९.२६ कोटी |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०३. संदर्भाधीन क्रमांक १ येथील शासन निर्णयानुसार बारामती नगरपरिषदेच्या पाणी पुरवठा (टप्पा-२) प्रकल्पास खालील अटींच्या अधीन राहून प्रशासकीय मंजूरी देण्यात येत आहे:
 अ) प्रकल्प कार्यान्वयन यंत्रणा :
 १. बारामती नगरपरिषदेच्या विनंतीनुसार सदर प्रकल्पाचे कार्यान्वयन महाराष्ट्र जीवन प्राधिकरणामार्फत

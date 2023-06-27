@@ -19,8 +19,42 @@
 नमूद केल्यानुसार या शासन निर्णयाद्वारे प्रशासकीय मान्यता देण्यात येत आहे. सदर प्रकल्पाच्या
 वित्तीय आकृतिबंध पुढीलप्रमाणे : :
 (रु. कोटीमध्ये)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| नागरी स्थानिक स्वराज्य संस्थेचे नाव | प्रकल्प किंमत | केंद्र शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ३३.३३% ) | राज्य शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ३६.६७%) | नागरी स्थानिक स्वराज्य संस्थेचा हिस्सा (प्रकल्प किंमतीच्या ३०%) |
+| १ | २ | ३ | ४ | ५ |
+| मालेगांव महानगरपालिका | ४९९.०६ | १६६.३४ | १८३.०१ | १४९.७१ |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०२. मालेगांव महानगरपालिकेच्या मलनि:स्सारण (टप्पा-२) प्रकल्पातील घटक व त्यांचे अंदाजित
 किंमतीचे विवरण पुढीलप्रमाणे आहे.
+---------------------------------------------------------------------------------
+| Sr. No. | Description | Estimated Cost Rs. |
+| A | EAST ZONE |  |
+| 1 | Collection and Conveyance Network under Zone I (Length- 25.706 Km) | 213412132 |
+| 2 | Collection and Conveyance Network under Zone II (Length-30.122 Km) | 246272475 |
+| 3 | Collection and Conveyance Network under Zone III (Length-16.544 Km) | 147014344 |
+| 4 | Collection and Conveyance Network under Zone IV (Length-60.650 Km) | 463493456 |
+| 5 | Collection and Conveyance Network under Zone Va (Length-99.208 Km) | 796262760 |
+| 6 | Collection and Conveyance Network under Zone Vb (Length-65.873 Km) | 699824694 |
+|  | TOTAL EAST ZONE (A Part ) | 2566279861 |
+| B | WEST ZONE |  |
+| 1 | Collection and Conveyance Network under Zone I (Length-14.905 Km) | 128385651 |
+| 2 | Collection and Conveyance Network under Zone II (Length-21.557 Km) | 193327850 |
+| 3 | Collection and Conveyance Network under Zone III (Length-3.988 Km) | 42652211 |
+| 4 | Collection and Conveyance Network under Zone IV (Length-99.081 Km) | 872950662 |
+| 5 | Collection and Conveyance Network under Zone Va (Length-15.94 Km) | 160197850 |
+| 6 | Collection and Conveyance Network under Zone Vb (Length-9.01 Km) | 85873763 |
+|  | TOTAL WEST ZONE (B Part ) | 1483387987 |
+|  | EAST ZONE AND WEST ZONE (A+B) | 5970377048 |
+| C | STP ( 21.50 MLD) MMBR Technology | 141769281 |
+|  | Net Cost in Rs Lakh (C+D) | 4191437129 |
+|  | GST 18% | 754458683 |
+|  | Add 1% for T.S. Charges | 41914371 |
+|  | Add 1% for Labour insurance on MD Amount | 2773781 |
+|  | Net Cost in Rs Lakh (C+D) | 4990583964 |
+|  | Net cost Rs. | 4990583964 |
+|  | SAY RS | 499.06 CR |
+|  | प्रकल्प पूर्ण करण्याचा कालावधी  |  | कार्यादेश दिनांका पासून २४ महिने |
+---------------------------------------------------------------------------------
 पृष्ठ५पैकी२
 # Page 3
 शासन निर्णय क्रमांक अमृत-२०२३/प्र.क्र.९१/नवि-३३

@@ -20,8 +20,35 @@
 नमूद केल्यानुसार या शासन निर्णयाद्वारे प्रशासकीय मान्यता देण्यात येत आहे. सदर प्रकल्पाच्या
 वित्तीय आकृतिबंध पुढीलप्रमाणे :
 (किंमत रु. कोटी)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| नागरी स्थानिक स्वराज्य संस्थेचे नाव व वर्ग | प्रकल्प मंजूर किंमत | केंद्र शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ५०%) | राज्य शासनामार्फत अनुज्ञेय अनुदान ( प्रकल्प किंमतीच्या ४५% ) | नागरी स्थानिक स्वराज्य संस्थेचा हिस्सा (प्रकल्प किंमतीच्या ०५% ) |
+| १ | २ | ३ | ४ | ५ |
+| नागभीड नगरपरिषद | १.६१ | ०.८१ | ०.७२ | ०.०८ |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०२. नागभीड नगरपरिषदेच्या पाणीपुरवठा प्रकल्पातील घटक व त्यांचे अंदाजित किंमतीचे विवरण
 पुढीलप्रमाणे आहे.
+--------------------------------------------------------------------------------------------
+| Sr. No. | Name of Item | Amount in Rs. |
+| 1 | Excavation for foundation / pipe trenches in earth soils | 1368160 |
+| 2 | Excavation for foundation / pipe trenches in hard murum and boulders | 278515 |
+| 3 | Excavation for foundation / pipe trenches in soft rock and old cement | 624748 |
+| 4 | Excavation for foundation / pipe trenches in hard rock & Concrete | 1666178 |
+|  | Providing and supplying in standard lengths polythelene pipes | 5683144 |
+|  | Providing double flange sluice valve | 66423 |
+|  | Lowering Laying and jointing H.D.P.E./M.D.P.E. pipes | 1039805 |
+|  | Lowering laying and jointing in position following C.I.D/F Reflex valves | 20341 |
+|  | Providing & fixing CI Road boxes | 12415 |
+|  | Refilling the trenches with available excavated stuff with soft material | 1008150 |
+|  | Providing & supply of electro Fusion Fittings | 607712 |
+|  | Providing and constructing B.B. masonry valve chambe | 14484 |
+|  | Hydraulic testing of H.D.P.E/M.D.P.E. pipe line | 110570 |
+|  | Provision to be paid to PWD for laying of pipe along the road and across the road | 1029875 |
+|  | Total Amount | 13530520 |
+|  | Add 18% GST | 2435494 |
+|  | Add 1% T.S. | 135305 |
+|  | GROSS Cost Rs. | 16101319 |
+|  | Say Rs. | 1.61 Cr. |
+--------------------------------------------------------------------------------------------
 पृष्ठ ६ पैकी २
 # Page 3
 शासन निर्णय क्रमांक : अमृत-२०२२/प्र.क्र.३२०/नवि-३३

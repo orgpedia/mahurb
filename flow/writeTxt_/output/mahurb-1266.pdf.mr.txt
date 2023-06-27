@@ -25,10 +25,68 @@
 पुणे विभाग यांनी दिनांक ०८ डिसेंबर, २०२१ रोजीच्या पत्रान्वये दिलेल्या सुधारीत तांत्रिक मान्यतेच्या अधीन राहून
 खालील विवरणपत्रात नमूद केल्यानुसार या शासन निर्णयाद्वारे मंजूरी देण्यात येत आहे. या प्रकल्पातील उपांगे व
 त्यांचे किंमतीचे विवरण पुढीलप्रमाणे आहे :
+-------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Particulars | Amount (In Rs.) |
+| A | Working Survey | 1597100 |
+| 1 | Intake Well, Dia – 3.0m, Depth 9.00m | 845260 |
+| 2 | Connecting Main From Intake well to inspection well, Jack well Dia = 500mm DI K-7, L = 40.5 Mt. | 1316460 |
+| 3 | Inspection well Dia = 3.0m, Depth - 8.85m 1 Nos | 899600 |
+| 4 | Jack well and Pump house Dia of jack well = 8.0m, Depth = 14.41m, Dia of pump house=8.0m, Height of pump house=5.0m | 9179850 |
+| 5 | Approach bridge for jack well width=3.0m length = 88.0m | 8213290 |
+| 6 | Raw Water Pumping Machinery Q 51 Ips, Head 74.0 m, HP = 75, 3 Nos, working 2 + 1 No Stand by | 6549884 |
+| 7 | Raw Water Rising Main DI K-9 Dia = 400mm Length = 8110 Rmt | 66179380 |
+| 8 | Water Treat Plant 8.0 MLD | 30532200 |
+| 9 | Pure Water Pumping Machinery |  |
+| 9.1  |  | Pure Water Pumping Machinery for MBR 96 LPS, Head-32 Mt, HP 60 VT (1W + 1S) | 4626627 |
+| 9.2  |  | Booster Pump for Andhali ESR 12.5 HP Submersible | 246897 |
+| 10  |  | Pure Water Rising Mains DIK-9 |  |
+| 10.1 | Pure Water Rising Main from WTP to proposed MBR 400 mm dia K-9, L=50 Rmt | 420850 |
+| 11 | MBR Capacity of 3,80,000 Lit. | 9818700 |
+| 12 | Pure Water Leading Mains from MBR to ESR's |  |
+| 12.1 | Leading Main from MBR to Existing Palus colony ESR and Existing Gaonbhag ESR | 9909650 |
+| 12.2  |  | Leading Main form MBR to Existing Buddha Wasti ESR & proposed Malvadi ESR | 6765650 |
+| 12.3  |  | Leading Main from J6 to proposed Adarsh Park ESR | 4784650 |
+| 12.4  |  | Leading Main from NODE J10 to proposed Ganjkhana and Gondilwadi ESR | 6469010 |
+| 12.5 | Leading Main from MBR to proposed Andhali Road ESR and Existing Bharati Vidhyapeeth ESR | 6683170 |
+| 13 | Service Reservoirs |  |
+| 13.1  |  | Proposed Andhali Road ESR Cap 2.70 Lakh lit Stg Ht 25m | 4717170 |
+| 13.2  |  | Proposed Malvadi ESR Cap 2.60 lakh lit Stg Ht 25m | 5224110 |
+| 13.3  |  | Proposed Adarsh Park ESR Cap 2.70 Lakh lit Stg Ht 17m | 4079520 |
+| 13.4  |  | Proposed Ganji-Khana ESR Cap 1.80 Lakh lit Stg Ht 16m | 3111300 |
+| 13.5  |  | Proposed Gondil-Wadi ESR Cap 1.50 Lakh lit Stg Ht 17m | 2782860 |
+| 13.6  |  | Proposed Sump at Andhali Road ESR Cap 42000 lit | 648470 |
+| 14 | Distribution System HDPE Pipe Total Length 84463 M |  |
+| 14.1 | Zone No. 1 Dia 110 to 280mm Total Length 3371 Rmt | 3842970 |
+| 14.2  |  | Zone No. 2 Dia 110 to 280 mm Total Length 17826 Rmt | 17145530 |
+| 14.3  |  | Zone No. 3 Dia 110 to 280 mm Total Length 2236 Rmt | 2388060 |
+| 14.4 | Zone No. 4 Dia 110 to 280mm Total Length 13528 Rmt | 15399090 |
+| 14.5  |  | Zone No. 5 Dia 110 to 280mm Total Length 9584 Rmt | 11223330 |
+| 14.6  |  | Zone No. 6 Dia 110 to 280mm Total Length 7610 Rmt | 8073050 |
+| 14.7  |  | Zone No. 7 Dia 110 to 280 mm Total Length 12779 Rmt | 11788140 |
+| 14.8  |  | Zone No. 8 Dia 110 to 280mm Total Length 8480Rmt | 9838450 |
+-------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ८ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः नगरो-२०२०/प्र.क्र.२५८/नवि-३३
+-------------------------------------------------------------------
+| 14.9  |  | Zone No. 9 Dia 110 to 280 mm Total Length 9249 Rmt | 9922940 |
+| 15 | Miscellaneous Works |  |
+| 15.1  |  | Bulk flow meters | 3809005 |
+| 15.2  |  | Fencing and Electric Charges | 16138560 |
+| 15.3  |  | SCADA | 6754002 |
+| 16 | Road Reinstating | 22761960 |
+|  | Total Cost of Project | 334686745 |
+|  | Add 12% GST on Total Cost | 40162409 |
+|  | Total Net Cost of Scheme | 374849154 |
+|  | Say Rs. | 37.48Cr. |
+|  | प्रकल्प पूर्ण करण्याचा कालावधी | कार्यादेश दिनांका पासून २४ महिने |
+-------------------------------------------------------------------
 ०२. पलूस नगरपरिषदेचा पाणी पुरवठा प्रकल्प वित्तीय आकृतिबंध पुढीलप्रमाणे राहील:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| अ. क्र. | नागरी स्थानिक स्वराज्य संस्थेचे नाव | योजनेची मंजूर किंमत | राज्य शासनामार्फत अनुज्ञेय अनुदान (प्रकल्प किंमतीच्या ९०%) | नागरी स्थानिक स्वराज्य संस्थेचा सहभाग (प्रकल्प किंमतीच्या १०% ) |
+| १ | २ | ३ | ४ | ५ |
+| १ | पलूस नगरपरिषद | रु.३७.४८ कोटी | रु.३३.७३२ कोटी | रु.३.७४८ कोटी |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०३. संदर्भाधीन क्रमांक १ येथील शासन निर्णयानुसार पलूस नगरपरिषदेच्या पाणी पुरवठा प्रकल्पास खालील अटींच्या अधीन राहून प्रशासकीय मंजूरी देण्यात येत आहे:
 अ) प्रकल्प कार्यान्वयन यंत्रणा :
 १. पलूस नगरपरिषदेच्या विनंतीनुसार सदर प्रकल्पाचे कार्यान्वयन पलूस नगरपरिषदेमार्फत करण्यात यावे.
