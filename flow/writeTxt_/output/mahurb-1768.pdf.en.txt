@@ -28,7 +28,6 @@ According to the policy, in the first phase, the existing wastewater should be t
 These include a sewage treatment plant, a sewage treatment plant, a water supply station and a sewage treatment plant. Along with that
 Arrangements should also be made to collect waste water in some of the different wards of the city. For the rest of the ward, the sewage from the Trunk Main should be collected in a drain and the drain should be blocked near the Sewage Treatment Plant (STP) and the sewage should be taken to the Sewage Treatment Plant at that place and treated. In the second phase, a sewerage system should be constructed and connected to the sewage treatment system created in the first phase. This phase will include the second phase.
 The policy has been approved by the state government. Accordingly, in a phase-wise implementation, the first phase of the sewerage project of the Pavani Municipal Council is being given administrative approval through this Government Decision as mentioned in the following prospectus. Details of the project and its cost are as follows:
-| Sr. No. Name of Sub Work Cost In Rs.
 ----------------------------------------------------------------------------------------------------------
 | Sr. No. | Name of Sub Work | Cost In Rs.                                                   |
 | 1       | Working Survey   | 547982                                                        |
@@ -39,7 +38,6 @@ The policy has been approved by the state government. Accordingly, in a phase-wi
 Page 2 of 9
 # Page 3
 Government Resolution No: NAGARO-2023/ PR No.66/ NAVI-33
-|Sr. No. Name of Sub Work Cost In Rs.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | Sr. No.                                                                             | Name of Sub Work                                                                         | Cost In Rs.                                                                       |
 | 5                                                                                   |                                                                                          | Manhole Pumping Station 1 near 04 (near Junction of Gosikhurd RBC & Nagbhir Road) | 6583903   |
